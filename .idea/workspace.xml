@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47e35461-fe54-447b-b536-df70096ba133" name="Default" comment="" />
+    <ignored path="php.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="php" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_05_btb_sandbox/class_example5.php" />
+        <option value="$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_06_btb_sandbox/access_modifiers.php" />
+        <option value="$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_08_btb_sandbox/parent.php" />
+        <option value="$PROJECT_DIR$/vk-api-standart/likes.php" />
+        <option value="$PROJECT_DIR$/vk-api-standart/repost.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="Unnamed" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="64" />
+    <option name="y" value="-4" />
+    <option name="width" value="1857" />
+    <option name="height" value="1085" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../autoteh1.com" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="recentsLimit" value="5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.repost.php">
+    <configuration default="false" name="repost.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/vk-api-standart/repost.php">
+      <RunnerSettings RunnerId="PhpScriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpScriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.repost.php" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.repost.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47e35461-fe54-447b-b536-df70096ba133" name="Default" comment="" />
+      <created>1400916758746</created>
+      <updated>1400916758746</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="-4" width="1857" height="1085" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.09757412" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3299595" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39979756" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_09_btb_sandbox-final/comparison.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="24" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="600" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/Chapter 04/04_01/my_phpinfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="20" selection-end="20" vertical-scroll-proportion="0.016008537" vertical-offset="0" max-vertical-offset="937" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter03/03_03_btb_sandbox/class_example.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="345" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter03/03_04_btb_sandbox/class_example2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="961" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_05_btb_sandbox/class_example3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="35" selection-start="180" selection-end="180" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="420" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_05_btb_sandbox/class_example4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="5" selection-start="116" selection-end="116" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="315" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_05_btb_sandbox/class_example5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="282" selection-end="282" vertical-scroll-proportion="0.27214515" vertical-offset="0" max-vertical-offset="937" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_05_btb_sandbox/inheritance.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="1" selection-start="125" selection-end="125" vertical-scroll-proportion="0.14407684" vertical-offset="0" max-vertical-offset="937" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_06_btb_sandbox/access_modifiers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="2" selection-start="810" selection-end="810" vertical-scroll-proportion="-24.375" vertical-offset="0" max-vertical-offset="720" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_06_btb_sandbox/access_modifiers2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="22" selection-start="187" selection-end="187" vertical-scroll-proportion="0.17609392" vertical-offset="0" max-vertical-offset="937" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_07_btb_sandbox/static_modifier.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="3" selection-start="254" selection-end="254" vertical-scroll-proportion="0.17609392" vertical-offset="0" max-vertical-offset="937" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_08_btb_sandbox/variable_scope.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="961" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_08_btb_sandbox/variable_variables.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="937" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_08_btb_sandbox/static_modifier.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="630" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_08_btb_sandbox/constructors.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="38" selection-start="108" selection-end="108" vertical-scroll-proportion="0.09605123" vertical-offset="0" max-vertical-offset="937" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_08_btb_sandbox/parent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="4" selection-start="412" selection-end="412" vertical-scroll-proportion="0.38420492" vertical-offset="0" max-vertical-offset="937" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_09_btb_sandbox/cloning.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="2" selection-start="419" selection-end="419" vertical-scroll-proportion="0.41622198" vertical-offset="0" max-vertical-offset="937" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_09_btb_sandbox-final/comparison.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="24" selection-start="108" selection-end="108" vertical-scroll-proportion="0.112059765" vertical-offset="0" max-vertical-offset="937" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_03_btb_sandbox/class_example.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="961" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_03_btb_sandbox/class_example2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="961" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_03_btb_sandbox/class_example3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="961" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_03_btb_sandbox/class_example4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="961" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vk-api-standart/repost.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="21" selection-start="1459" selection-end="1459" vertical-scroll-proportion="0.17582418" vertical-offset="470" max-vertical-offset="1425" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_03_btb_sandbox/class_example5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="4" selection-start="23" selection-end="23" vertical-scroll-proportion="0.048025616" vertical-offset="0" max-vertical-offset="937" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vk-api-standart/likes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="153" column="20" selection-start="5876" selection-end="5876" vertical-scroll-proportion="0.28708646" vertical-offset="2026" max-vertical-offset="3645" />
+      </provider>
+    </entry>
+  </component>
+</project>
+
