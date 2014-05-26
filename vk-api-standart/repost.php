@@ -43,7 +43,7 @@ class repost
 
     private function getUsers($owner_id, $post_id, $filter, $offset = 0, $onlyCount = false, $start = true) {
         //формируем URL со всеми параметрами
-l        $url = $this->url.'likes.getList?type=post&friends_only=0&offset='.$offset.'&count='.$this->count.'&owner_id='.$owner_id.'&item_id='.$post_id.'&filter='.$filter;
+        $url = $this->url.'likes.getList?type=post&friends_only=0&offset='.$offset.'&count='.$this->count.'&owner_id='.$owner_id.'&item_id='.$post_id.'&filter='.$filter;
 
         //получаем результат запроса в JSON-фомате
         $json = file_get_contents($url);
