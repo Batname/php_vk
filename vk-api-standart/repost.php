@@ -20,6 +20,7 @@ class repost
         $this->group_id = $group_id;
     }
 
+
     //Сообщение о действиях
     private function printProgress($text, $start = true, $error = false) {
         if ($error) $color = 'red';
@@ -39,6 +40,43 @@ class repost
     * $onlyCount - вернуть только количество репостов
      * $start - используется для рекурсии
      */
+
+    private function getUsers($owner_id, $post_id, $filter, $offset = 0, $onlyCount = false, $start = true) {
+        //формируем URL со всеми параметрами
+l        $url = $this->url.'likes.getList?type=post&friends_only=0&offset='.$offset.'&count='.$this->count.'&owner_id='.$owner_id.'&item_id='.$post_id.'&filter='.$filter;
+
+        //получаем результат запроса в JSON-фомате
+        $json = file_get_contents($url);
+        //преобразуем JSON в ассоциативный массив
+        $data = json_decode($json, true);
+
+        //если ответ, не содержит нужных данных
+        if (!isset($data['response'])) return false;
+
+        $response = $data['response'];
+        $count = $response['count']; //Получаем количество пользователей
+
+        //Понадобится, когда нужно будем определить ТОЛЬКО количество репостов у пользователя
+        if ($onlyCount) {
+            $this->countReposts = $count;
+            return true;
+        }
+
+        //Далее рекурсивно будет получать пользователей до тех пор, пока не считаем все. При этом сдвигаем offset.
+       print_r($users = $response['users']) ;
+
+        if (count($users) == 0) return false;
+
+        if ($start) {
+            $this->users = $users;
+        } else {
+            $this->users = array_merge($this->users, $users);
+        }
+
+        $offset += $this->count;
+
+        $this->getUsers( $post_id, $filter, $offset, $onlyCount, false);
+    }
 
     private function getMembers($group_id, $user_id) {
 
@@ -66,6 +104,12 @@ class repost
             echo $this->getMembers($this->group_id, $i);
 
         }
+        $this->getUsers($this->owner_id, $this->post_id, 'copies');
+        $copies = $this->users;
+        $this->users = $copies;
+        $this->printProgress('<b>Уникальных ID пользователей для получения их информации: '.count($this->users).'</b>');
+
+
     }
 
 
