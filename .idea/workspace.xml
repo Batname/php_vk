@@ -22,14 +22,19 @@
     <favorites_list name="php" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
+    <splitter split-orientation="horizontal" split-proportion="0.5175202">
       <split-first>
         <leaf>
           <file leaf-file-name="repost.php" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/vk-api-standart/repost.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="62" column="9" selection-start="2361" selection-end="2361" vertical-scroll-proportion="0.65686274" vertical-offset="528" max-vertical-offset="2115">
-                  <folding />
+                <state line="17" column="54" selection-start="669" selection-end="677" vertical-scroll-proportion="0.49804688" vertical-offset="0" max-vertical-offset="2040">
+                  <folding>
+                    <element signature="n#getUsers#0;n#repost#0;n#!!top" expanded="false" />
+                    <element signature="n#remakeUsersArray#0;n#repost#0;n#!!top" expanded="false" />
+                    <element signature="n#getUsersInfo#0;n#repost#0;n#!!top" expanded="false" />
+                    <element signature="n#getUsersPosts#0;n#repost#0;n#!!top" expanded="false" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -41,7 +46,7 @@
           <file leaf-file-name="likes.php" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/vk-api-standart/likes.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="19" column="0" selection-start="665" selection-end="982" vertical-scroll-proportion="0.30769232" vertical-offset="105" max-vertical-offset="3645">
+                <state line="38" column="91" selection-start="1427" selection-end="1442" vertical-scroll-proportion="0.33203125" vertical-offset="400" max-vertical-offset="3660">
                   <folding />
                 </state>
               </provider>
@@ -69,10 +74,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="Unnamed" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
-    <option name="y" value="24" />
-    <option name="width" value="1301" />
-    <option name="height" value="744" />
+    <option name="x" value="64" />
+    <option name="y" value="-4" />
+    <option name="width" value="1857" />
+    <option name="height" value="1085" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -148,11 +153,16 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.repost.php">
+  <component name="RunManager" selected="PHP Script.likes.php">
     <configuration default="false" name="repost.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/vk-api-standart/repost.php">
       <RunnerSettings RunnerId="PhpRunner" />
       <RunnerSettings RunnerId="PhpScriptDebugRunner" />
       <ConfigurationWrapper RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpScriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="likes.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/vk-api-standart/likes.php">
+      <RunnerSettings RunnerId="PhpScriptDebugRunner" />
       <ConfigurationWrapper RunnerId="PhpScriptDebugRunner" />
       <method />
     </configuration>
@@ -169,12 +179,14 @@
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="PHP Script.repost.php" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Script.likes.php" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="PHP Script.repost.php" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.likes.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.repost.php" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +200,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
+    <frame x="64" y="-4" width="1857" height="1085" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -199,10 +211,10 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32988167" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16986933" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16981132" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39979756" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.38967612" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -250,10 +262,29 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="7" />
+      <option name="time" value="64" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vk-api-standart/repost.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="9" selection-start="2361" selection-end="2361" vertical-scroll-proportion="0.0" vertical-offset="528" max-vertical-offset="2115">
+          <folding>
+            <element signature="n#getUsers#0;n#repost#0;n#!!top" expanded="false" />
+            <element signature="n#remakeUsersArray#0;n#repost#0;n#!!top" expanded="false" />
+            <element signature="n#getUsersInfo#0;n#repost#0;n#!!top" expanded="false" />
+            <element signature="n#getUsersPosts#0;n#repost#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vk-api-standart/likes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="665" selection-end="982" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="3645">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_09_btb_sandbox-final/comparison.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="24" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="600" />
@@ -371,15 +402,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vk-api-standart/likes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="665" selection-end="982" vertical-scroll-proportion="0.30769232" vertical-offset="105" max-vertical-offset="3645">
+        <state line="38" column="91" selection-start="1427" selection-end="1442" vertical-scroll-proportion="0.33203125" vertical-offset="400" max-vertical-offset="3660">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vk-api-standart/repost.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="9" selection-start="2361" selection-end="2361" vertical-scroll-proportion="0.65686274" vertical-offset="528" max-vertical-offset="2115">
-          <folding />
+        <state line="17" column="54" selection-start="669" selection-end="677" vertical-scroll-proportion="0.49804688" vertical-offset="0" max-vertical-offset="2040">
+          <folding>
+            <element signature="n#getUsers#0;n#repost#0;n#!!top" expanded="false" />
+            <element signature="n#remakeUsersArray#0;n#repost#0;n#!!top" expanded="false" />
+            <element signature="n#getUsersInfo#0;n#repost#0;n#!!top" expanded="false" />
+            <element signature="n#getUsersPosts#0;n#repost#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

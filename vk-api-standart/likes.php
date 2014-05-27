@@ -144,7 +144,7 @@ class VKLIKES {
             if (!is_array($news)) continue;
 
             /* copy_owner_id - ID моей страницы или группы
-             * copy_owner_id - ID моего поста
+             * copy_post_id - ID моего поста
              */
             if (isset($news['copy_owner_id'], $news['copy_post_id']) and $news['copy_owner_id'] == $this->owner_id and $news['copy_post_id'] == $this->post_id) {
                 $this->users[$news['from_id']]['repost_id'] = $news['id'];
@@ -190,6 +190,7 @@ class VKLIKES {
         $this->printProgress('Массив успешно сформирован', false);
 
         $this->printProgress('Начинаем искать репосты у пользователей...');
+
         $k = 1;
 
         foreach ($this->users as $id => $data) {
