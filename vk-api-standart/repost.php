@@ -15,7 +15,7 @@ class repost
     private $findPost; //ID найденного репоста в пользовательских новостях
     private $find; //Флаг найден/не найден репост у пользователя
 
-    public function __construct($owner_id = '-67280997', $post_id = '2', $group_id = '67280997') {
+    public function __construct($owner_id = '-67280997', $post_id = '3', $group_id = '67280997') {
         $this->owner_id = $owner_id;
         $this->post_id = $post_id;
         $this->group_id = $group_id;
@@ -87,6 +87,12 @@ class repost
 
         $this->getUsers( $post_id, $filter, $offset, $onlyCount, false);
 
+        // Тест перепостов
+        echo "Тест перепостов ";
+        print_r($users);
+        echo "<br>";
+
+
     }
 
     private function getMembers($group_id, $user_id, $start = true) {
@@ -121,12 +127,17 @@ class repost
         // Возврат в Массив
         $member_to_array = (explode(',',$member_to_string));
 
-        print_r($member_to_array);
 
         // Назнечение глобальной переменной
         if ($start) {
             $this->memberusers = $member_to_array;
         }
+
+        // Тест учасников
+        echo "Тест учасников ";
+        print_r($member_to_array);
+        echo "<br>";
+
 
     }
 
@@ -138,12 +149,14 @@ class repost
         }
 
         return $new;
+
+
     }
 
     /* Получить информацию о пользователях
     * $vkIDs - массив с ID пользователей
     */
-    public function getUsersInfo($vkIDs) {
+    private function getUsersInfo($vkIDs) {
 
         //$count = 1000;
 
@@ -202,8 +215,11 @@ class repost
             return false;
         }
 
+        // Массив с новостями
         $response = $data['response'];
-        $this->printProgress('Поиск нашего репоста среди '.($count + $offset).' новостей..');
+
+
+        //$this->printProgress('Поиск нашего репоста среди '.($count + $offset).' новостей..');
 
         //Обрабатываем $count новостей
         foreach ($response as $news) {
@@ -212,10 +228,13 @@ class repost
             /* copy_owner_id - ID моей страницы или группы
              * copy_owner_id - ID моего поста
              */
-            if (isset($news['copy_owner_id'], $news['copy_post_id']) and $news['copy_owner_id'] == $this->owner_id and $news['copy_post_id'] == $this->post_id) {
-                $this->users[$news['from_id']]['repost_id'] = $news['id'];
-                $this->printProgress('<b>Репост успешно найден найден #'.$news['id'].'</b>', false);
+            if (isset($news['copy_owner_id'], $news['copy_post_id']) && $news['copy_owner_id'] == $this->owner_id && $news['copy_post_id'] == $this->post_id) {
+                $this->memberusers[$news['from_id']]['repost_id'] = $news['id'];
+                // Находим новость
+                //echo '<b>Репост успешно найден найден запись #'.$news['id'].'</b>', false;
+                // присвоение глобальной переменной findPost для дальнейшего поиска репостов
                 $this->findPost = $news['id'];
+                // присвоение глобальной переменной find для дальнейшего поиска репостов если есть наша новость
                 $this->find = true;
                 return true;
             }
@@ -230,11 +249,120 @@ class repost
 
     public function findReposts()
     {
-
+         // Получение массива, сделавших репост
         $this->getUsers($this->owner_id, $this->post_id, 'copies');
+        $copies = $this->memberusers;
+        // Получение массива, Поставивших лайк
+        echo "Лайки!";
+        $this->getUsers($this->owner_id, $this->post_id, 'likes');
+
+
+        // Получение массива, сделавших репост и которые учасники группы
         $this->getMembers($this->group_id, $this->users);
 
+        // Массив проверяет наличие лейка и репоста
+        foreach ($this->memberusers as $id) {
+            if (in_array($id, $copies)) continue;
+            $copies[] = $id;
+        }
+
+        // Тест нового массива
+        echo "Тест массива на наличие лейка и репоста к этой записи ";
+        print_r($copies);
+
+
+
+        $this->memberusers = $copies;
         $this->printProgress('<b>Уникальных ID пользователей для получения их информации: '.count($this->memberusers).'</b>');
+        // Получаю информацию о пользовотелях, учасниках группы
+        $usersWithInfo = $this->getUsersInfo($this->memberusers);
+
+
+        // считаю количество пользователей - учасников
+        $this->printProgress('<b>Уникальных ID пользователей с информации: '.count($usersWithInfo).'</b>');
+
+
+        // Изменение ключей
+        $this->memberusers = $this->remakeUsersArray($usersWithInfo);
+
+        $k = 1;
+
+        foreach ($this->memberusers as $id => $data) {
+            $this->getUsersPosts($id);
+
+
+            $userinfo = '<td>'. $k . ')</td>' ;
+            $userinfo .= '<td>'. '<a href="http://vk.com/id'.$id.'">id'.$id.'' . '</td>' ;
+            $userinfo .= '<td>'.$data['last_name'].' '.$data['first_name'].'</td>' ;
+            $userinfo .= '<td>'. '<img src='.$data['photo_medium'].' alt="Title bg"></img>' . '</td>' ;
+
+
+
+
+            // Поиск перепостов
+            if ($this->find) {
+
+                // Теперь используем метод для получения репостов у пользователей, которые репоснули с нашей группы
+                $this->getUsers($id, $this->findPost, 'copies', 0, true);
+
+                $userinfo .= '<td>'.'Id новости #'.$this->findPost.'</td>';
+                $userinfo .= '<td>'.'Количество репостов:'.$this->countReposts.'</td>';
+                $this->memberusers[$id]['count_reposts'] = $this->countReposts;
+
+                echo '<tr>'.$userinfo. '</tr>';
+
+
+
+            }
+           $k++;
+        }
+
+        $i = 1;
+        // проверка сортировки
+        foreach ($this->memberusers as $id => $data) {
+            $this->getUsersPosts($id);
+
+
+            $userinfo = '<td>'. $i . ')</td>' ;
+            $userinfo1 = '<td>'. '<a href="http://vk.com/id'.$id.'">id'.$id.'' . '</td>' ;
+            $userinfo2= '<td>'.$data['last_name'].' '.$data['first_name'].'</td>' ;
+            $userinfo3 = '<td>'. '<img src='.$data['photo_medium'].' alt="Title bg"></img>' . '</td>' ;
+
+
+
+
+            // Поиск перепостов
+            if ($this->find) {
+
+                // Теперь используем метод для получения репостов у пользователей, которые репоснули с нашей группы
+                $this->getUsers($id, $this->findPost, 'copies', 0, true);
+
+                $userinfo4 = '<td>'.'Id новости #'.$this->findPost.'</td>';
+                $userinfo5 = '<td>'.'Количество репостов:'.$this->countReposts.'</td>';
+                $this->memberusers[$id]['count_reposts'] = $this->countReposts;
+
+
+                $userinfomass[] = $userinfo5 . $userinfo . $userinfo1 . $userinfo2 . $userinfo3 . $userinfo4;
+
+            }
+            if (++$i==3) break;
+
+        }
+
+
+
+        rsort($userinfomass); // Sort the array in reverse
+        foreach($userinfomass as $key => $value) {
+            echo '<tr>' .$value. '</tr>';
+        }
+
+
+
+
+
+
+
+
 
 
     }
@@ -247,16 +375,19 @@ class repost
 
 <html>
 <head>
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
     <title>Repost</title>
     <meta charset="UTF-8">
 </head>
 <body>
+<div class="container">
+<table class="table">
+<?php $repost = new repost(); $repost->findReposts() ?>
+</table>
+</div>
 
-<?php
-$repost = new repost();
-$repost->findReposts()
-
-?>
 </body>
 </html>
 
