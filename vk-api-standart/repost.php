@@ -11,6 +11,7 @@ class repost
     private $count = 1000; //По сколько "репостов" и "лайков" доставать
     private $users = array(); //Массив с пользователями
     private $memberusers = array(); //Массив с учасниками группы
+    private $filterusers;  // Массив с подготовленным выводом
     private $countReposts; //Количество репостов у текущего пользователя
     private $findPost; //ID найденного репоста в пользовательских новостях
     private $find; //Флаг найден/не найден репост у пользователя
@@ -243,11 +244,9 @@ class repost
         $offset += $count; //Увеличиваем смещение
         $this->getUsersPosts($owner_id, $offset); //Рекурсия
 
-
-
     }
 
-    public function findReposts()
+    private function findReposts()
     {
          // Получение массива, сделавших репост
         $this->getUsers($this->owner_id, $this->post_id, 'copies');
@@ -255,116 +254,59 @@ class repost
         // Получение массива, Поставивших лайк
         echo "Лайки!";
         $this->getUsers($this->owner_id, $this->post_id, 'likes');
-
-
         // Получение массива, сделавших репост и которые учасники группы
         $this->getMembers($this->group_id, $this->users);
-
         // Массив проверяет наличие лейка и репоста
         foreach ($this->memberusers as $id) {
             if (in_array($id, $copies)) continue;
             $copies[] = $id;
         }
-
         // Тест нового массива
         echo "Тест массива на наличие лейка и репоста к этой записи ";
         print_r($copies);
-
-
 
         $this->memberusers = $copies;
         $this->printProgress('<b>Уникальных ID пользователей для получения их информации: '.count($this->memberusers).'</b>');
         // Получаю информацию о пользовотелях, учасниках группы
         $usersWithInfo = $this->getUsersInfo($this->memberusers);
-
-
         // считаю количество пользователей - учасников
         $this->printProgress('<b>Уникальных ID пользователей с информации: '.count($usersWithInfo).'</b>');
-
-
         // Изменение ключей
         $this->memberusers = $this->remakeUsersArray($usersWithInfo);
-
-        $k = 1;
-
-        foreach ($this->memberusers as $id => $data) {
-            $this->getUsersPosts($id);
-
-
-            $userinfo = '<td>'. $k . ')</td>' ;
-            $userinfo .= '<td>'. '<a href="http://vk.com/id'.$id.'">id'.$id.'' . '</td>' ;
-            $userinfo .= '<td>'.$data['last_name'].' '.$data['first_name'].'</td>' ;
-            $userinfo .= '<td>'. '<img src='.$data['photo_medium'].' alt="Title bg"></img>' . '</td>' ;
-
-
-
-
-            // Поиск перепостов
-            if ($this->find) {
-
-                // Теперь используем метод для получения репостов у пользователей, которые репоснули с нашей группы
-                $this->getUsers($id, $this->findPost, 'copies', 0, true);
-
-                $userinfo .= '<td>'.'Id новости #'.$this->findPost.'</td>';
-                $userinfo .= '<td>'.'Количество репостов:'.$this->countReposts.'</td>';
-                $this->memberusers[$id]['count_reposts'] = $this->countReposts;
-
-                echo '<tr>'.$userinfo. '</tr>';
-
-
-
-            }
-           $k++;
-        }
 
         $i = 1;
         // проверка сортировки
         foreach ($this->memberusers as $id => $data) {
             $this->getUsersPosts($id);
-
-
             $userinfo = '<td>'. $i . ')</td>' ;
             $userinfo1 = '<td>'. '<a href="http://vk.com/id'.$id.'">id'.$id.'' . '</td>' ;
             $userinfo2= '<td>'.$data['last_name'].' '.$data['first_name'].'</td>' ;
             $userinfo3 = '<td>'. '<img src='.$data['photo_medium'].' alt="Title bg"></img>' . '</td>' ;
-
-
-
-
             // Поиск перепостов
             if ($this->find) {
-
                 // Теперь используем метод для получения репостов у пользователей, которые репоснули с нашей группы
                 $this->getUsers($id, $this->findPost, 'copies', 0, true);
-
                 $userinfo4 = '<td>'.'Id новости #'.$this->findPost.'</td>';
                 $userinfo5 = '<td>'.'Количество репостов:'.$this->countReposts.'</td>';
                 $this->memberusers[$id]['count_reposts'] = $this->countReposts;
-
-
+                // Обычный вывод
+                // echo '<tr>'.$userinfo. '</tr>';
                 $userinfomass[] = $userinfo5 . $userinfo . $userinfo1 . $userinfo2 . $userinfo3 . $userinfo4;
-
             }
-            if (++$i==3) break;
-
+            if (++$i==11) break;
         }
+        $this->filterusers = $userinfomass;
+        var_dump($this->filterusers);
+    }
 
-
-
-        rsort($userinfomass); // Sort the array in reverse
-        foreach($userinfomass as $key => $value) {
+    public function outputReposts() {
+        //  вызывваем функцию
+        $this->findReposts();
+        // вывод сортированного массива
+        rsort($this->filterusers); // Sort the array in reverse
+        foreach($this->filterusers as $key => $value) {
             echo '<tr>' .$value. '</tr>';
         }
-
-
-
-
-
-
-
-
-
-
     }
 
 
@@ -384,7 +326,7 @@ class repost
 <body>
 <div class="container">
 <table class="table">
-<?php $repost = new repost(); $repost->findReposts() ?>
+<?php $repost = new repost(); $repost->outputReposts() ?>
 </table>
 </div>
 
