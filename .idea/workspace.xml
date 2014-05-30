@@ -26,13 +26,8 @@
       <file leaf-file-name="repost.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vk-api-standart/repost.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="244" column="60" selection-start="8286" selection-end="8286" vertical-scroll-proportion="0.31163287" vertical-offset="2948" max-vertical-offset="4695">
-              <folding>
-                <element signature="n#getUsersInfo#0;n#repost#0;n#!!top" expanded="false" />
-                <marker date="1401306040830" expanded="true" signature="11267:11595" placeholder="..." />
-                <marker date="1401306040830" expanded="true" signature="11267:11596" placeholder="..." />
-                <marker date="1401306040830" expanded="true" signature="11274:11595" placeholder="..." />
-              </folding>
+            <state line="18" column="74" selection-start="754" selection-end="759" vertical-scroll-proportion="0.35904256" vertical-offset="0" max-vertical-offset="5700">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -50,8 +45,10 @@
         <option value="$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_05_btb_sandbox/class_example5.php" />
         <option value="$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_06_btb_sandbox/access_modifiers.php" />
         <option value="$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_08_btb_sandbox/parent.php" />
-        <option value="$PROJECT_DIR$/vk-api-standart/likes.php" />
         <option value="$PROJECT_DIR$/vk-api-standart/sortscript.js" />
+        <option value="$PROJECT_DIR$/vk-api-standart/likes.php" />
+        <option value="$PROJECT_DIR$/vk-api-standart/testarray1.php" />
+        <option value="$PROJECT_DIR$/vk-api-standart/testarray.php" />
         <option value="$PROJECT_DIR$/vk-api-standart/repost.php" />
       </list>
     </option>
@@ -89,7 +86,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -122,22 +118,105 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php_vk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="basic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php_vk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="basic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter14" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="14_09-final" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php_vk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="basic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter14" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="14_09-final" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sandbox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php_vk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="basic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter14" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../autoteh1.com" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="FullScreen" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="SearchEverywhereHistory" value="'" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vk-api-standart" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.repost.php">
+  <component name="RunManager" selected="PHP Script.testarray1.php">
     <configuration default="false" name="repost.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/vk-api-standart/repost.php">
       <RunnerSettings RunnerId="PhpRunner" />
       <RunnerSettings RunnerId="PhpScriptDebugRunner" />
@@ -146,6 +225,11 @@
       <method />
     </configuration>
     <configuration default="false" name="likes.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/vk-api-standart/likes.php">
+      <RunnerSettings RunnerId="PhpScriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpScriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="testarray1.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/vk-api-standart/testarray1.php">
       <RunnerSettings RunnerId="PhpScriptDebugRunner" />
       <ConfigurationWrapper RunnerId="PhpScriptDebugRunner" />
       <method />
@@ -163,14 +247,16 @@
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="PHP Script.repost.php" />
       <item index="1" class="java.lang.String" itemvalue="PHP Script.likes.php" />
+      <item index="2" class="java.lang.String" itemvalue="PHP Script.testarray1.php" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="PHP Script.repost.php" />
-        <item index="1" class="java.lang.String" itemvalue="PHP Script.likes.php" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.testarray1.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.repost.php" />
+        <item index="2" class="java.lang.String" itemvalue="PHP Script.likes.php" />
       </list>
     </recent_temporary>
   </component>
@@ -187,21 +273,21 @@
     <frame x="64" y="-4" width="1857" height="1085" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.0026954177" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28846154" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2813765" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14555256" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46558705" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18724696" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -246,44 +332,30 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="86" />
+      <option name="time" value="90" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vk-api-standart/repost.php">
+    <entry file="file://$PROJECT_DIR$/vk-api-standart/likes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="322" column="30" selection-start="10750" selection-end="10750" vertical-scroll-proportion="0.0" vertical-offset="4830" max-vertical-offset="5565">
-          <folding>
-            <element signature="n#getUsersInfo#0;n#repost#0;n#!!top" expanded="false" />
-            <marker date="1401306040830" expanded="true" signature="11267:11595" placeholder="..." />
-            <marker date="1401306040830" expanded="true" signature="11267:11596" placeholder="..." />
-            <marker date="1401306040830" expanded="true" signature="11274:11595" placeholder="..." />
-          </folding>
+        <state line="159" column="0" selection-start="5937" selection-end="6047" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="3765">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vk-api-standart/repost.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="40" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="2040">
-          <folding>
-            <element signature="n#getUsersInfo#0;n#repost#0;n#!!top" expanded="false" />
-            <marker date="1401306040830" expanded="true" signature="11267:11595" placeholder="..." />
-            <marker date="1401306040830" expanded="true" signature="11267:11596" placeholder="..." />
-            <marker date="1401306040830" expanded="true" signature="11274:11595" placeholder="..." />
-          </folding>
-        </state>
+        <state line="322" column="30" selection-start="10750" selection-end="10750" vertical-scroll-proportion="0.0" vertical-offset="4830" max-vertical-offset="5565" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vk-api-standart/repost.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="9" selection-start="2361" selection-end="2361" vertical-scroll-proportion="0.0" vertical-offset="528" max-vertical-offset="2115">
-          <folding>
-            <element signature="n#getUsersInfo#0;n#repost#0;n#!!top" expanded="false" />
-            <marker date="1401306040830" expanded="true" signature="11267:11595" placeholder="..." />
-            <marker date="1401306040830" expanded="true" signature="11267:11596" placeholder="..." />
-            <marker date="1401306040830" expanded="true" signature="11274:11595" placeholder="..." />
-          </folding>
-        </state>
+        <state line="6" column="40" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="2040" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vk-api-standart/repost.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="9" selection-start="2361" selection-end="2361" vertical-scroll-proportion="0.0" vertical-offset="528" max-vertical-offset="2115" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vk-api-standart/likes.php">
@@ -406,20 +478,59 @@
         <state line="3" column="4" selection-start="23" selection-end="23" vertical-scroll-proportion="0.048025616" vertical-offset="0" max-vertical-offset="937" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/basic/Chapter14/14_08-final/sandbox/break.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="961">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/Chapter14/14_08-final/sandbox/arrays.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="961">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/Chapter14/14_08-final/sandbox/array_functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="961">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/Chapter14/14_08-final/sandbox/foreachloops.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="602" selection-end="756" vertical-scroll-proportion="0.46424758" vertical-offset="0" max-vertical-offset="937">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vk-api-standart/testarray1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="0" selection-start="1031" selection-end="1103" vertical-scroll-proportion="0.6781915" vertical-offset="0" max-vertical-offset="780">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vk-api-standart/testarray.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="9" selection-start="843" selection-end="843" vertical-scroll-proportion="0.26928282" vertical-offset="251" max-vertical-offset="990">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vk-api-standart/likes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="204" column="16" selection-start="8030" selection-end="8058" vertical-scroll-proportion="2.257525" vertical-offset="1035" max-vertical-offset="3660" />
+        <state line="198" column="74" selection-start="7646" selection-end="7693" vertical-scroll-proportion="0.45466846" vertical-offset="2634" max-vertical-offset="3765">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vk-api-standart/repost.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="244" column="60" selection-start="8286" selection-end="8286" vertical-scroll-proportion="0.31163287" vertical-offset="2948" max-vertical-offset="4695">
-          <folding>
-            <element signature="n#getUsersInfo#0;n#repost#0;n#!!top" expanded="false" />
-            <marker date="1401306040830" expanded="true" signature="11267:11595" placeholder="..." />
-            <marker date="1401306040830" expanded="true" signature="11267:11596" placeholder="..." />
-            <marker date="1401306040830" expanded="true" signature="11274:11595" placeholder="..." />
-          </folding>
+        <state line="18" column="74" selection-start="754" selection-end="759" vertical-scroll-proportion="0.35904256" vertical-offset="0" max-vertical-offset="5700">
+          <folding />
         </state>
       </provider>
     </entry>

@@ -16,7 +16,7 @@ class repost
     private $findPost; //ID найденного репоста в пользовательских новостях
     private $find; //Флаг найден/не найден репост у пользователя
 
-    public function __construct($owner_id = '-67280997', $post_id = '3', $group_id = '67280997') {
+    public function __construct($owner_id = '-30022666', $post_id = '85035', $group_id = '30022666') {
         $this->owner_id = $owner_id;
         $this->post_id = $post_id;
         $this->group_id = $group_id;
@@ -253,7 +253,7 @@ class repost
         $copies = $this->memberusers;
         // Получение массива, Поставивших лайк
         echo "Лайки!";
-        $this->getUsers($this->owner_id, $this->post_id, 'likes');
+        //$this->getUsers($this->owner_id, $this->post_id, 'likes');
         // Получение массива, сделавших репост и которые учасники группы
         $this->getMembers($this->group_id, $this->users);
         // Массив проверяет наличие лейка и репоста
@@ -278,35 +278,74 @@ class repost
         // проверка сортировки
         foreach ($this->memberusers as $id => $data) {
             $this->getUsersPosts($id);
-            $userinfo = '<td>'. $i . ')</td>' ;
-            $userinfo1 = '<td>'. '<a href="http://vk.com/id'.$id.'">id'.$id.'' . '</td>' ;
-            $userinfo2= '<td>'.$data['last_name'].' '.$data['first_name'].'</td>' ;
-            $userinfo3 = '<td>'. '<img src='.$data['photo_medium'].' alt="Title bg"></img>' . '</td>' ;
+            $userinfo = $i .',' ;
+            $userinfo1 = '<a href="http://vk.com/id'.$id.'">id'.$id.'</a>' . ',' ;
+            $userinfo2=  $data['last_name'].' '.$data['first_name'].',' ;
+            $userinfo3 = '<img src='.$data['photo_medium'].' alt="Title bg"></img>' . ',' ;
             // Поиск перепостов
             if ($this->find) {
                 // Теперь используем метод для получения репостов у пользователей, которые репоснули с нашей группы
                 $this->getUsers($id, $this->findPost, 'copies', 0, true);
-                $userinfo4 = '<td>'.'Id новости #'.$this->findPost.'</td>';
-                $userinfo5 = '<td>'.'Количество репостов:'.$this->countReposts.'</td>';
+                $userinfo4 = 'Id новости #'.$this->findPost.'';
+                $userinfo5 = $this->countReposts.',';
                 $this->memberusers[$id]['count_reposts'] = $this->countReposts;
                 // Обычный вывод
                 // echo '<tr>'.$userinfo. '</tr>';
-                $userinfomass[] = $userinfo5 . $userinfo . $userinfo1 . $userinfo2 . $userinfo3 . $userinfo4;
+                $userinfomass = $userinfo5 . $userinfo . $userinfo1 . $userinfo2 . $userinfo3 . $userinfo4;
+                $member_to_array = (explode(',',$userinfomass));
+                $group_member[] = $member_to_array;
+
+
             }
-            if (++$i==11) break;
+            $i++;
         }
-        $this->filterusers = $userinfomass;
+        $this->filterusers = $group_member;
         var_dump($this->filterusers);
+
+
     }
 
+    // сортировка по id
+    private function position_sort($a,$group_member) {
+        foreach($a as $k=>$v) {
+            $b[$k] = strtolower($v[$group_member]);
+        }
+        arsort($b);
+        foreach($b as $key=>$val) {
+            $c[] = $a[$key];
+        }
+        return $c;
+    }
+
+
+
     public function outputReposts() {
+
         //  вызывваем функцию
         $this->findReposts();
-        // вывод сортированного массива
-        rsort($this->filterusers); // Sort the array in reverse
-        foreach($this->filterusers as $key => $value) {
-            echo '<tr>' .$value. '</tr>';
-        }
+
+        $group_member = $this-> position_sort($this->filterusers, 0);
+
+        var_dump($group_member);
+
+        $i = 0;
+        foreach($group_member as $value) {
+            echo '<tr>';
+            echo '<td>' . $value[0] . '</td>';
+            echo '<td>' . $value[1] . ' Номер:'.$i. '</td>';
+            echo '<td>' . $value[2] . '</td>';
+            echo '<td>' . $value[3] . '</td>';
+            echo '<td>' . $value[4] . '</td>';
+            echo '<td>' . $value[5] . '</td>';
+            echo '</tr>';
+
+            if (++$i==10) break;
+
+            }
+
+        $total_time = round((microtime(TRUE)-$_SERVER['REQUEST_TIME_FLOAT']), 4);
+        echo $total_time;
+
     }
 
 

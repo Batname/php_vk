@@ -12,7 +12,7 @@ class VKLIKES {
     private $findPost; //ID найденного репоста в пользовательских новостях
     private $find; //Флаг найден/не найден репост у пользователя
 
-    public function __construct($owner_id = '-67280997', $post_id = '3') {
+    public function __construct($owner_id = '-30022666', $post_id = '84893') {
         $this->owner_id = $owner_id;
         $this->post_id = $post_id;
     }
@@ -97,6 +97,8 @@ class VKLIKES {
         $uids = implode(',', $vkIDs);
         $fields = 'uid,first_name,last_name,nickname,screen_name,sex,city,country,timezone,photo,photo_medium,photo_big,has_mobile,rate,online,counters';
         $url = $this->url.'users.get?&uids='.$uids.'&fields='.$fields.'&name_case=nom';
+
+        print_r($url);
 
         $json = file_get_contents($url);
         $data = json_decode($json, true);
@@ -215,7 +217,12 @@ class VKLIKES {
         }
 
         $this->printProgress('Поиск репостов завершен', false);
+
+        $total_time = round((microtime(TRUE)-$_SERVER['REQUEST_TIME_FLOAT']), 4);
+        echo $total_time;
     }
+
+
 
 
 }
