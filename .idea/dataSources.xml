@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2961597116">
+    <data-source source="LOCAL" name="MySQL - widget_corp@localhost" uuid="7f98bf20-c498-4dfe-b5a8-4efef0040ab7">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/widget_corp</jdbc-url>
+      <user-name>widget_cms</user-name>
+      <user-password>dfd9dfcfdfc9dfd8dfcfdfdedfdadfcbdfd9dfd9dfdddfc5dfd8dfce</user-password>
+      <driver-properties>
+        <property name="zeroDateTimeBehavior" value="convertToNull" />
+        <property name="tinyInt1isBit" value="false" />
+      </driver-properties>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+

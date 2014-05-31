@@ -24,10 +24,20 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="repost.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/vk-api-standart/repost.php">
+        <entry file="file://$PROJECT_DIR$/vk_app/includes/repost.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="74" selection-start="754" selection-end="759" vertical-scroll-proportion="0.35904256" vertical-offset="0" max-vertical-offset="5700">
-              <folding />
+            <state line="18" column="74" selection-start="826" selection-end="831" vertical-scroll-proportion="0.24012807" vertical-offset="45" max-vertical-offset="1605">
+              <folding>
+                <element signature="n#getUsers#0;n#repost#0;n#!!top" expanded="false" />
+                <element signature="n#getMembers#0;n#repost#0;n#!!top" expanded="false" />
+                <element signature="n#remakeUsersArray#0;n#repost#0;n#!!top" expanded="false" />
+                <element signature="n#getUsersInfo#0;n#repost#0;n#!!top" expanded="false" />
+                <element signature="n#getUsersPosts#0;n#repost#0;n#!!top" expanded="false" />
+                <element signature="n#saveReposts#0;n#repost#0;n#!!top" expanded="false" />
+                <marker date="1401565020963" expanded="true" signature="9860:9877" placeholder="DROP TABLE a..." />
+                <marker date="1401565020963" expanded="true" signature="9985:10373" placeholder="CREATE TABLE..IF..." />
+                <marker date="1401565020963" expanded="true" signature="10496:10516" placeholder="INSERT INTO ..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -49,7 +59,23 @@
         <option value="$PROJECT_DIR$/vk-api-standart/likes.php" />
         <option value="$PROJECT_DIR$/vk-api-standart/testarray1.php" />
         <option value="$PROJECT_DIR$/vk-api-standart/testarray.php" />
+        <option value="$PROJECT_DIR$/basic/Chapter14/14_08-final/sandbox/databases_insert.php" />
+        <option value="$PROJECT_DIR$/vk-api-standart/array_to_database.php" />
+        <option value="$PROJECT_DIR$/parser/parser.php" />
+        <option value="$PROJECT_DIR$/parser/simplehtmldom_1_5/example/example_modify_contents.php" />
+        <option value="$PROJECT_DIR$/parser/simplehtmldom_1_5/parser.php" />
+        <option value="$PROJECT_DIR$/vk-api-standart/select_from_database.php" />
+        <option value="$PROJECT_DIR$/vk_app/includes/functions.php" />
+        <option value="$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter06/06_05_photo_gallery/includes/database.php" />
+        <option value="$PROJECT_DIR$/vk_app/includes/database.php" />
+        <option value="$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter06/06_07_photo_gallery/includes/user.php" />
+        <option value="$PROJECT_DIR$/vk_app/includes/user.php" />
+        <option value="$PROJECT_DIR$/vk_app/public/index.php" />
         <option value="$PROJECT_DIR$/vk-api-standart/repost.php" />
+        <option value="$PROJECT_DIR$/vk_app/includes/test.php" />
+        <option value="$PROJECT_DIR$/vk_app/includes/config.php" />
+        <option value="$PROJECT_DIR$/vk_app/includes/arrays.sql" />
+        <option value="$PROJECT_DIR$/vk_app/includes/repost.php" />
       </list>
     </option>
   </component>
@@ -86,6 +112,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -114,6 +141,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="vk_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php_vk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vk_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php_vk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="vk-api-standart" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -128,79 +187,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="basic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php_vk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="basic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter14" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="14_09-final" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php_vk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="basic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter14" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="14_09-final" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sandbox" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php_vk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="basic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter14" />
+              <option name="myItemId" value="PHP_Bayond_the_basic" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -209,14 +201,22 @@
     <property name="FullScreen" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="SearchEverywhereHistory" value="'" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vk_app/includes" />
       <recent name="$PROJECT_DIR$/vk-api-standart" />
+      <recent name="$PROJECT_DIR$/parser" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vk_app/public" />
+      <recent name="$PROJECT_DIR$/vk_app" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.testarray1.php">
+  <component name="RunManager" selected="PHP Script.parser.php">
     <configuration default="false" name="repost.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/vk-api-standart/repost.php">
       <RunnerSettings RunnerId="PhpRunner" />
       <RunnerSettings RunnerId="PhpScriptDebugRunner" />
@@ -234,6 +234,17 @@
       <ConfigurationWrapper RunnerId="PhpScriptDebugRunner" />
       <method />
     </configuration>
+    <configuration default="false" name="parser.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/parser/simplehtmldom_1_5/parser.php">
+      <RunnerSettings RunnerId="PhpScriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpScriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
     </configuration>
@@ -247,16 +258,18 @@
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="PHP Script.repost.php" />
       <item index="1" class="java.lang.String" itemvalue="PHP Script.likes.php" />
       <item index="2" class="java.lang.String" itemvalue="PHP Script.testarray1.php" />
+      <item index="3" class="java.lang.String" itemvalue="PHP Script.parser.php" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="PHP Script.testarray1.php" />
-        <item index="1" class="java.lang.String" itemvalue="PHP Script.repost.php" />
-        <item index="2" class="java.lang.String" itemvalue="PHP Script.likes.php" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.parser.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.testarray1.php" />
+        <item index="2" class="java.lang.String" itemvalue="PHP Script.repost.php" />
+        <item index="3" class="java.lang.String" itemvalue="PHP Script.likes.php" />
       </list>
     </recent_temporary>
   </component>
@@ -279,12 +292,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28846154" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2813765" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.60020244" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14555256" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.09973046" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.13045822" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18724696" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4402834" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -332,205 +345,415 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="90" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/parser/simplehtmldom_1_5/parser.php</url>
+          <line>19</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="93" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vk-api-standart/likes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="159" column="0" selection-start="5937" selection-end="6047" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="3765">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vk-api-standart/repost.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="322" column="30" selection-start="10750" selection-end="10750" vertical-scroll-proportion="0.0" vertical-offset="4830" max-vertical-offset="5565" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vk-api-standart/repost.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="40" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="2040" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vk-api-standart/repost.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="9" selection-start="2361" selection-end="2361" vertical-scroll-proportion="0.0" vertical-offset="528" max-vertical-offset="2115" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vk-api-standart/likes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="665" selection-end="982" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="3645" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_09_btb_sandbox-final/comparison.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="24" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="600" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/Chapter 04/04_01/my_phpinfo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="20" selection-end="20" vertical-scroll-proportion="0.016008537" vertical-offset="0" max-vertical-offset="937" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter03/03_03_btb_sandbox/class_example.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="345" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter03/03_04_btb_sandbox/class_example2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="961" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_05_btb_sandbox/class_example3.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="35" selection-start="180" selection-end="180" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="420" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_05_btb_sandbox/class_example4.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="5" selection-start="116" selection-end="116" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="315" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_05_btb_sandbox/class_example5.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="282" selection-end="282" vertical-scroll-proportion="0.27214515" vertical-offset="0" max-vertical-offset="937" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_05_btb_sandbox/inheritance.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="1" selection-start="125" selection-end="125" vertical-scroll-proportion="0.14407684" vertical-offset="0" max-vertical-offset="937" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_06_btb_sandbox/access_modifiers.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="2" selection-start="810" selection-end="810" vertical-scroll-proportion="-24.375" vertical-offset="0" max-vertical-offset="720" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_06_btb_sandbox/access_modifiers2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="22" selection-start="187" selection-end="187" vertical-scroll-proportion="0.17609392" vertical-offset="0" max-vertical-offset="937" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_07_btb_sandbox/static_modifier.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="3" selection-start="254" selection-end="254" vertical-scroll-proportion="0.17609392" vertical-offset="0" max-vertical-offset="937" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_08_btb_sandbox/variable_scope.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="961" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_08_btb_sandbox/variable_variables.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="937" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_08_btb_sandbox/static_modifier.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="630" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_08_btb_sandbox/constructors.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="38" selection-start="108" selection-end="108" vertical-scroll-proportion="0.09605123" vertical-offset="0" max-vertical-offset="937" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_08_btb_sandbox/parent.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="4" selection-start="412" selection-end="412" vertical-scroll-proportion="0.38420492" vertical-offset="0" max-vertical-offset="937" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_09_btb_sandbox/cloning.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="2" selection-start="419" selection-end="419" vertical-scroll-proportion="0.41622198" vertical-offset="0" max-vertical-offset="937" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_09_btb_sandbox-final/comparison.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="24" selection-start="108" selection-end="108" vertical-scroll-proportion="0.112059765" vertical-offset="0" max-vertical-offset="937" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_03_btb_sandbox/class_example.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="961" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_03_btb_sandbox/class_example2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="961" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_03_btb_sandbox/class_example3.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="961" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_03_btb_sandbox/class_example4.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="961" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter04/04_03_btb_sandbox/class_example5.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="4" selection-start="23" selection-end="23" vertical-scroll-proportion="0.048025616" vertical-offset="0" max-vertical-offset="937" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/Chapter14/14_08-final/sandbox/break.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="961">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/Chapter14/14_08-final/sandbox/arrays.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="961">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/basic/Chapter14/14_08-final/sandbox/array_functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="961">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="961" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/basic/Chapter14/14_08-final/sandbox/foreachloops.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="602" selection-end="756" vertical-scroll-proportion="0.46424758" vertical-offset="0" max-vertical-offset="937">
-          <folding />
-        </state>
+        <state line="29" column="0" selection-start="602" selection-end="756" vertical-scroll-proportion="0.46424758" vertical-offset="0" max-vertical-offset="937" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/Chapter14/14_09-final/sandbox/databases_insert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="1393" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="975" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/Chapter14/14_08-final/sandbox/databases_insert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="36" selection-start="92" selection-end="92" vertical-scroll-proportion="0.034802783" vertical-offset="0" max-vertical-offset="1125" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/Chapter 15/15_06-final/15_06_widget_corp.sql">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="46" selection-end="46" vertical-scroll-proportion="-0.9868421" vertical-offset="0" max-vertical-offset="1005" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parser/simplehtmldom_1_5/change_log.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1710" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parser/simplehtmldom_1_5/example/example_callback.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="961" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parser/simplehtmldom_1_5/example/example_advanced_selector.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="961" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parser/simplehtmldom_1_5/example/example_basic_selector.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="961" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parser/simplehtmldom_1_5/example/simple_html_dom_utility.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="961" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parser/simplehtmldom_1_5/example/example_extract_html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="961" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vk-api-standart/testarray1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="0" selection-start="1031" selection-end="1103" vertical-scroll-proportion="0.6781915" vertical-offset="0" max-vertical-offset="780">
+        <state line="2" column="0" selection-start="2" selection-end="1148" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="780" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parser/simplehtmldom_1_5/example/example_modify_contents.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="48" selection-end="56" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="510" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parser/simplehtmldom_1_5/app/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.97402596" vertical-offset="900" max-vertical-offset="2235" />
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/cccb3e3e/7f98bf20-c498-4dfe-b5a8-4efef0040ab7/widget_corp..arays">
+      <provider editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/Chapter14/14_09-final/sandbox/databases.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="26" selection-start="150" selection-end="150" vertical-scroll-proportion="0.08004269" vertical-offset="0" max-vertical-offset="975">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parser/parser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="0" selection-start="1329" selection-end="1329" vertical-scroll-proportion="0.6331169" vertical-offset="0" max-vertical-offset="924">
+          <folding>
+            <marker date="1401489188099" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1401489188099" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1401489188099" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1401489188099" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1401489188099" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1401489188099" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1401489188099" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parser/simplehtmldom_1_5/parser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="12" selection-start="367" selection-end="367" vertical-scroll-proportion="0.19210246" vertical-offset="0" max-vertical-offset="937">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/Chapter14/14_09-final/sandbox/whileloops.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="961">
+          <folding>
+            <marker date="1401185461126" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1401185461126" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1401185461126" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vk-api-standart/select_from_database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="91" selection-start="1232" selection-end="1236" vertical-scroll-proportion="0.43970117" vertical-offset="218" max-vertical-offset="1155">
+          <folding>
+            <marker date="1401532754595" expanded="true" signature="-1:-1" placeholder="DROP TABLE a..." />
+            <marker date="1401532754595" expanded="true" signature="-1:-1" placeholder="CREATE TABLE..IF..." />
+            <marker date="1401532754595" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..arays..." />
+            <marker date="1401532754595" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1401532754595" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parser/simplehtmldom_1_5/simple_html_dom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="137" column="25" selection-start="5915" selection-end="5915" vertical-scroll-proportion="0.07251082" vertical-offset="1433" max-vertical-offset="25335">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter05/05_03_photo_gallery/includes/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="543" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="465">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter05/05_03_photo_gallery-final.sql">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="45" selection-end="322" vertical-scroll-proportion="0.080213904" vertical-offset="0" max-vertical-offset="935">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vk-api-standart/testarray.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="9" selection-start="843" selection-end="843" vertical-scroll-proportion="0.26928282" vertical-offset="251" max-vertical-offset="990">
+        <state line="13" column="13" selection-start="424" selection-end="424" vertical-scroll-proportion="0.20811099" vertical-offset="0" max-vertical-offset="990">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter06/06_02_photo_gallery/includes/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="961">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter06/06_03_photo_gallery/includes/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="961">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter06/06_03_photo_gallery/includes/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="961">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter06/06_03_photo_gallery/includes/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="0" selection-start="775" selection-end="1451" vertical-scroll-proportion="0.48772678" vertical-offset="83" max-vertical-offset="1020">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter14/14_01_photo_gallery/includes/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="284" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="915">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter06/06_04_photo_gallery/includes/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="0" selection-start="1580" selection-end="1907" vertical-scroll-proportion="0.38420492" vertical-offset="0" max-vertical-offset="937">
+          <folding>
+            <element signature="n#open_connection#0;n#MySQLDatabase#0;n#!!top" expanded="false" />
+            <element signature="n#close_connection#0;n#MySQLDatabase#0;n#!!top" expanded="false" />
+            <element signature="n#query#0;n#MySQLDatabase#0;n#!!top" expanded="false" />
+            <element signature="n#escape_value#0;n#MySQLDatabase#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vk_app/includes/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="54" selection-start="246" selection-end="246" vertical-scroll-proportion="0.09605123" vertical-offset="0" max-vertical-offset="937">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter06/06_06_photo_gallery/includes/user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="961">
+          <folding>
+            <marker date="1401185460814" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..users..." />
+            <marker date="1401185460814" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..users..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter06/06_05_photo_gallery/includes/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="60" selection-end="170" vertical-scroll-proportion="0.08004269" vertical-offset="0" max-vertical-offset="1380">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter06/06_07_photo_gallery/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="926">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter06/06_06_photo_gallery/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="0" selection-start="670" selection-end="880" vertical-scroll-proportion="0.40021345" vertical-offset="0" max-vertical-offset="937">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter06/06_07_photo_gallery/includes/user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="10" selection-start="1037" selection-end="1037" vertical-scroll-proportion="0.48772678" vertical-offset="158" max-vertical-offset="1095">
+          <folding>
+            <marker date="1401185460814" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..users..." />
+            <marker date="1401185460814" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..users..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter06/06_08_photo_gallery/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="26" selection-start="211" selection-end="211" vertical-scroll-proportion="0.16008538" vertical-offset="0" max-vertical-offset="937">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter06/06_08_photo_gallery/includes/user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="21" selection-start="182" selection-end="182" vertical-scroll-proportion="0.1280683" vertical-offset="0" max-vertical-offset="1125">
+          <folding>
+            <marker date="1401185460814" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..users..." />
+            <marker date="1401185460814" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..users..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vk_app/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="39" selection-start="758" selection-end="758" vertical-scroll-proportion="0.48025614" vertical-offset="0" max-vertical-offset="937">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vk_app/includes/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="179" column="27" selection-start="6505" selection-end="6523" vertical-scroll-proportion="0.18831168" vertical-offset="2511" max-vertical-offset="3930">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vk-api-standart/likes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="198" column="74" selection-start="7646" selection-end="7693" vertical-scroll-proportion="0.45466846" vertical-offset="2634" max-vertical-offset="3765">
+        <state line="190" column="35" selection-start="7297" selection-end="7361" vertical-scroll-proportion="0.5898268" vertical-offset="2305" max-vertical-offset="3765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter06/06_02_photo_gallery/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="961">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter06/06_03_photo_gallery/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="961">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vk_app/includes/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="0" selection-start="2097" selection-end="2097" vertical-scroll-proportion="0.40021345" vertical-offset="0" max-vertical-offset="937">
+          <folding>
+            <element signature="n#__construct#0;n#MySQLDatabase#0;n#!!top" expanded="false" />
+            <element signature="n#open_connection#0;n#MySQLDatabase#0;n#!!top" expanded="false" />
+            <element signature="n#close_connection#0;n#MySQLDatabase#0;n#!!top" expanded="false" />
+            <element signature="n#query#0;n#MySQLDatabase#0;n#!!top" expanded="false" />
+            <element signature="n#escape_value#0;n#MySQLDatabase#0;n#!!top" expanded="false" />
+            <element signature="n#fetch_array#0;n#MySQLDatabase#0;n#!!top" expanded="false" />
+            <element signature="n#num_rows#0;n#MySQLDatabase#0;n#!!top" expanded="false" />
+            <element signature="n#insert_id#0;n#MySQLDatabase#0;n#!!top" expanded="false" />
+            <element signature="n#affected_rows#0;n#MySQLDatabase#0;n#!!top" expanded="false" />
+            <element signature="n#confirm_query#0;n#MySQLDatabase#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vk_app/includes/arrays.sql">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="56" selection-start="453" selection-end="453" vertical-scroll-proportion="0.20291363" vertical-offset="0" max-vertical-offset="961">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vk_app/includes/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="49" selection-start="142" selection-end="152" vertical-scroll-proportion="0.06403415" vertical-offset="0" max-vertical-offset="937">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vk-api-standart/array_to_database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="87" column="17" selection-start="2120" selection-end="2132" vertical-scroll-proportion="0.33333334" vertical-offset="1006" max-vertical-offset="2115">
+          <folding>
+            <marker date="1401485548991" expanded="true" signature="-1:-1" placeholder="DROP TABLE a..." />
+            <marker date="1401485548991" expanded="true" signature="-1:-1" placeholder="CREATE TABLE..IF..." />
+            <marker date="1401485548991" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vk_app/includes/user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="105" selection-end="134" vertical-scroll-proportion="-0.375" vertical-offset="174" max-vertical-offset="1155">
+          <folding>
+            <marker date="1401540826211" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..arrays..." />
+            <marker date="1401540826211" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..arrays..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter06/06_04_photo_gallery/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="126" selection-end="178" vertical-scroll-proportion="0.2616279" vertical-offset="0" max-vertical-offset="345">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vk-api-standart/repost.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="74" selection-start="754" selection-end="759" vertical-scroll-proportion="0.35904256" vertical-offset="0" max-vertical-offset="5700">
+        <state line="354" column="0" selection-start="12036" selection-end="12531" vertical-scroll-proportion="1.6773256" vertical-offset="4733" max-vertical-offset="5670">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vk_app/includes/repost.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="74" selection-start="826" selection-end="831" vertical-scroll-proportion="0.24012807" vertical-offset="45" max-vertical-offset="1605">
+          <folding>
+            <element signature="n#getUsers#0;n#repost#0;n#!!top" expanded="false" />
+            <element signature="n#getMembers#0;n#repost#0;n#!!top" expanded="false" />
+            <element signature="n#remakeUsersArray#0;n#repost#0;n#!!top" expanded="false" />
+            <element signature="n#getUsersInfo#0;n#repost#0;n#!!top" expanded="false" />
+            <element signature="n#getUsersPosts#0;n#repost#0;n#!!top" expanded="false" />
+            <element signature="n#saveReposts#0;n#repost#0;n#!!top" expanded="false" />
+            <marker date="1401565020963" expanded="true" signature="9860:9877" placeholder="DROP TABLE a..." />
+            <marker date="1401565020963" expanded="true" signature="9985:10373" placeholder="CREATE TABLE..IF..." />
+            <marker date="1401565020963" expanded="true" signature="10496:10516" placeholder="INSERT INTO ..." />
+          </folding>
         </state>
       </provider>
     </entry>

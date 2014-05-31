@@ -1,14 +1,14 @@
 <?php
 
-class repost
-{
-    private $url = 'https://api.vk.com/method/'; // URL к методам API
 
+class repost {
+
+    private $url = 'https://api.vk.com/method/'; // URL к методам API
     private $owner_id; //ID автора поста
     private $post_id; //ID поста
     public  $group_id; //Группа ID автора поста
-
-    private $count = 1000; //По сколько "репостов" и "лайков" доставать
+    private $count = 199; //По сколько "репостов" и "лайков" доставать
+    private $countpost;  // считаем уоличество репостов новости в группе
     private $users = array(); //Массив с пользователями
     private $memberusers = array(); //Массив с учасниками группы
     private $filterusers;  // Массив с подготовленным выводом
@@ -16,34 +16,33 @@ class repost
     private $findPost; //ID найденного репоста в пользовательских новостях
     private $find; //Флаг найден/не найден репост у пользователя
 
-    public function __construct($owner_id = '-30022666', $post_id = '85035', $group_id = '30022666') {
+    public function __construct($owner_id = '-30022666', $post_id = '85184', $group_id = '30022666') {
         $this->owner_id = $owner_id;
         $this->post_id = $post_id;
         $this->group_id = $group_id;
     }
 
 
-    //Сообщение о действиях
-    private function printProgress($text, $start = true, $error = false) {
-        if ($error) $color = 'red';
-        else if ($start) $color = '#444';
-        else $color = 'green';
+    private function getUserCount($owner_id, $post_id, $filter, $offset=0, $onlyCount = false, $start = true) {
+        $url = $this->url.'likes.getList?type=post&friends_only=0&offset='.$offset.'&count='.$this->count.'&owner_id='.$owner_id.'&item_id='.$post_id.'&filter='.$filter;
+        //получаем результат запроса в JSON-фомате
+        $json = file_get_contents($url);
+        //преобразуем JSON в ассоциативный массив
+        $data = json_decode($json, true);
 
-        echo '<li style="color: '.$color.';">'.$text.'</li>';
-        ob_flush();
-        flush();
+        //если ответ, не содержит нужных данных
+        if (!isset($data['response'])) return false;
+
+        $response = $data['response'];
+        $countpost = $response['count']; //Получаем количество пользователей
+
+        $this->countpost = $countpost;
+
+        print_r($this->countpost);
+
     }
 
-    /*Считываем всех пользователей, кто поделился нашим постом
-    * $onwer_id - ID автора поста
-     * $post_id - ID-поста
-     * $fitler - "likes" или "copies"
-     * $offset - смещение по пользователям. Можно достать максимум 1000 пользователей
-    * $onlyCount - вернуть только количество репостов
-     * $start - используется для рекурсии
-     */
-
-    private function getUsers($owner_id, $post_id, $filter, $offset = 0, $onlyCount = false, $start = true) {
+    private function getUsers($owner_id, $post_id, $filter, $offset, $onlyCount = false, $start = true) {
         //формируем URL со всеми параметрами
         $url = $this->url.'likes.getList?type=post&friends_only=0';
         $url .= '&offset='.$offset.'&';
@@ -84,15 +83,9 @@ class repost
             $this->users = array_merge($this->users, $users);
         }
 
-        $offset += $this->count;
+        //$offset += $this->count;
 
-        $this->getUsers( $post_id, $filter, $offset, $onlyCount, false);
-
-        // Тест перепостов
-        echo "Тест перепостов ";
-        print_r($users);
-        echo "<br>";
-
+       // $this->getUsers( $post_id, $filter, $offset, $onlyCount, false);
 
     }
 
@@ -134,12 +127,6 @@ class repost
             $this->memberusers = $member_to_array;
         }
 
-        // Тест учасников
-        echo "Тест учасников ";
-        print_r($member_to_array);
-        echo "<br>";
-
-
     }
 
     //Для удобства я изменил ключи в массиве. Ключами являются - ID пользователя сайта vk.com
@@ -152,31 +139,22 @@ class repost
         return $new;
     }
 
-    /* Получить информацию о пользователях
-    * $vkIDs - массив с ID пользователей
-    */
     private function getUsersInfo($vkIDs) {
 
         //$count = 1000;
 
         //Для получения информации о пользователе, используются положительные ID (ID со знаком минус имеют группы, сообщества)
-
         foreach ($vkIDs as $key => $val) {
             if ((int)$val < 0) unset($vkIDs[$key]);
         }
 
-        // преобразования массива в строку через запятую для ввызова через api
-        $uids = implode(',', $vkIDs);
 
-        // Дополнительные параметры метода
+        $uids = implode(',', $vkIDs);
         $fields = 'uid,first_name,last_name,nickname,screen_name,sex,city,country,timezone,photo,photo_medium,photo_big,has_mobile,rate,online,counters';
-        // url для общего запроса по всем юзерам
         $url = $this->url.'users.get?&uids='.$uids.'&fields='.$fields.'&name_case=nom';
 
         $json = file_get_contents($url);
         $data = json_decode($json, true);
-
-        // проверка и возврат response массива
         if (isset($data['response'])) {
             $response = $data['response'];
             return $response;
@@ -185,14 +163,12 @@ class repost
         return 0;
     }
 
-    //Получам посты пользователя
     private function getUsersPosts($owner_id, $offset = 0) {
         $maxNews = 600; //Максимальное колчиство новостей для поиска
         $count = 100; //100 - это максимальное количество новостей, которые можно получить за один запрос
 
         //Если обыскали $maxNews новостей и не нашли
         if ($offset > $maxNews - $count) {
-            $this->printProgress('<b>Репост не был найден среди '.$maxNews.' новостей...</b>', false, true);
             $this->find = false;
             return false;
         }
@@ -209,7 +185,6 @@ class repost
 
         //Если вдруг страница пользователя "заморожена" или удалена
         if (!isset($data['response'])) {
-            $this->printProgress('<b>Ошибка получения нововстей</b>', false, true);
             $this->find = false;
             return false;
         }
@@ -244,111 +219,125 @@ class repost
 
     }
 
-    private function findReposts()
-    {
-         // Получение массива, сделавших репост
-        $this->getUsers($this->owner_id, $this->post_id, 'copies');
+    private function saveReposts($offset) {
+
+        $this->getUsers($this->owner_id, $this->post_id, 'copies', $offset);
         $copies = $this->memberusers;
-        // Получение массива, Поставивших лайк
-        echo "Лайки!";
-        //$this->getUsers($this->owner_id, $this->post_id, 'likes');
-        // Получение массива, сделавших репост и которые учасники группы
+
         $this->getMembers($this->group_id, $this->users);
-        // Массив проверяет наличие лейка и репоста
+
         foreach ($this->memberusers as $id) {
             if (in_array($id, $copies)) continue;
             $copies[] = $id;
         }
-        // Тест нового массива
-        echo "Тест массива на наличие лейка и репоста к этой записи ";
-        print_r($copies);
 
         $this->memberusers = $copies;
-        $this->printProgress('<b>Уникальных ID пользователей для получения их информации: '.count($this->memberusers).'</b>');
-        // Получаю информацию о пользовотелях, учасниках группы
         $usersWithInfo = $this->getUsersInfo($this->memberusers);
-        // считаю количество пользователей - учасников
-        $this->printProgress('<b>Уникальных ID пользователей с информации: '.count($usersWithInfo).'</b>');
-        // Изменение ключей
         $this->memberusers = $this->remakeUsersArray($usersWithInfo);
 
-        $i = 1;
+        $k = 1;
         // проверка сортировки
         foreach ($this->memberusers as $id => $data) {
             $this->getUsersPosts($id);
-            $userinfo = $i .',' ;
-            $userinfo1 = '<a href="http://vk.com/id'.$id.'">id'.$id.'</a>' . ',' ;
+            $userinfo = $k .',' ;
+            $userinfo1 = $id .',' ;
             $userinfo2=  $data['last_name'].' '.$data['first_name'].',' ;
-            $userinfo3 = '<img src='.$data['photo_medium'].' alt="Title bg"></img>' . ',' ;
+            $userinfo3 = $data['photo_medium']. ',' ;
             // Поиск перепостов
             if ($this->find) {
                 // Теперь используем метод для получения репостов у пользователей, которые репоснули с нашей группы
                 $this->getUsers($id, $this->findPost, 'copies', 0, true);
-                $userinfo4 = 'Id новости #'.$this->findPost.'';
+                $userinfo4 = $this->findPost.'';
                 $userinfo5 = $this->countReposts.',';
                 $this->memberusers[$id]['count_reposts'] = $this->countReposts;
-                // Обычный вывод
-                // echo '<tr>'.$userinfo. '</tr>';
                 $userinfomass = $userinfo5 . $userinfo . $userinfo1 . $userinfo2 . $userinfo3 . $userinfo4;
                 $member_to_array = (explode(',',$userinfomass));
                 $group_member[] = $member_to_array;
-
-
             }
-            $i++;
+            $k++;
         }
+
         $this->filterusers = $group_member;
-        var_dump($this->filterusers);
 
+        /////////////////
 
-    }
+        $dbhost = "localhost";
+        $dbuser = "widget_cms";
+        $dbpass = "secretpassword";
+        $dbname = "widget_corp";
+        $connection = mysqli_connect($dbhost, $dbuser, $dbpass, $dbname);
+        mysqli_set_charset($connection, 'utf8');
 
-    // сортировка по id
-    private function position_sort($a,$group_member) {
-        foreach($a as $k=>$v) {
-            $b[$k] = strtolower($v[$group_member]);
+        if(mysqli_connect_errno()) {
+            die("Database connection failed: " .
+                mysqli_connect_error() .
+                " (" . mysqli_connect_errno() . ")"
+            );
         }
-        arsort($b);
-        foreach($b as $key=>$val) {
-            $c[] = $a[$key];
-        }
-        return $c;
-    }
 
 
+         // 2. Drop table
 
-    public function outputReposts() {
+//        $query = "DROP TABLE arrays";
+//        mysqli_query($connection, $query);
 
-        //  вызывваем функцию
-        $this->findReposts();
 
-        $group_member = $this-> position_sort($this->filterusers, 0);
+        // 2.2  Create table
 
-        var_dump($group_member);
+//        $create_table  = "CREATE TABLE IF NOT EXISTS `arrays` (`id` int(100) NOT NULL AUTO_INCREMENT,`reposts` int(100) DEFAULT NULL,`username` varchar(150) CHARACTER SET utf8 DEFAULT NULL,`userlink` varchar(150) CHARACTER SET utf8 DEFAULT NULL,`userimage` varchar(1000) CHARACTER SET utf8 DEFAULT NULL,`user_news_id` int(150) DEFAULT NULL,PRIMARY KEY (`id`)) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=0";
+//        mysqli_query($connection, $create_table);
 
-        $i = 0;
+
         foreach($group_member as $value) {
-            echo '<tr>';
-            echo '<td>' . $value[0] . '</td>';
-            echo '<td>' . $value[1] . ' Номер:'.$i. '</td>';
-            echo '<td>' . $value[2] . '</td>';
-            echo '<td>' . $value[3] . '</td>';
-            echo '<td>' . $value[4] . '</td>';
-            echo '<td>' . $value[5] . '</td>';
-            echo '</tr>';
+            $query  = "INSERT INTO arrays (";
+            $query .= "  reposts, username, userlink, userimage, user_news_id";
+            $query .= ") VALUES (";
+            $query .= "  '{$value[0]}', '{$value[3]}', '{$value[2]}', '{$value[4]}', '{$value[5]}'";
+            $query .= ")";
 
-            if (++$i==10) break;
 
+            $result = mysqli_query($connection, $query);
+
+            if ($result) {
+                // Success
+                // redirect_to("somepage.php");
+                echo "Success!";
+            } else {
+                // Failure
+                // $message = "Subject creation failed";
+                die("Database query failed. " . mysqli_error($connection));
             }
 
-        $total_time = round((microtime(TRUE)-$_SERVER['REQUEST_TIME_FLOAT']), 4);
-        echo $total_time;
+        }
+
+        mysqli_close($connection);
+
+       ////////////////////////
 
     }
+
+    public function outputRepost() {
+
+        $this->getUserCount($this->owner_id, $this->post_id, 'copies');
+
+        for ($i = 0; $i <= ($this->countpost); $i+=200) {
+            $this->saveReposts($i);
+        }
+
+
+//        $this->saveReposts($i=0);
+//
+//     $this->saveReposts($i=2);
+//
+//     $this->saveReposts($i=4);
+
+
+
+    }
+
 
 
 }
-
 
 ?>
 
@@ -362,12 +351,13 @@ class repost
 </head>
 <body>
 <div class="container">
-<table class="table">
-<?php $repost = new repost(); $repost->outputReposts() ?>
-</table>
+    <table class="table">
+        <?php
+        $repost = new repost();
+        $repost->outputRepost();
+        ?>
+    </table>
 </div>
 
 </body>
 </html>
-
-<!-- -->

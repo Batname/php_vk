@@ -1,10 +1,12 @@
 <?php
+header("Content-type: text/html; charset=utf-8");
   // 1. Create a database connection
   $dbhost = "localhost";
   $dbuser = "widget_cms";
   $dbpass = "secretpassword";
   $dbname = "widget_corp";
   $connection = mysqli_connect($dbhost, $dbuser, $dbpass, $dbname);
+  mysqli_set_charset('utf8', $connection);
   // Test if connection succeeded
   if(mysqli_connect_errno()) {
     die("Database connection failed: " . 
@@ -12,10 +14,18 @@
          " (" . mysqli_connect_errno() . ")"
     );
   }
+
+/* change character set to utf8 */
+if (!$connection->set_charset("utf8")) {
+    printf("Error loading character set utf8: %s\n", $connection->error);
+} else {
+    printf("Current character set: %s\n", $connection->character_set_name());
+}
+
 ?>
 <?php
 	// Often these are form values in $_POST
-	$menu_name = "Today's Widget Trivia";
+	$menu_name = "привет";
 	$position = (int) 4;
 	$visible = (int) 1;
 	
@@ -28,7 +38,7 @@
 	$query .= ") VALUES (";
 	$query .= "  '{$menu_name}', {$position}, {$visible}";
 	$query .= ")";
-
+    mysql_query("SET NAMES 'utf8'");
 	$result = mysqli_query($connection, $query);
 
 	if ($result) {
