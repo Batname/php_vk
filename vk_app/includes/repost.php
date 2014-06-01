@@ -1,5 +1,6 @@
 <?php
 
+require_once("database.php");
 
 class repost {
 
@@ -7,8 +8,9 @@ class repost {
     private $owner_id; //ID автора поста
     private $post_id; //ID поста
     public  $group_id; //Группа ID автора поста
-    private $count = 199; //По сколько "репостов" и "лайков" доставать
+    private $count = 400; //По сколько "репостов" и "лайков" доставать
     private $countpost;  // считаем уоличество репостов новости в группе
+    private $countmemberusers; // Количество юзеров в группе
     private $users = array(); //Массив с пользователями
     private $memberusers = array(); //Массив с учасниками группы
     private $filterusers;  // Массив с подготовленным выводом
@@ -16,7 +18,7 @@ class repost {
     private $findPost; //ID найденного репоста в пользовательских новостях
     private $find; //Флаг найден/не найден репост у пользователя
 
-    public function __construct($owner_id = '-30022666', $post_id = '85184', $group_id = '30022666') {
+    public function __construct($owner_id = '-30022666', $post_id = '85260', $group_id = '30022666') {
         $this->owner_id = $owner_id;
         $this->post_id = $post_id;
         $this->group_id = $group_id;
@@ -39,6 +41,7 @@ class repost {
         $this->countpost = $countpost;
 
         print_r($this->countpost);
+        echo "<br>";
 
     }
 
@@ -120,6 +123,10 @@ class repost {
 
         // Возврат в Массив
         $member_to_array = (explode(',',$member_to_string));
+
+        $countresult = count($member_to_array);
+
+        $this->countmemberusers = $countresult;
 
 
         // Назнечение глобальной переменной
@@ -236,83 +243,47 @@ class repost {
         $this->memberusers = $this->remakeUsersArray($usersWithInfo);
 
         $k = 1;
-        // проверка сортировки
+
+        // Глобальная переменная из сламма база данных
+
+        global $database;
+
+        // Запись в бд
         foreach ($this->memberusers as $id => $data) {
             $this->getUsersPosts($id);
-            $userinfo = $k .',' ;
-            $userinfo1 = $id .',' ;
-            $userinfo2=  $data['last_name'].' '.$data['first_name'].',' ;
-            $userinfo3 = $data['photo_medium']. ',' ;
+            $userinfo = $k;
+            $userinfo1 = $id;
+            $userinfo2=  $data['last_name'].' '.$data['first_name'];
+            $userinfo3 = $data['photo_medium'];
             // Поиск перепостов
             if ($this->find) {
                 // Теперь используем метод для получения репостов у пользователей, которые репоснули с нашей группы
                 $this->getUsers($id, $this->findPost, 'copies', 0, true);
-                $userinfo4 = $this->findPost.'';
-                $userinfo5 = $this->countReposts.',';
+                $userinfo4 = $this->findPost;
+                $userinfo5 = $this->countReposts;
                 $this->memberusers[$id]['count_reposts'] = $this->countReposts;
-                $userinfomass = $userinfo5 . $userinfo . $userinfo1 . $userinfo2 . $userinfo3 . $userinfo4;
-                $member_to_array = (explode(',',$userinfomass));
-                $group_member[] = $member_to_array;
+                $query  = "INSERT INTO arrays (";
+                $query .= "  reposts, user_news_id, username, userlink, userimage";
+                $query .= ") VALUES (";
+                $query .= "  '{$userinfo5}', '{$userinfo}', '{$userinfo2}', '{$userinfo1}', '{$userinfo3}'";
+                $query .= ")";
+
+                $result = $database->query($query);
+
+                if ($result) {
+                    // Success
+                    // redirect_to("somepage.php");
+                    echo "Success!";
+                } else {
+                    // Failure
+                    // $message = "Subject creation failed";
+                    die("Database query failed. " );
+                }
+
             }
             $k++;
-        }
-
-        $this->filterusers = $group_member;
-
-        /////////////////
-
-        $dbhost = "localhost";
-        $dbuser = "widget_cms";
-        $dbpass = "secretpassword";
-        $dbname = "widget_corp";
-        $connection = mysqli_connect($dbhost, $dbuser, $dbpass, $dbname);
-        mysqli_set_charset($connection, 'utf8');
-
-        if(mysqli_connect_errno()) {
-            die("Database connection failed: " .
-                mysqli_connect_error() .
-                " (" . mysqli_connect_errno() . ")"
-            );
-        }
-
-
-         // 2. Drop table
-
-//        $query = "DROP TABLE arrays";
-//        mysqli_query($connection, $query);
-
-
-        // 2.2  Create table
-
-//        $create_table  = "CREATE TABLE IF NOT EXISTS `arrays` (`id` int(100) NOT NULL AUTO_INCREMENT,`reposts` int(100) DEFAULT NULL,`username` varchar(150) CHARACTER SET utf8 DEFAULT NULL,`userlink` varchar(150) CHARACTER SET utf8 DEFAULT NULL,`userimage` varchar(1000) CHARACTER SET utf8 DEFAULT NULL,`user_news_id` int(150) DEFAULT NULL,PRIMARY KEY (`id`)) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=0";
-//        mysqli_query($connection, $create_table);
-
-
-        foreach($group_member as $value) {
-            $query  = "INSERT INTO arrays (";
-            $query .= "  reposts, username, userlink, userimage, user_news_id";
-            $query .= ") VALUES (";
-            $query .= "  '{$value[0]}', '{$value[3]}', '{$value[2]}', '{$value[4]}', '{$value[5]}'";
-            $query .= ")";
-
-
-            $result = mysqli_query($connection, $query);
-
-            if ($result) {
-                // Success
-                // redirect_to("somepage.php");
-                echo "Success!";
-            } else {
-                // Failure
-                // $message = "Subject creation failed";
-                die("Database query failed. " . mysqli_error($connection));
-            }
 
         }
-
-        mysqli_close($connection);
-
-       ////////////////////////
 
     }
 
@@ -320,19 +291,15 @@ class repost {
 
         $this->getUserCount($this->owner_id, $this->post_id, 'copies');
 
-        for ($i = 0; $i <= ($this->countpost); $i+=200) {
+        echo "Репостов учасниками:" . $this->countmemberusers;
+
+        for ($i = 0; $i <= (($this->countpost)-1); $i+=($this->count)) {
+
+            echo "<br>";
+            echo "Сдвиг" . $i ;
+            echo "<br>";
             $this->saveReposts($i);
         }
-
-
-//        $this->saveReposts($i=0);
-//
-//     $this->saveReposts($i=2);
-//
-//     $this->saveReposts($i=4);
-
-
-
     }
 
 
@@ -353,8 +320,17 @@ class repost {
 <div class="container">
     <table class="table">
         <?php
+
+
+        $query = "DROP TABLE arrays";
+        $result = $database->query($query);
+
+        $create_table  = "CREATE TABLE IF NOT EXISTS `arrays` (`id` int(100) NOT NULL AUTO_INCREMENT,`reposts` int(100) DEFAULT NULL,`username` varchar(150) CHARACTER SET utf8 DEFAULT NULL,`userlink` varchar(150) CHARACTER SET utf8 DEFAULT NULL,`userimage` varchar(1000) CHARACTER SET utf8 DEFAULT NULL,`user_news_id` int(150) DEFAULT NULL,PRIMARY KEY (`id`)) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=0";
+        $result = $database->query($create_table);
+
         $repost = new repost();
         $repost->outputRepost();
+
         ?>
     </table>
 </div>

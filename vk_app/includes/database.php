@@ -16,7 +16,8 @@ class MySQLDatabase {
 
 	public function open_connection() {
 		$this->connection = mysql_connect(DB_SERVER, DB_USER, DB_PASS);
-		if (!$this->connection) {
+        mysql_query("set names 'utf8'");
+        if (!$this->connection) {
 			die("Database connection failed: " . mysql_error());
 		} else {
 			$db_select = mysql_select_db(DB_NAME, $this->connection);

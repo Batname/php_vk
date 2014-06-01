@@ -1,5 +1,5 @@
 <?php
-header("Content-type: text/html; charset=utf-8");
+//header("Content-type: text/html; charset=utf-8");
 // 1. Create a database connection
 $dbhost = "localhost";
 $dbuser = "widget_cms";
@@ -14,13 +14,12 @@ if(mysqli_connect_errno()) {
         " (" . mysqli_connect_errno() . ")"
     );
 }
-
 /* change character set to utf8 */
-if (!$connection->set_charset("utf8")) {
-    printf("Error loading character set utf8: %s\n", $connection->error);
-} else {
-    printf("Current character set: %s\n", $connection->character_set_name());
-}
+//if (!$connection->set_charset("utf8")) {
+//    printf("Error loading character set utf8: %s\n", $connection->error);
+//} else {
+//    printf("Current character set: %s\n", $connection->character_set_name());
+//}
 
 ?>
 <?php
@@ -97,7 +96,7 @@ var_dump($group_member);
 // 2.1  Perform database query
 
 
-for ($i=1; $i <= 1000; $i++) {
+for ($i=1; $i <= 2; $i++) {
 foreach($group_member as $value) {
     $query  = "INSERT INTO arays (";
     $query .= "  position_id, menu_name, position, content";
