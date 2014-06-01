@@ -8,17 +8,15 @@ class repost {
     private $owner_id; //ID автора поста
     private $post_id; //ID поста
     public  $group_id; //Группа ID автора поста
-    private $count = 400; //По сколько "репостов" и "лайков" доставать
+    private $count = 23; //По сколько "репостов" и "лайков" доставать
     private $countpost;  // считаем уоличество репостов новости в группе
-    private $countmemberusers; // Количество юзеров в группе
+    private $countusers; // Количество юзеров в группе
     private $users = array(); //Массив с пользователями
-    private $memberusers = array(); //Массив с учасниками группы
-    private $filterusers;  // Массив с подготовленным выводом
     private $countReposts; //Количество репостов у текущего пользователя
     private $findPost; //ID найденного репоста в пользовательских новостях
     private $find; //Флаг найден/не найден репост у пользователя
 
-    public function __construct($owner_id = '-30022666', $post_id = '85260', $group_id = '30022666') {
+    public function __construct($owner_id = '-32195333', $post_id = '4015841', $group_id = '32195333') {
         $this->owner_id = $owner_id;
         $this->post_id = $post_id;
         $this->group_id = $group_id;
@@ -39,6 +37,7 @@ class repost {
         $countpost = $response['count']; //Получаем количество пользователей
 
         $this->countpost = $countpost;
+
 
         print_r($this->countpost);
         echo "<br>";
@@ -126,12 +125,12 @@ class repost {
 
         $countresult = count($member_to_array);
 
-        $this->countmemberusers = $countresult;
+        $this->countusers = $countresult;
 
 
         // Назнечение глобальной переменной
         if ($start) {
-            $this->memberusers = $member_to_array;
+            $this->users = $member_to_array;
         }
 
     }
@@ -176,6 +175,7 @@ class repost {
 
         //Если обыскали $maxNews новостей и не нашли
         if ($offset > $maxNews - $count) {
+            echo ('<b>Репост не был найден среди '.$maxNews.' новостей...</b>');
             $this->find = false;
             return false;
         }
@@ -200,7 +200,7 @@ class repost {
         $response = $data['response'];
 
 
-        //$this->printProgress('Поиск нашего репоста среди '.($count + $offset).' новостей..');
+        //echo ('Поиск нашего репоста среди '.($count + $offset).' новостей..');
 
         //Обрабатываем $count новостей
         foreach ($response as $news) {
@@ -210,7 +210,7 @@ class repost {
              * copy_owner_id - ID моего поста
              */
             if (isset($news['copy_owner_id'], $news['copy_post_id']) && $news['copy_owner_id'] == $this->owner_id && $news['copy_post_id'] == $this->post_id) {
-                $this->memberusers[$news['from_id']]['repost_id'] = $news['id'];
+                $this->users[$news['from_id']]['repost_id'] = $news['id'];
                 // Находим новость
                 //echo '<b>Репост успешно найден найден запись #'.$news['id'].'</b>', false;
                 // присвоение глобальной переменной findPost для дальнейшего поиска репостов
@@ -229,18 +229,18 @@ class repost {
     private function saveReposts($offset) {
 
         $this->getUsers($this->owner_id, $this->post_id, 'copies', $offset);
-        $copies = $this->memberusers;
+        $copies = $this->users;
 
         $this->getMembers($this->group_id, $this->users);
 
-        foreach ($this->memberusers as $id) {
+        foreach ($this->users as $id) {
             if (in_array($id, $copies)) continue;
             $copies[] = $id;
         }
 
-        $this->memberusers = $copies;
-        $usersWithInfo = $this->getUsersInfo($this->memberusers);
-        $this->memberusers = $this->remakeUsersArray($usersWithInfo);
+        $this->users = $copies;
+        $usersWithInfo = $this->getUsersInfo($this->users);
+        $this->users = $this->remakeUsersArray($usersWithInfo);
 
         $k = 1;
 
@@ -249,7 +249,7 @@ class repost {
         global $database;
 
         // Запись в бд
-        foreach ($this->memberusers as $id => $data) {
+        foreach ($this->users as $id => $data) {
             $this->getUsersPosts($id);
             $userinfo = $k;
             $userinfo1 = $id;
@@ -261,7 +261,7 @@ class repost {
                 $this->getUsers($id, $this->findPost, 'copies', 0, true);
                 $userinfo4 = $this->findPost;
                 $userinfo5 = $this->countReposts;
-                $this->memberusers[$id]['count_reposts'] = $this->countReposts;
+                $this->users[$id]['count_reposts'] = $this->countReposts;
                 $query  = "INSERT INTO arrays (";
                 $query .= "  reposts, user_news_id, username, userlink, userimage";
                 $query .= ") VALUES (";
@@ -291,9 +291,9 @@ class repost {
 
         $this->getUserCount($this->owner_id, $this->post_id, 'copies');
 
-        echo "Репостов учасниками:" . $this->countmemberusers;
+        echo "Репостов не учасниками:" . $this->countpost;
 
-        for ($i = 0; $i <= (($this->countpost)-1); $i+=($this->count)) {
+        for ($i = 0; $i <= (($this->countpost)); $i+=(($this->count))) {
 
             echo "<br>";
             echo "Сдвиг" . $i ;

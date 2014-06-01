@@ -26,14 +26,28 @@
       <file leaf-file-name="repost.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vk_app/includes/repost.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="74" selection-start="922" selection-end="922" vertical-scroll-proportion="0.33035713" vertical-offset="226" max-vertical-offset="5160">
+            <state line="295" column="46" selection-start="10118" selection-end="10118" vertical-scroll-proportion="0.42194092" vertical-offset="4325" max-vertical-offset="5160">
               <folding>
-                <marker date="1401613208698" expanded="true" signature="9294:9314" placeholder="INSERT INTO ..." />
-                <marker date="1401613208698" expanded="true" signature="10424:11507" placeholder="..." />
-                <marker date="1401613208698" expanded="true" signature="10424:10447" placeholder="..." />
-                <marker date="1401613208698" expanded="true" signature="10431:10447" placeholder="..." />
-                <marker date="1401613208698" expanded="true" signature="10862:10879" placeholder="DROP TABLE a..." />
-                <marker date="1401613208698" expanded="true" signature="10953:11341" placeholder="CREATE TABLE..IF..." />
+                <marker date="1401619991323" expanded="true" signature="9095:9115" placeholder="INSERT INTO ..." />
+                <marker date="1401619991323" expanded="true" signature="9169:9189" placeholder="INSERT INTO ..." />
+                <marker date="1401619991323" expanded="true" signature="10295:11378" placeholder="..." />
+                <marker date="1401619991323" expanded="true" signature="10295:10318" placeholder="..." />
+                <marker date="1401619991323" expanded="true" signature="10302:10318" placeholder="..." />
+                <marker date="1401619991323" expanded="true" signature="10733:10750" placeholder="DROP TABLE a..." />
+                <marker date="1401619991323" expanded="true" signature="10824:11212" placeholder="CREATE TABLE..IF..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="likes.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vk-api-standart/likes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="119" column="73" selection-start="4323" selection-end="4432" vertical-scroll-proportion="-5.75" vertical-offset="1647" max-vertical-offset="3765">
+              <folding>
+                <marker date="1401571888032" expanded="true" signature="8674:8821" placeholder="..." />
+                <marker date="1401571888032" expanded="true" signature="8681:8741" placeholder="..." />
+                <marker date="1401571888032" expanded="true" signature="8748:8813" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -377,7 +391,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -385,7 +399,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28846154" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5739645" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4718935" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21137586" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.13045822" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -453,12 +467,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="74" selection-start="831" selection-end="831" vertical-scroll-proportion="0.0" vertical-offset="183" max-vertical-offset="5340">
           <folding>
-            <marker date="1401613208698" expanded="true" signature="9294:9314" placeholder="INSERT INTO ..." />
-            <marker date="1401613208698" expanded="true" signature="10424:11507" placeholder="..." />
-            <marker date="1401613208698" expanded="true" signature="10424:10447" placeholder="..." />
-            <marker date="1401613208698" expanded="true" signature="10431:10447" placeholder="..." />
-            <marker date="1401613208698" expanded="true" signature="10862:10879" placeholder="DROP TABLE a..." />
-            <marker date="1401613208698" expanded="true" signature="10953:11341" placeholder="CREATE TABLE..IF..." />
+            <marker date="1401619991323" expanded="true" signature="9095:9115" placeholder="INSERT INTO ..." />
+            <marker date="1401619991323" expanded="true" signature="9169:9189" placeholder="INSERT INTO ..." />
+            <marker date="1401619991323" expanded="true" signature="10295:11378" placeholder="..." />
+            <marker date="1401619991323" expanded="true" signature="10295:10318" placeholder="..." />
+            <marker date="1401619991323" expanded="true" signature="10302:10318" placeholder="..." />
+            <marker date="1401619991323" expanded="true" signature="10733:10750" placeholder="DROP TABLE a..." />
+            <marker date="1401619991323" expanded="true" signature="10824:11212" placeholder="CREATE TABLE..IF..." />
           </folding>
         </state>
       </provider>
@@ -643,11 +658,6 @@
         <state line="8" column="21" selection-start="182" selection-end="182" vertical-scroll-proportion="0.1280683" vertical-offset="0" max-vertical-offset="1125" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vk-api-standart/likes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="190" column="35" selection-start="7297" selection-end="7361" vertical-scroll-proportion="0.5898268" vertical-offset="2305" max-vertical-offset="3765" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter06/06_02_photo_gallery/public/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="961" />
@@ -719,16 +729,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/vk-api-standart/likes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="119" column="73" selection-start="4323" selection-end="4432" vertical-scroll-proportion="-5.75" vertical-offset="1647" max-vertical-offset="3765">
+          <folding>
+            <marker date="1401571888032" expanded="true" signature="8674:8821" placeholder="..." />
+            <marker date="1401571888032" expanded="true" signature="8681:8741" placeholder="..." />
+            <marker date="1401571888032" expanded="true" signature="8748:8813" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vk_app/includes/repost.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="74" selection-start="922" selection-end="922" vertical-scroll-proportion="0.33035713" vertical-offset="226" max-vertical-offset="5160">
+        <state line="295" column="46" selection-start="10118" selection-end="10118" vertical-scroll-proportion="0.42194092" vertical-offset="4325" max-vertical-offset="5160">
           <folding>
-            <marker date="1401613208698" expanded="true" signature="9294:9314" placeholder="INSERT INTO ..." />
-            <marker date="1401613208698" expanded="true" signature="10424:11507" placeholder="..." />
-            <marker date="1401613208698" expanded="true" signature="10424:10447" placeholder="..." />
-            <marker date="1401613208698" expanded="true" signature="10431:10447" placeholder="..." />
-            <marker date="1401613208698" expanded="true" signature="10862:10879" placeholder="DROP TABLE a..." />
-            <marker date="1401613208698" expanded="true" signature="10953:11341" placeholder="CREATE TABLE..IF..." />
+            <marker date="1401619991323" expanded="true" signature="9095:9115" placeholder="INSERT INTO ..." />
+            <marker date="1401619991323" expanded="true" signature="9169:9189" placeholder="INSERT INTO ..." />
+            <marker date="1401619991323" expanded="true" signature="10295:11378" placeholder="..." />
+            <marker date="1401619991323" expanded="true" signature="10295:10318" placeholder="..." />
+            <marker date="1401619991323" expanded="true" signature="10302:10318" placeholder="..." />
+            <marker date="1401619991323" expanded="true" signature="10733:10750" placeholder="DROP TABLE a..." />
+            <marker date="1401619991323" expanded="true" signature="10824:11212" placeholder="CREATE TABLE..IF..." />
           </folding>
         </state>
       </provider>
