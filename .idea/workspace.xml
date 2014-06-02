@@ -22,22 +22,43 @@
     <favorites_list name="php" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="repost.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/vk_app/includes/repost.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="5" selection-start="932" selection-end="932" vertical-scroll-proportion="0.6133829" vertical-offset="0" max-vertical-offset="4890">
-              <folding>
-                <element signature="n#getMembers#0;n#repost#0;n#!!top" expanded="false" />
-                <marker date="1401669835150" expanded="true" signature="9656:9676" placeholder="INSERT INTO ..." />
-                <marker date="1401669835150" expanded="true" signature="11231:11248" placeholder="DROP TABLE a..." />
-                <marker date="1401669835150" expanded="true" signature="11322:11710" placeholder="CREATE TABLE..IF..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.46789616">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/vk_app/public/index.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="31" column="33" selection-start="1124" selection-end="1124" vertical-scroll-proportion="0.57195574" vertical-offset="0" max-vertical-offset="813">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="likes.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/vk-api-standart/likes.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="190" column="39" selection-start="7338" selection-end="7338" vertical-scroll-proportion="0.33333334" vertical-offset="2858" max-vertical-offset="3765">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="repost.php" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/vk-api-standart/repost.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="281" column="25" selection-start="9992" selection-end="10050" vertical-scroll-proportion="0.14514145" vertical-offset="4097" max-vertical-offset="5670">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -61,8 +82,6 @@
         <option value="$PROJECT_DIR$/vk_app/includes/functions.php" />
         <option value="$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter06/06_05_photo_gallery/includes/database.php" />
         <option value="$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter06/06_07_photo_gallery/includes/user.php" />
-        <option value="$PROJECT_DIR$/vk_app/includes/user.php" />
-        <option value="$PROJECT_DIR$/vk_app/public/index.php" />
         <option value="$PROJECT_DIR$/vk-api-standart/repost.php" />
         <option value="$PROJECT_DIR$/vk_app/includes/test.php" />
         <option value="$PROJECT_DIR$/vk_app/includes/config.php" />
@@ -71,6 +90,8 @@
         <option value="$PROJECT_DIR$/vk_app/includes/database.php" />
         <option value="$PROJECT_DIR$/vk-api-standart/likes.php" />
         <option value="$PROJECT_DIR$/vk_app/includes/repost.php" />
+        <option value="$PROJECT_DIR$/vk_app/includes/user.php" />
+        <option value="$PROJECT_DIR$/vk_app/public/index.php" />
       </list>
     </option>
   </component>
@@ -114,6 +135,66 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="php" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php_vk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php_vk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vk_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php_vk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vk_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php_vk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vk-api-standart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -226,7 +307,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-4" width="1857" height="1085" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -234,9 +315,9 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28846154" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39068827" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11234818" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21078168" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.03234501" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.13045822" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4402834" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -314,9 +395,9 @@
         <state line="295" column="46" selection-start="10118" selection-end="10118" vertical-scroll-proportion="0.0" vertical-offset="4325" max-vertical-offset="5160">
           <folding>
             <element signature="n#getMembers#0;n#repost#0;n#!!top" expanded="false" />
-            <marker date="1401669835150" expanded="true" signature="9656:9676" placeholder="INSERT INTO ..." />
-            <marker date="1401669835150" expanded="true" signature="11231:11248" placeholder="DROP TABLE a..." />
-            <marker date="1401669835150" expanded="true" signature="11322:11710" placeholder="CREATE TABLE..IF..." />
+            <marker date="1401669835150" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1401669835150" expanded="true" signature="-1:-1" placeholder="DROP TABLE a..." />
+            <marker date="1401669835150" expanded="true" signature="-1:-1" placeholder="CREATE TABLE..IF..." />
           </folding>
         </state>
       </provider>
@@ -340,9 +421,9 @@
         <state line="18" column="74" selection-start="831" selection-end="831" vertical-scroll-proportion="0.0" vertical-offset="183" max-vertical-offset="5340">
           <folding>
             <element signature="n#getMembers#0;n#repost#0;n#!!top" expanded="false" />
-            <marker date="1401669835150" expanded="true" signature="9656:9676" placeholder="INSERT INTO ..." />
-            <marker date="1401669835150" expanded="true" signature="11231:11248" placeholder="DROP TABLE a..." />
-            <marker date="1401669835150" expanded="true" signature="11322:11710" placeholder="CREATE TABLE..IF..." />
+            <marker date="1401669835150" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1401669835150" expanded="true" signature="-1:-1" placeholder="DROP TABLE a..." />
+            <marker date="1401669835150" expanded="true" signature="-1:-1" placeholder="CREATE TABLE..IF..." />
           </folding>
         </state>
       </provider>
@@ -537,11 +618,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="961" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vk-api-standart/repost.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="354" column="0" selection-start="12036" selection-end="12531" vertical-scroll-proportion="1.6773256" vertical-offset="4733" max-vertical-offset="5670" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vk_app/includes/arrays.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="0" selection-start="45" selection-end="455" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
@@ -549,28 +625,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vk_app/includes/user.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="22" selection-start="256" selection-end="256" vertical-scroll-proportion="0.264" vertical-offset="0" max-vertical-offset="1155" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vk-api-standart/likes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="54" selection-start="557" selection-end="565" vertical-scroll-proportion="0.112059765" vertical-offset="105" max-vertical-offset="3765">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter06/06_05_photo_gallery/public/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="0" selection-start="126" selection-end="178" vertical-scroll-proportion="0.15625" vertical-offset="0" max-vertical-offset="576">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vk_app/public/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
           <folding />
         </state>
       </provider>
@@ -598,13 +655,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vk_app/includes/repost.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="5" selection-start="932" selection-end="932" vertical-scroll-proportion="0.6133829" vertical-offset="0" max-vertical-offset="4890">
+        <state line="22" column="5" selection-start="932" selection-end="932" vertical-scroll-proportion="-1.310409" vertical-offset="1035" max-vertical-offset="4890">
           <folding>
             <element signature="n#getMembers#0;n#repost#0;n#!!top" expanded="false" />
-            <marker date="1401669835150" expanded="true" signature="9656:9676" placeholder="INSERT INTO ..." />
-            <marker date="1401669835150" expanded="true" signature="11231:11248" placeholder="DROP TABLE a..." />
-            <marker date="1401669835150" expanded="true" signature="11322:11710" placeholder="CREATE TABLE..IF..." />
+            <marker date="1401669835150" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1401669835150" expanded="true" signature="-1:-1" placeholder="DROP TABLE a..." />
+            <marker date="1401669835150" expanded="true" signature="-1:-1" placeholder="CREATE TABLE..IF..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vk_app/includes/user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="22" selection-start="256" selection-end="256" vertical-scroll-proportion="0.30669144" vertical-offset="0" max-vertical-offset="1260">
+          <folding>
+            <marker date="1401706935130" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..arrays..." />
+            <marker date="1401706935130" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..arrays..." />
+            <marker date="1401706935130" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..arrays..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vk-api-standart/likes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="190" column="39" selection-start="7338" selection-end="7338" vertical-scroll-proportion="0.33333334" vertical-offset="2858" max-vertical-offset="3765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vk-api-standart/repost.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="281" column="25" selection-start="9992" selection-end="10050" vertical-scroll-proportion="0.14514145" vertical-offset="4097" max-vertical-offset="5670">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vk_app/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="33" selection-start="1124" selection-end="1124" vertical-scroll-proportion="0.57195574" vertical-offset="0" max-vertical-offset="813">
+          <folding />
         </state>
       </provider>
     </entry>

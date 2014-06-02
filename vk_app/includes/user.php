@@ -11,10 +11,17 @@ class User {
     public $first_name;
     public $last_name;
     public $userimage;
+    public $reposts;
+    public $userlink;
+    public $user_news_id;
 
 	public static function find_all() {
 		return self::find_by_sql("SELECT * FROM arrays ");
   }
+
+    public static function find_top_10() {
+        return self::find_by_sql("SELECT * FROM arrays ORDER BY `arrays`.`reposts` DESC LIMIT 0 , 10");
+    }
 
     public static function find_by_id($id=0) {
         $result_array = self::find_by_sql("SELECT * FROM arrays WHERE id={$id} LIMIT 1");
