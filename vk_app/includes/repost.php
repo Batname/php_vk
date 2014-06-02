@@ -8,7 +8,7 @@ class repost {
     private $owner_id; //ID автора поста
     private $post_id; //ID поста
     public  $group_id; //Группа ID автора поста
-    private $count = 23; //По сколько "репостов" и "лайков" доставать
+    private $count = 400; //По сколько "репостов" и "лайков" доставать
     private $countpost;  // считаем уоличество репостов новости в группе
     private $countusers; // Количество юзеров в группе
     private $users = array(); //Массив с пользователями
@@ -16,7 +16,7 @@ class repost {
     private $findPost; //ID найденного репоста в пользовательских новостях
     private $find; //Флаг найден/не найден репост у пользователя
 
-    public function __construct($owner_id = '-32195333', $post_id = '4015841', $group_id = '32195333') {
+    public function __construct($owner_id = '-30022666', $post_id = '84560', $group_id = '30022666') {
         $this->owner_id = $owner_id;
         $this->post_id = $post_id;
         $this->group_id = $group_id;
@@ -38,9 +38,10 @@ class repost {
 
         $this->countpost = $countpost;
 
-
+        echo "Всего перепостов: ";
         print_r($this->countpost);
         echo "<br>";
+
 
     }
 
@@ -75,14 +76,27 @@ class repost {
         //Далее рекурсивно будет получать пользователей до тех пор, пока не считаем все. При этом сдвигаем offset.
         $users = $response['users'];
 
+        // перебор и выделение только положительных значений
+
+        foreach ($users as $user) {
+            if ( $user > 0 ) {
+                $onlyuser[]= $user;
+            }
+        }
+
+        echo "Всего перепостов людьми: ";
+        echo count($onlyuser);
+        echo "<br>";
+
+
         //если ответ, не содержит нужных данных
-        if (count($users) == 0) return false;
+        if (count($onlyuser) == 0) return false;
 
         // старт рекурсии присвоение глобальной переменной user
         if ($start) {
-            $this->users = $users;
+            $this->users = $onlyuser;
         } else {
-            $this->users = array_merge($this->users, $users);
+            $this->users = array_merge($this->users, $onlyuser);
         }
 
         //$offset += $this->count;
@@ -137,10 +151,14 @@ class repost {
 
     //Для удобства я изменил ключи в массиве. Ключами являются - ID пользователя сайта vk.com
     private function remakeUsersArray($usersWithInfo) {
+
+
         $new = array();
         foreach ($usersWithInfo as $value) {
             $new[$value['uid']] = $value;
         }
+
+
 
         return $new;
     }
@@ -153,7 +171,6 @@ class repost {
         foreach ($vkIDs as $key => $val) {
             if ((int)$val < 0) unset($vkIDs[$key]);
         }
-
 
         $uids = implode(',', $vkIDs);
         $fields = 'uid,first_name,last_name,nickname,screen_name,sex,city,country,timezone,photo,photo_medium,photo_big,has_mobile,rate,online,counters';
@@ -175,7 +192,7 @@ class repost {
 
         //Если обыскали $maxNews новостей и не нашли
         if ($offset > $maxNews - $count) {
-            echo ('<b>Репост не был найден среди '.$maxNews.' новостей...</b>');
+            echo ('<b>Репост не был найден среди '.$maxNews.' '.$owner_id.' новостей...</b>');
             $this->find = false;
             return false;
         }
@@ -231,6 +248,8 @@ class repost {
         $this->getUsers($this->owner_id, $this->post_id, 'copies', $offset);
         $copies = $this->users;
 
+        //var_dump($copies);
+
         $this->getMembers($this->group_id, $this->users);
 
         foreach ($this->users as $id) {
@@ -239,7 +258,9 @@ class repost {
         }
 
         $this->users = $copies;
+
         $usersWithInfo = $this->getUsersInfo($this->users);
+
         $this->users = $this->remakeUsersArray($usersWithInfo);
 
         $k = 1;
@@ -253,7 +274,10 @@ class repost {
             $this->getUsersPosts($id);
             $userinfo = $k;
             $userinfo1 = $id;
-            $userinfo2=  $data['last_name'].' '.$data['first_name'];
+            $userinfo2 = $data['last_name'] . ' ' . $data['first_name'];
+            $userinfo2escape = $database->escape_value($userinfo2); // escape data в имени пользователя
+
+
             $userinfo3 = $data['photo_medium'];
             // Поиск перепостов
             if ($this->find) {
@@ -262,13 +286,14 @@ class repost {
                 $userinfo4 = $this->findPost;
                 $userinfo5 = $this->countReposts;
                 $this->users[$id]['count_reposts'] = $this->countReposts;
-                $query  = "INSERT INTO arrays (";
+                $query = "INSERT INTO arrays (";
                 $query .= "  reposts, user_news_id, username, userlink, userimage";
                 $query .= ") VALUES (";
-                $query .= "  '{$userinfo5}', '{$userinfo}', '{$userinfo2}', '{$userinfo1}', '{$userinfo3}'";
+                $query .= "  '{$userinfo5}', '{$userinfo}', '{$userinfo2escape}', '{$userinfo1}', '{$userinfo3}'";
                 $query .= ")";
 
                 $result = $database->query($query);
+
 
                 if ($result) {
                     // Success
@@ -277,7 +302,7 @@ class repost {
                 } else {
                     // Failure
                     // $message = "Subject creation failed";
-                    die("Database query failed. " );
+                    die("Database query failed. ");
                 }
 
             }
@@ -291,15 +316,15 @@ class repost {
 
         $this->getUserCount($this->owner_id, $this->post_id, 'copies');
 
-        echo "Репостов не учасниками:" . $this->countpost;
-
-        for ($i = 0; $i <= (($this->countpost)); $i+=(($this->count))) {
-
+         for ($i = 0; $i <= ($this->countpost); $i+=(($this->count))) {
             echo "<br>";
-            echo "Сдвиг" . $i ;
+            echo "Сдвиг: " . $i ;
             echo "<br>";
             $this->saveReposts($i);
+            if ($i == ($this->countpost)-($this->count)) break;
+
         }
+
     }
 
 
@@ -320,7 +345,6 @@ class repost {
 <div class="container">
     <table class="table">
         <?php
-
 
         $query = "DROP TABLE arrays";
         $result = $database->query($query);

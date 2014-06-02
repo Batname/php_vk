@@ -12,7 +12,7 @@ class VKLIKES {
     private $findPost; //ID найденного репоста в пользовательских новостях
     private $find; //Флаг найден/не найден репост у пользователя
 
-    public function __construct($owner_id = '-30022666', $post_id = '84893') {
+    public function __construct($owner_id = '-32195333', $post_id = '4040195') {
         $this->owner_id = $owner_id;
         $this->post_id = $post_id;
     }
