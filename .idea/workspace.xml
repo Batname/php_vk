@@ -23,28 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="indexrepost.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/vk_app/includes/indexrepost.php">
+      <file leaf-file-name="ssh.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vk_app/includes/ssh.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="52" selection-start="1358" selection-end="1358" vertical-scroll-proportion="0.64784056" vertical-offset="135" max-vertical-offset="885">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="repost.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vk_app/includes/repost.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="28" selection-start="28" selection-end="28" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="90">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="file_write.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter07/07_12_btb_sandbox/file_write.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="24" selection-start="97" selection-end="100" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="420">
+            <state line="4" column="2" selection-start="60" selection-end="60" vertical-scroll-proportion="0.09966777" vertical-offset="0" max-vertical-offset="602">
               <folding />
             </state>
           </provider>
@@ -69,10 +51,14 @@
         <option value="$PROJECT_DIR$/basic/Chapter 12/12_02/sandbox/continue.php" />
         <option value="$PROJECT_DIR$/vk_app/public/index.php" />
         <option value="$PROJECT_DIR$/vk_app/public/ajaxload.html" />
-        <option value="$PROJECT_DIR$/vk_app/includes/repost.php" />
         <option value="$PROJECT_DIR$/vk_app/public/repost.html" />
         <option value="$PROJECT_DIR$/vk_app/includes/filetest.html" />
         <option value="$PROJECT_DIR$/vk_app/includes/indexrepost.php" />
+        <option value="$PROJECT_DIR$/vk_app/includes/ajaxload.html" />
+        <option value="$PROJECT_DIR$/Ex_Files_JScript_AJAX/Exercise Files/01-02/finished/ajax/script.js" />
+        <option value="$PROJECT_DIR$/Ex_Files_JScript_AJAX/Exercise Files/01-02/finished/ajax/index.html" />
+        <option value="$PROJECT_DIR$/vk_app/includes/repost.php" />
+        <option value="$PROJECT_DIR$/vk_app/includes/ssh.php" />
         <option value="$PROJECT_DIR$/vk_app/includes/repost.html" />
       </list>
     </option>
@@ -160,60 +146,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php_vk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PHP_Bayond_the_basic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php_vk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PHP_Bayond_the_basic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter07" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php_vk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PHP_Bayond_the_basic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter07" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="07_12_btb_sandbox" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -233,6 +165,9 @@
     <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/vk_app/includes" />
     </key>
@@ -401,9 +336,9 @@
             <element signature="n#getUsersPosts#0;n#repost#0;n#!!top" expanded="false" />
             <element signature="n#saveReposts#0;n#repost#0;n#!!top" expanded="false" />
             <element signature="n#outputRepost#0;n#repost#0;n#!!top" expanded="false" />
-            <marker date="1401881983682" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1401881983682" expanded="true" signature="-1:-1" placeholder="DROP TABLE a..." />
-            <marker date="1401881983682" expanded="true" signature="-1:-1" placeholder="CREATE TABLE..IF..." />
+            <marker date="1401891581318" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1401891581318" expanded="true" signature="-1:-1" placeholder="DROP TABLE a..." />
+            <marker date="1401891581318" expanded="true" signature="-1:-1" placeholder="CREATE TABLE..IF..." />
           </folding>
         </state>
       </provider>
@@ -560,9 +495,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/vk_app/includes/indexrepost.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="6" selection-start="574" selection-end="574" vertical-scroll-proportion="0.47342193" vertical-offset="0" max-vertical-offset="885">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter07/07_12_btb_sandbox/file_write.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="24" selection-start="97" selection-end="100" vertical-scroll-proportion="0.12458472" vertical-offset="0" max-vertical-offset="602">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ex_Files_JScript_AJAX/Exercise Files/01-02/finished/ajax/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="31" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ex_Files_JScript_AJAX/Exercise Files/01-02/finished/ajax/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="7" selection-start="120" selection-end="136" vertical-scroll-proportion="0.1744186" vertical-offset="0" max-vertical-offset="602">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ex_Files_JScript_AJAX/Exercise Files/01-02/finished/ajax/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="11" selection-start="11" selection-end="11" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vk_app/includes/ajaxload.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="58" selection-start="848" selection-end="848" vertical-scroll-proportion="0.5730897" vertical-offset="0" max-vertical-offset="602">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vk_app/includes/repost.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="7" selection-end="36" vertical-scroll-proportion="0.073529415" vertical-offset="0" max-vertical-offset="1125">
+        <state line="2" column="0" selection-start="7" selection-end="36" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="1125">
           <folding>
             <element signature="n#__construct#0;n#repost#0;n#!!top" expanded="false" />
             <element signature="n#getUserCount#0;n#repost#0;n#!!top" expanded="false" />
@@ -573,37 +550,23 @@
             <element signature="n#getUsersPosts#0;n#repost#0;n#!!top" expanded="false" />
             <element signature="n#saveReposts#0;n#repost#0;n#!!top" expanded="false" />
             <element signature="n#outputRepost#0;n#repost#0;n#!!top" expanded="false" />
-            <marker date="1401881983682" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1401881983682" expanded="true" signature="-1:-1" placeholder="DROP TABLE a..." />
-            <marker date="1401881983682" expanded="true" signature="-1:-1" placeholder="CREATE TABLE..IF..." />
+            <marker date="1401891581318" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1401891581318" expanded="true" signature="-1:-1" placeholder="DROP TABLE a..." />
+            <marker date="1401891581318" expanded="true" signature="-1:-1" placeholder="CREATE TABLE..IF..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vk_app/includes/ajaxload.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="7" selection-start="554" selection-end="554" vertical-scroll-proportion="0.38243628" vertical-offset="0" max-vertical-offset="706">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PHP_Bayond_the_basic/Chapter07/07_12_btb_sandbox/file_write.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="24" selection-start="97" selection-end="100" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="420">
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vk_app/includes/repost.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="28" selection-start="28" selection-end="28" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="90">
+        <state line="0" column="70" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="589">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vk_app/includes/indexrepost.php">
+    <entry file="file://$PROJECT_DIR$/vk_app/includes/ssh.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="52" selection-start="1358" selection-end="1358" vertical-scroll-proportion="0.64784056" vertical-offset="135" max-vertical-offset="885">
+        <state line="4" column="2" selection-start="60" selection-end="60" vertical-scroll-proportion="0.09966777" vertical-offset="0" max-vertical-offset="602">
           <folding />
         </state>
       </provider>
