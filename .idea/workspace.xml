@@ -23,50 +23,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vk_app/public/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="9" selection-start="482" selection-end="482" vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="810">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="repost.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vk_app/includes/repost.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="294" column="57" selection-start="10110" selection-end="10110" vertical-scroll-proportion="0.48844376" vertical-offset="913" max-vertical-offset="2385">
+            <state line="19" column="76" selection-start="848" selection-end="848" vertical-scroll-proportion="0.30662557" vertical-offset="86" max-vertical-offset="1125">
               <folding>
+                <element signature="n#__construct#0;n#repost#0;n#!!top" expanded="false" />
                 <element signature="n#getUserCount#0;n#repost#0;n#!!top" expanded="false" />
                 <element signature="n#getUsers#0;n#repost#0;n#!!top" expanded="false" />
                 <element signature="n#getMembers#0;n#repost#0;n#!!top" expanded="false" />
                 <element signature="n#remakeUsersArray#0;n#repost#0;n#!!top" expanded="false" />
                 <element signature="n#getUsersInfo#0;n#repost#0;n#!!top" expanded="false" />
                 <element signature="n#getUsersPosts#0;n#repost#0;n#!!top" expanded="false" />
-                <marker date="1401881230466" expanded="true" signature="9906:9926" placeholder="INSERT INTO ..." />
-                <marker date="1401881230466" expanded="true" signature="11045:11068" placeholder="..." />
-                <marker date="1401881230466" expanded="true" signature="11052:11068" placeholder="..." />
-                <marker date="1401881230466" expanded="true" signature="11482:11499" placeholder="DROP TABLE a..." />
-                <marker date="1401881230466" expanded="true" signature="11573:11961" placeholder="CREATE TABLE..IF..." />
+                <element signature="n#saveReposts#0;n#repost#0;n#!!top" expanded="false" />
+                <element signature="n#outputRepost#0;n#repost#0;n#!!top" expanded="false" />
+                <marker date="1401881983682" expanded="true" signature="9906:9926" placeholder="INSERT INTO ..." />
+                <marker date="1401881983682" expanded="true" signature="11480:11497" placeholder="DROP TABLE a..." />
+                <marker date="1401881983682" expanded="true" signature="11571:11959" placeholder="CREATE TABLE..IF..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="repost.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vk_app/public/repost.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="34" selection-start="34" selection-end="34" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="90">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vk_app/public/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="0" selection-start="604" selection-end="674" vertical-scroll-proportion="-10.708333" vertical-offset="58" max-vertical-offset="810">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ajaxload.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vk_app/public/ajaxload.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="9" selection-start="480" selection-end="480" vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="360">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -293,7 +276,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-4" width="1857" height="1085" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0393531" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -304,7 +287,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299595" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27834007" sideWeight="0.91698116" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27834007" sideWeight="0.91698116" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39979756" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -354,17 +337,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="156" column="7" selection-start="5022" selection-end="5111" vertical-scroll-proportion="0.0" vertical-offset="2340" max-vertical-offset="5520">
           <folding>
+            <element signature="n#__construct#0;n#repost#0;n#!!top" expanded="false" />
             <element signature="n#getUserCount#0;n#repost#0;n#!!top" expanded="false" />
             <element signature="n#getUsers#0;n#repost#0;n#!!top" expanded="false" />
             <element signature="n#getMembers#0;n#repost#0;n#!!top" expanded="false" />
             <element signature="n#remakeUsersArray#0;n#repost#0;n#!!top" expanded="false" />
             <element signature="n#getUsersInfo#0;n#repost#0;n#!!top" expanded="false" />
             <element signature="n#getUsersPosts#0;n#repost#0;n#!!top" expanded="false" />
-            <marker date="1401881230466" expanded="true" signature="9906:9926" placeholder="INSERT INTO ..." />
-            <marker date="1401881230466" expanded="true" signature="11045:11068" placeholder="..." />
-            <marker date="1401881230466" expanded="true" signature="11052:11068" placeholder="..." />
-            <marker date="1401881230466" expanded="true" signature="11482:11499" placeholder="DROP TABLE a..." />
-            <marker date="1401881230466" expanded="true" signature="11573:11961" placeholder="CREATE TABLE..IF..." />
+            <element signature="n#saveReposts#0;n#repost#0;n#!!top" expanded="false" />
+            <element signature="n#outputRepost#0;n#repost#0;n#!!top" expanded="false" />
+            <marker date="1401881983682" expanded="true" signature="9906:9926" placeholder="INSERT INTO ..." />
+            <marker date="1401881983682" expanded="true" signature="11480:11497" placeholder="DROP TABLE a..." />
+            <marker date="1401881983682" expanded="true" signature="11571:11959" placeholder="CREATE TABLE..IF..." />
           </folding>
         </state>
       </provider>
@@ -503,35 +487,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vk_app/public/index.php">
+    <entry file="file://$PROJECT_DIR$/vk_app/includes/arrays.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="604" selection-end="674" vertical-scroll-proportion="-10.708333" vertical-offset="58" max-vertical-offset="810">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="686">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vk_app/public/repost.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="34" selection-start="34" selection-end="34" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="649">
+        <state line="0" column="46" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="649">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vk_app/includes/user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1260">
+          <folding>
+            <marker date="1401706935130" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..arrays..." />
+            <marker date="1401706935130" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..arrays..." />
+            <marker date="1401706935130" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..arrays..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vk_app/includes/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1365">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vk_app/includes/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="662">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vk_app/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="9" selection-start="482" selection-end="482" vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="810">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vk_app/includes/repost.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="294" column="57" selection-start="10110" selection-end="10110" vertical-scroll-proportion="0.48844376" vertical-offset="913" max-vertical-offset="2385">
+        <state line="19" column="76" selection-start="848" selection-end="848" vertical-scroll-proportion="0.30662557" vertical-offset="86" max-vertical-offset="1125">
           <folding>
+            <element signature="n#__construct#0;n#repost#0;n#!!top" expanded="false" />
             <element signature="n#getUserCount#0;n#repost#0;n#!!top" expanded="false" />
             <element signature="n#getUsers#0;n#repost#0;n#!!top" expanded="false" />
             <element signature="n#getMembers#0;n#repost#0;n#!!top" expanded="false" />
             <element signature="n#remakeUsersArray#0;n#repost#0;n#!!top" expanded="false" />
             <element signature="n#getUsersInfo#0;n#repost#0;n#!!top" expanded="false" />
             <element signature="n#getUsersPosts#0;n#repost#0;n#!!top" expanded="false" />
-            <marker date="1401881230466" expanded="true" signature="9906:9926" placeholder="INSERT INTO ..." />
-            <marker date="1401881230466" expanded="true" signature="11045:11068" placeholder="..." />
-            <marker date="1401881230466" expanded="true" signature="11052:11068" placeholder="..." />
-            <marker date="1401881230466" expanded="true" signature="11482:11499" placeholder="DROP TABLE a..." />
-            <marker date="1401881230466" expanded="true" signature="11573:11961" placeholder="CREATE TABLE..IF..." />
+            <element signature="n#saveReposts#0;n#repost#0;n#!!top" expanded="false" />
+            <element signature="n#outputRepost#0;n#repost#0;n#!!top" expanded="false" />
+            <marker date="1401881983682" expanded="true" signature="9906:9926" placeholder="INSERT INTO ..." />
+            <marker date="1401881983682" expanded="true" signature="11480:11497" placeholder="DROP TABLE a..." />
+            <marker date="1401881983682" expanded="true" signature="11571:11959" placeholder="CREATE TABLE..IF..." />
           </folding>
         </state>
       </provider>

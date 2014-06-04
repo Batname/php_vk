@@ -8,7 +8,7 @@ class repost {
     private $owner_id; //ID автора поста
     private $post_id; //ID поста
     public  $group_id; //Группа ID автора поста
-    private $count = 400; //По сколько "репостов" и "лайков" доставать
+    private $count = 10; //По сколько "репостов" и "лайков" доставать
     private $countpost;  // считаем уоличество репостов новости в группе
     private $countusers; // Количество юзеров в группе
     private $users = array(); //Массив с пользователями
@@ -17,7 +17,7 @@ class repost {
     private $findPost; //ID найденного репоста в пользовательских новостях
     private $find; //Флаг найден/не найден репост у пользователя
 
-    public function __construct($owner_id = '-30022666', $post_id = '85545', $group_id = '30022666') {
+    public function __construct($owner_id = '-32195333', $post_id = '4073147', $group_id = '32195333') {
         $this->owner_id = $owner_id;
         $this->post_id = $post_id;
         $this->group_id = $group_id;
