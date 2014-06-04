@@ -12,16 +12,16 @@ class repost {
     private $countpost;  // считаем уоличество репостов новости в группе
     private $countusers; // Количество юзеров в группе
     private $users = array(); //Массив с пользователями
+    private $memberusers = array(); //Массив с учасниками
     private $countReposts; //Количество репостов у текущего пользователя
     private $findPost; //ID найденного репоста в пользовательских новостях
     private $find; //Флаг найден/не найден репост у пользователя
 
-    public function __construct($owner_id = '-30022666', $post_id = '84560', $group_id = '30022666') {
+    public function __construct($owner_id = '-30022666', $post_id = '85545', $group_id = '30022666') {
         $this->owner_id = $owner_id;
         $this->post_id = $post_id;
         $this->group_id = $group_id;
     }
-
 
     private function getUserCount($owner_id, $post_id, $filter, $offset=0, $onlyCount = false, $start = true) {
         $url = $this->url.'likes.getList?type=post&friends_only=0&offset='.$offset.'&count='.$this->count.'&owner_id='.$owner_id.'&item_id='.$post_id.'&filter='.$filter;
@@ -139,12 +139,17 @@ class repost {
 
         $countresult = count($member_to_array);
 
+        // Перевод в числовые значения
+        for( $i =0; $i < count( $member_to_array ); $i++ ){
+            $member_to_array_int[$i] = (int) $member_to_array[$i];
+        }
+
         $this->countusers = $countresult;
 
 
         // Назнечение глобальной переменной
         if ($start) {
-            $this->users = $member_to_array;
+            $this->memberusers = $member_to_array_int;
         }
 
     }
@@ -246,38 +251,35 @@ class repost {
     private function saveReposts($offset) {
 
         $this->getUsers($this->owner_id, $this->post_id, 'copies', $offset);
-        $copies = $this->users;
-
-        //var_dump($copies);
 
         $this->getMembers($this->group_id, $this->users);
 
-        foreach ($this->users as $id) {
+        $copies = $this->memberusers;
+
+        foreach ($this->memberusers as $id) {
             if (in_array($id, $copies)) continue;
             $copies[] = $id;
         }
 
-        $this->users = $copies;
+        $this->memberusers = $copies;
 
-        $usersWithInfo = $this->getUsersInfo($this->users);
+        $usersWithInfo = $this->getUsersInfo($this->memberusers);
 
-        $this->users = $this->remakeUsersArray($usersWithInfo);
+        $this->memberusers = $this->remakeUsersArray($usersWithInfo);
 
         $k = 1;
 
-        // Глобальная переменная из сламма база данных
+        // Глобальная переменная из класса база данных
 
         global $database;
 
         // Запись в бд
-        foreach ($this->users as $id => $data) {
+        foreach ($this->memberusers as $id => $data) {
             $this->getUsersPosts($id);
             $userinfo = $k;
             $userinfo1 = $id;
             $userinfo2 = $data['last_name'] . ' ' . $data['first_name'];
             $userinfo2escape = $database->escape_value($userinfo2); // escape data в имени пользователя
-
-
             $userinfo3 = $data['photo_medium'];
             // Поиск перепостов
             if ($this->find) {
@@ -289,7 +291,7 @@ class repost {
                 $query = "INSERT INTO arrays (";
                 $query .= "  reposts, user_news_id, username, userlink, userimage";
                 $query .= ") VALUES (";
-                $query .= "  '{$userinfo5}', '{$userinfo}', '{$userinfo2escape}', '{$userinfo1}', '{$userinfo3}'";
+                $query .= "  '{$userinfo5}', '{$userinfo4}', '{$userinfo2escape}', '{$userinfo1}', '{$userinfo3}'";
                 $query .= ")";
 
                 $result = $database->query($query);
@@ -326,8 +328,6 @@ class repost {
         }
 
     }
-
-
 
 }
 

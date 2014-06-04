@@ -1,0 +1,1935 @@
+
+<!doctype html>
+<html xml:lang="ru" lang="ru" dir="ltr">
+<head>
+
+<title>СОКОЛ - Интернет магазин бытовой техники с лучшими ценами</title>
+                        <meta name="keywords" content="интернет-магазин, интернет магазин бытовой техники, интернет магазин мобильных телефонов, компьютеры, мониторы, принтеры, ноутбуки, Компьютерная техника, модем, процессор, видеокарты, мышь, факс, жесткий диск, проектор, железо, hard, лазерный принтер, компьютерный магазин, плазма, компьютерные программы, lcd мониторы, жк мониторы, струйные принтеры, продажа компьютеров, продажа компьютера, персональный компьютер, мониторы tft, интернет планшеты" >
+                                <meta name="description" content="Интернет-магазин бытовой техники и электроники Сокол предлагает Вашему вниманию широкий выбор товаров. У нас Вы сможете купить все необходимое и даже больше! Не стесняйтесь обращаться к нашим операторам, они срадостью ответят на Ваши вопросы. По вопросам приобретения техники обращайтесь по контактным телефонам: (044) 591-7711" >
+                                <meta name="robots" content="index,follow" >
+                <meta http-equiv="content-type" content="text/html; charset=utf-8" >
+    <meta name="viewport" content="width=device-width, initial-scale=1" >
+ <meta name="Goods" content="185157,233545,233548,233878,234780,235369,236326,236327" >
+<link rel="shortcut icon"  type="image/x-icon"  href="http://i.sokol.org.ua/favicon.ico" >
+    
+<link href='http://www.sokol.ua/recent.rss' rel='alternate' type='application/rss+xml' title='RSS' >
+<link href='http://www.sokol.ua/news/recent.rss' rel='alternate' type='application/rss+xml' title='RSS' >
+<link href='http://www.sokol.ua/promotions/recent.rss' rel='alternate' type='application/rss+xml' title='RSS' >
+<link href='http://www.sokol.ua/articles/recent.rss' rel='alternate' type='application/rss+xml' title='RSS' >
+
+<link href='http://www.sokol.ua/h.f1d107/style.css' type='text/css' rel='stylesheet' >
+<link href='http://www.sokol.ua/h.e27983/main.css' type='text/css' rel='stylesheet' >
+
+<!--[if IE]><link href='http://www.sokol.ua/h.e27983/style-ie.css' type='text/css' rel='stylesheet' >
+<![endif]-->
+    <style type="text/css">
+	
+	.header .logo img{background:url(http://i.sokol.org.ua/design/logo-sokol.png) no-repeat 50% 0}
+</style>
+<script type="text/javascript">var d=document;d.cd='sokol.ua';d.opr=d.cookie.match('(?:^|;)\\s*pr=([^;]*)');!!d.referrer&&(ref=(d.pr=/^http[s]?:\/\/([^/]+)/.exec(d.referrer)[1]))&&ref.substr((ref.length>d.cd.length)?ref.length-d.cd.length:0,d.cd.length)!==d.cd&&(b=new Date()).setDate(b.getDate()+45)&&(d.cookie='pr='+d.pr+'; expires='+b.toUTCString()+'; path=/; domain=.'+d.cd)&&!!d.opr&&d.opr[1]!=d.pr&&(b=new Date()).setDate(b.getDate()-1)&&(d.cookie='phone_id=\'\'; expires='+b.toUTCString()+'; path=/; domain=.'+d.cd)</script>
+<script src='http://www.sokol.ua/h.56cbc2/core.js' type='text/javascript' charset='UTF-8'></script>
+<script src='http://www.sokol.ua/h.051249/javascript.js' type='text/javascript' charset='UTF-8'></script>
+<script src='http://www.sokol.ua/h.b3cc12/cart.js' type='text/javascript' charset='UTF-8'></script>
+<script src='http://www.sokol.ua/h.e27983/main.js' type='text/javascript' charset='UTF-8'></script>
+<script src='http://www.sokol.ua/h.e35cf1/catalog.js' type='text/javascript' charset='UTF-8'></script>
+<script src='http://www.sokol.ua/h.e27983/gemius_counting_main_page.js' type='text/javascript' charset='UTF-8'></script>
+<script src='http://www.sokol.ua/h.b3cc12/main_cart.js' type='text/javascript' charset='UTF-8'></script>
+
+<!--[if lte IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js" ></script><![endif]-->
+<!--[if lt IE 9]><script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js" ></script><![endif]-->
+<script type="text/javascript">
+var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-293290-1']); _gaq.push(['_setDomainName', '.sokol.ua']); _gaq.push(['_addIgnoredRef', 'sokol.ua']); _gaq.push (['_addOrganic', 'yandex.ru', 'query']); _gaq.push (['_addOrganic', 'images.yandex.ru', 'text']); _gaq.push (['_addOrganic', 'blogs.yandex.ru', 'text']); _gaq.push (['_addOrganic', 'video.yandex.ru', 'text']); _gaq.push (['_addOrganic', 'mail.ru', 'q']); _gaq.push (['_addOrganic', 'go.mail.ru', 'q']); _gaq.push (['_addOrganic', 'google.com.ua', 'q']); _gaq.push (['_addOrganic', 'images.google.ru', 'q']); _gaq.push (['_addOrganic', 'maps.google.ru', 'q']); _gaq.push (['_addOrganic', 'rambler.ru', 'words']); _gaq.push (['_addOrganic', 'nova.rambler.ru', 'query']); _gaq.push (['_addOrganic', 'nova.rambler.ru', 'words']); _gaq.push (['_addOrganic', 'gogo.ru', 'q']); _gaq.push (['_addOrganic', 'nigma.ru', 's']); _gaq.push (['_addOrganic', 'search.qip.ru', 'query']); _gaq.push (['_addOrganic', 'webalta.ru', 'q']); _gaq.push (['_addOrganic', 'sm.aport.ru', 'r']); _gaq.push (['_addOrganic', 'meta.ua', 'q']); _gaq.push (['_addOrganic', 'search.bigmir.net', 'z']); _gaq.push (['_addOrganic', 'search.i.ua', 'q']); _gaq.push (['_addOrganic', 'index.online.ua', 'q']); _gaq.push (['_addOrganic', 'web20.a.ua', 'query']); _gaq.push (['_addOrganic', 'search.ukr.net', 'search_query']); _gaq.push (['_addOrganic', 'search.com.ua', 'q']); _gaq.push (['_addOrganic', 'search.ua', 'q']); _gaq.push (['_addOrganic', 'poisk.ru', 'text']); _gaq.push (['_addOrganic', 'go.km.ru', 'sq']); _gaq.push (['_addOrganic', 'liveinternet.ru', 'ask']); _gaq.push (['_addOrganic', 'gde.ru', 'keywords']); _gaq.push (['_addOrganic', 'affiliates.quintura.com', 'request']); _gaq.push (['_addOrganic', 'akavita.by', 'z']); _gaq.push (['_addOrganic', 'search.tut.by', 'query']); _gaq.push (['_addOrganic', 'all.by', 'query']); _gaq.push(['_trackPageview']); if(typeof(_vis_opt_GA_track) == 'function') { _vis_opt_GA_track(); } _gaq.push(function() { var tracker = _gat._getTrackers()[0]; CustomVars.set('VisitorId', tracker._visitCode()); }); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })(); window.ga = window.ga || function(){ (ga.q=ga.q||[]).push(arguments); }; (function() { var e = document.createElement('script'); e.async = true; e.src = '//www.google-analytics.com/analytics.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(e, s); })(); ga('create', 'UA-293290-15'); ga('send', 'pageview'); 
+</script>
+<script type="text/javascript">
+
+var Partners = new SokolPartners_class({"1":{"patterns":["*.google.*","google.*","google","encrypted.google.com"],"name":"google","phone":"<a href='tel:380445911733'>(044) 591-1733<\/a>","need_to_hide_phones_in_contact":"1"},"3":{"patterns":["nadavi.*","*.nadavi.*","nadavi"],"name":"nadavi","phone":"<a href='tel:380445911707'>(044) 591-1707<\/a>","need_to_hide_phones_in_contact":"1"},"5":{"patterns":["*.ya.*","yandex.*","ya.*"],"name":"yandex","phone":"<a href='tel:380445911736'>(044) 591-1736<\/a>","need_to_hide_phones_in_contact":"1"},"6":{"patterns":["*.hotline.ua","hotline.ua","hotline_sklad"],"name":"hotline_sklad","phone":"<a href='tel:380445911731'>(044) 591-1731<\/a>","need_to_hide_phones_in_contact":"1"},"7":{"patterns":["*.rambler.ru","rambler.ru"]},"8":{"patterns":["adwords"],"name":"google_analytics","phone":"<a href='tel:380445911284'>(044) 591-1284<\/a>","need_to_hide_phones_in_contact":"1"},"10":{"patterns":["flocktory"],"name":"flocktory","need_to_hide_phones_in_contact":"1"},"15":{"patterns":["waitlist"],"name":"waitlist","phone":"<a href='tel:380445911737'>(044) 591-1737<\/a>","need_to_hide_phones_in_contact":"1"},"16":{"patterns":["newsletter","feedgee"],"name":"feedgee","phone":"<a href='tel:380445911737'>(044) 591-1737<\/a>","need_to_hide_phones_in_contact":"1"},"17":{"patterns":["vcene"],"name":"vcene","phone":"<a href='tel:380445911732'>(044) 591-1732<\/a>","need_to_hide_phones_in_contact":"1"},"18":{"patterns":["facebook","facebook.com","fb.com","facebook.*","*.facebook.com"],"name":"facebook","phone":"<a href='tel:380445911283'>(044) 591-1283<\/a>","need_to_hide_phones_in_contact":"1"},"22":{"name":"old"},"23":{"patterns":["priceua"],"name":"priceua","phone":"<a href='tel:380445911734'>(044) 591-1734<\/a>","need_to_hide_phones_in_contact":"1"},"57":{"name":"trafmag_ban","phone":"<a href='tel:380445912867'>(044) 591-2867<\/a>","need_to_hide_phones_in_contact":"1"},"26":{"patterns":["ava"],"name":"ava","phone":"<a href='tel:380445911280'>(044) 591-1280<\/a>","need_to_hide_phones_in_contact":"1"},"27":{"patterns":["ydirect"],"name":"ydirect","phone":"<a href='tel:380445911289'>(044) 591-1289<\/a>","need_to_hide_phones_in_contact":"1"},"38":{"name":"trafmag_tiz_ret","phone":"<a href='tel:380445911282'>(044) 591-1282<\/a>","need_to_hide_phones_in_contact":"1"},"35":{"patterns":["trafmag_gdn_nt"],"name":"trafmag_gdn_nt","phone":"<a href='tel:380445911738'>(044) 591-1738<\/a>","need_to_hide_phones_in_contact":"1"},"36":{"patterns":["technoportal"],"name":"technoportal","phone":"<a href='tel:380445911288'>(044) 591-1288<\/a>","need_to_hide_phones_in_contact":"1"},"41":{"patterns":["vidopro"],"name":"infomincer"},"55":{"name":"utarget","phone":"<a href='tel:380445912866'>(044) 591-2866<\/a>","need_to_hide_phones_in_contact":"1"},"43":{"name":"y_market","phone":"<a href='tel:380445911281'>(044) 591-1281<\/a>","need_to_hide_phones_in_contact":"1"},"45":{"patterns":["plashka"],"name":"trafmag_ret","phone":"<a href='tel:380445911739'>(044) 591-1739<\/a>","need_to_hide_phones_in_contact":"1"},"62":{"name":"amz_ses","phone":"<a href='tel:380445911737'>(044) 591-1737<\/a>","need_to_hide_phones_in_contact":"1"},"47":{"patterns":["Mandrill"],"name":"Mandrill","phone":"<a href='tel:380445911737'>(044) 591-1737<\/a>","need_to_hide_phones_in_contact":"1"},"48":{"name":"pallada"},"49":{"name":"sengrid","phone":"<a href='tel:380445911737'>(044) 591-1737<\/a>","need_to_hide_phones_in_contact":"1"},"50":{"name":"trafmag_gdn","phone":"<a href='tel:380445912860'>(044) 591-2860<\/a>","need_to_hide_phones_in_contact":"1"},"51":{"name":"trafmag_tiz","phone":"<a href='tel:380445912862'>(044) 591-2862<\/a>","need_to_hide_phones_in_contact":"1"},"52":{"name":"trafmag_ban_ret","phone":"<a href='tel:380445912863'>(044) 591-2863<\/a>","need_to_hide_phones_in_contact":"1"},"53":{"name":"trafmag","phone":"<a href='tel:380445912864'>(044) 591-2864<\/a>","need_to_hide_phones_in_contact":"1"},"54":{"name":"foxmart","phone":"<a href='tel:380445912865'>(044) 591-2865<\/a>","need_to_hide_phones_in_contact":"1"},"58":{"name":"adriver","phone":"<a href='tel:380445912868'>(044) 591-2868<\/a>","need_to_hide_phones_in_contact":"1"},"59":{"patterns":["admaster"],"name":"admaster_tiz","need_to_hide_phones_in_contact":"1"},"60":{"patterns":["Mailchimp"],"name":"Mailchimp","phone":"<a href='tel:380445911737'>(044) 591-1737<\/a>","need_to_hide_phones_in_contact":"1"},"61":{"patterns":["admitad"],"name":"admitad","phone":"<a href='tel:380445912861'>(044) 591-2861<\/a>","need_to_hide_phones_in_contact":"1"}})
+.setOptions({
+	id:'partners-phone',
+	header_my_phone_id:'my-header-phone',
+	footer_phone_id:'footer-partner-phone',
+	footer_phone_note_id:'footer-phone-note',
+	footer_my_phone_id:'my-footer-phone',
+	contacts_phone_id:'contacts-partner-phone',
+	contacts_phone_note_id:'contacts-phone-note',
+	contacts_managers_block_id:'contacts-managers-block'
+});
+
+</script><!-- Start Visual Website Optimizer Asynchronous Code -->
+<script type='text/javascript'>
+
+	var _vwo_code=(function(){
+		var account_id=50065,
+				settings_tolerance=2000,
+				library_tolerance=2500,
+				use_existing_jquery=false,
+// DO NOT EDIT BELOW THIS LINE
+				f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+
+</script>
+<!-- End Visual Website Optimizer Asynchronous Code -->
+</head><body>
+	
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-685W"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-685W');</script>
+<!-- End Google Tag Manager -->
+
+
+	<div class="body">
+		<header class="header" id="header" role="banner">
+	<div class="columns">
+		<div class="column-left">
+			<div class="logo">
+
+									<img src="http://i.sokol.org.ua/design/_.gif" width="230" height="100" alt="SOKOL">
+				
+			</div>
+		</div>
+
+		<div class="column-right">
+			<div class="top">
+				<div class="red-block">
+					<div class="container">
+						<ul class="sub-menu">
+							<li class="webconsultation">
+															</li>
+							<li class="cart" id="cart_in_header"></li>
+							<li id="user_menu" class="user"></li>
+							<li id="popup_parent" class="user"></li>
+														<li class="stock"><a href="http://www.sokol.ua/promotions/"><img src="http://i2.sokol.org.ua/design/action-ru.gif" width="67" height="23" alt="Акции"></a></li>
+														<li class="waitlist" id="waitlist-menu">
+							</li>
+
+							<!-- <li class="compare"><a href="#">Список сравнения</a></li>-->
+							<li id="list-compare" class="compare no-bg"></li>
+
+						</ul>
+						<script type="text/javascript">Waitlist.init('waitlist-menu')</script>
+						<script type="text/javascript">Cart.init('cart_in_header')</script>
+						<script type="text/javascript">MenuUser.init('user_menu')</script>
+						<script type="text/javascript">User.setPopupParent('popup_parent')</script>
+						<script type="text/javascript">Comparison.init('list-compare')</script>
+					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="middle-block">
+					<table>
+						<tr>
+							<td colspan="2" class="with-phones">
+								<table class="phone-search"><tr>
+									<td class="phone">
+																				<div class="number" id="partners-phone">
+											<a href="tel:+380445917711"><span class="number-text">(044) 591-7711</span></a>
+																					</div>
+										<script type="text/javascript">Partners.init()</script>
+																			</td>
+									<td class="td-search">
+										<form class="search" method="get" action="http://www.sokol.ua/search/" role="search">
+	<table><tr>
+		<td class="input">
+			<div class="input-bg">
+				<input type="text" name="text" style="width: 425px;" class="text search-field" hint="Поиск" autocomplete="off" value="" >
+				<script type="text/javascript">SearchSuggest.init($E('input[name=text]'));</script>
+			</div>
+		</td>
+		<td class="button">
+			<button type="submit" class="ibutton">Найти</button>
+		</td>
+	</tr></table>
+</form>									</td>
+									<td class="benefits">
+										
+
+
+														</td>
+									<td class="online-payment-logo">
+										<div id="online_payment_return_text" class="hidden">
+											<script type="text/javascript">
+												var myString = function(){
+												/*
+													Visa/MasterCard (online)</p>Оплата онлайн любой картой Visa и MasterCard любого банка Украины после оформления заказа. Платеж происходит через систему безопасных платежей ПриватБанка – Liqpay. Комиссия системы — 2% При получении заказа обязательно иметь при себе удостоверение личности.  Карты выпущенные другими банками могут быть ограничены на оплату не более 2000 грн.
+												*/}.toString().slice(27,-3);
+												document.write(myString);
+											</script>
+										</div>
+										<a id="online_payment_return_button" href="http://www.sokol.ua/payments-and-deliveries/"><img src="http://i5.sokol.org.ua/design/visa-mastercard.png" width="137" height="33" alt="Онлайн-способы оплаты"></a>
+										<script type="text/javascript">
+											new SokolPopupFromBlock_class($('online_payment_return_button'),$('online_payment_return_text'));
+										</script>
+									</td>
+								</tr></table>
+							</td>
+						</tr>
+					</table>
+				</div>
+				<div class="under-bottom">
+					<table><tr>
+						<td class="td-col-left">
+							<div class="phone">
+								<div class="callback"><script type="text/javascript">Feedback.init();</script></div>
+							</div>
+						</td>
+						<td class="td-col-right">
+							<ul class="sub-menu">
+																										<li><a href="http://www.sokol.ua/contacts/">Контакты</a></li>
+																																			<li><a href="http://www.sokol.ua/payments-and-deliveries/">Оплата и доставка</a></li>
+																																			<li><a href="http://www.sokol.ua/warranty-and-services/">Гарантия и сервис</a></li>
+																																			<li><a href="http://www.sokol.ua/news/">Новости</a></li>
+																																			<li><a href="http://www.sokol.ua/producers/">Производители</a></li>
+																																			<li><a href="http://www.sokol.ua/faq/">Помощь</a></li>
+																																			<li><a href="http://www.sokol.ua/credit/">Кредит</a></li>
+																																																	<li><a href="http://www.sokol.ua/offline-shops/">Магазин</a></li>
+															</ul>
+						</td>
+					</tr></table>
+				</div>
+
+			</div>
+		</div>
+	</div>
+	<nav class="main-menu" id="action-zone" role="navigation">
+		<div class="red-block">
+			<div class="container">
+				<table class="main-menu-table">
+					<tr>
+					
+					
+					
+																		<td class="menu-main-i">
+								<a href="http://www.sokol.ua/portable-devices/c217/" name="active-elem" class="main-menu-link">
+									<span class="menu-main-i-table">
+										<span class="menu-main-i-row">
+																						<span class="menu-main-img-b">
+												<img class="menu-main-img" src="http://i2.sokol.org.ua/goods/2406/2406441.png" width="44" height="37" alt="_">
+											</span>
+																					</span>
+										<span class="menu-main-i-row">
+											<span class="menu-main-title">Портативная техника</span>
+										</span>
+									</span>
+								</a>
+																																				<div name="drop-elem" class="drop-elem menu-popup-drop">
+	<div class="bg container">
+		<div class="row half">
+			<ul class="cell">
+							
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/notebooks/c218/" class="skyblue-links"><img src="http://i5.sokol.org.ua/goods/1623/1623059.jpg" width="90" height="90" alt="Ноутбуки" title="Ноутбуки" >Ноутбуки</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/tablets/c69837/" class="skyblue-links"><img src="http://i3.sokol.org.ua/goods/1622/1622741.jpg" width="90" height="90" alt="Интернет-планшеты" title="Интернет-планшеты" >Интернет-планшеты</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/netbooks/c18246/" class="skyblue-links"><img src="http://i4.sokol.org.ua/goods/1622/1622742.jpg" width="90" height="90" alt="Нетбуки" title="Нетбуки" >Нетбуки</a>
+						</li>
+																						</ul><ul class="cell">
+																
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/e-books/c430/" class="skyblue-links"><img src="http://i3.sokol.org.ua/goods/1622/1622749.jpg" width="90" height="90" alt="Электронные книги" title="Электронные книги" >Электронные книги</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/notebook-components/c221/" class="skyblue-links"><img src="http://i5.sokol.org.ua/goods/1622/1622740.jpg" width="90" height="50" alt="Аксессуары для ноутбуков" title="Аксессуары для ноутбуков" >Аксессуары для ноутбуков</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/72573/c72573/" class="skyblue-links"><img src="http://i4.sokol.org.ua/goods/1622/1622738.jpg" width="65" height="90" alt="Аксессуары для планшетов и книг" title="Аксессуары для планшетов и книг" >Аксессуары для планшетов и книг</a>
+						</li>
+																																																						</ul>
+		</div>
+	</div>
+</div>
+							</td>
+											
+					
+																		<td class="menu-main-i">
+								<a href="http://www.sokol.ua/computer-equipment/c001/" name="active-elem" class="main-menu-link">
+									<span class="menu-main-i-table">
+										<span class="menu-main-i-row">
+																						<span class="menu-main-img-b">
+												<img class="menu-main-img" src="http://i1.sokol.org.ua/goods/1826/1826285.png" width="47" height="35" alt="_">
+											</span>
+																					</span>
+										<span class="menu-main-i-row">
+											<span class="menu-main-title">Компьютеры и оргтехника</span>
+										</span>
+									</span>
+								</a>
+																																																<div name="drop-elem" class="drop-elem menu-popup-drop">
+	<div class="bg container">
+		<div class="row half">
+			<ul class="cell">
+							
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/computer-components/c002/" class="skyblue-links"><img src="http://i5.sokol.org.ua/goods/1625/1625438.jpg" width="90" height="90" alt="Комплектующие ПК" title="Комплектующие ПК" >Комплектующие ПК</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/computers/c106/" class="skyblue-links"><img src="http://i2.sokol.org.ua/goods/2406/2406461.jpg" width="90" height="63" alt="Компьютеры" title="Компьютеры" >Компьютеры</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/aksessuary-k-pk-701f4/c124494/" class="skyblue-links"><img src="http://i6.sokol.org.ua/goods/3260/3260051.jpg" width="90" height="90" alt="Компьютерная периферия" title="Компьютерная периферия" >Компьютерная периферия</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/manipulators-and-accessories/c101/" class="skyblue-links"><img src="http://i4.sokol.org.ua/goods/1625/1625450.jpg" width="90" height="90" alt="Манипуляторы и аксессуары к ним" title="Манипуляторы и аксессуары к ним" >Манипуляторы и аксессуары к ним</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/tft-lcd/c136/" class="skyblue-links"><img src="http://i6.sokol.org.ua/goods/1625/1625451.jpg" width="90" height="90" alt="Мониторы (TFT, LCD)" title="Мониторы (TFT, LCD)" >Мониторы (TFT, LCD)</a>
+						</li>
+																						</ul><ul class="cell">
+																
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/office-equipment/c042/" class="skyblue-links"><img src="http://i1.sokol.org.ua/goods/2401/2401831.jpg" width="90" height="90" alt="Оргтехника" title="Оргтехника" >Оргтехника</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/igrovye-pristavki-48cb9/c150609/" class="skyblue-links"><img src="http://i3.sokol.org.ua/goods/3286/3286423.jpg" width="90" height="90" alt="Игровые приставки" title="Игровые приставки" >Игровые приставки</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/network-equipment/c096/" class="skyblue-links"><img src="http://i3.sokol.org.ua/goods/1625/1625454.jpg" width="90" height="90" alt="Сетевое оборудование" title="Сетевое оборудование" >Сетевое оборудование</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/servernoe-oborudovanie-6b248/c188572/" class="skyblue-links"><img src="http://i3.sokol.org.ua/goods/3861/3861858.jpg" width="90" height="90" alt="Серверное оборудование" title="Серверное оборудование" >Серверное оборудование</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/software/c161/" class="skyblue-links"><img src="http://i3.sokol.org.ua/goods/1625/1625452.jpg" width="90" height="90" alt="Программное Обеспечение" title="Программное Обеспечение" >Программное Обеспечение</a>
+						</li>
+																										</ul>
+		</div>
+	</div>
+</div>
+							</td>
+											
+					
+																		<td class="menu-main-i">
+								<a href="http://www.sokol.ua/telecomunication/c108444/" name="active-elem" class="main-menu-link">
+									<span class="menu-main-i-table">
+										<span class="menu-main-i-row">
+																						<span class="menu-main-img-b">
+												<img class="menu-main-img" src="http://i4.sokol.org.ua/goods/2110/2110552.png" width="20" height="39" alt="_">
+											</span>
+																					</span>
+										<span class="menu-main-i-row">
+											<span class="menu-main-title">Телефония</span>
+										</span>
+									</span>
+								</a>
+																																														<div name="drop-elem" class="drop-elem menu-popup-drop">
+	<div class="bg container">
+		<div class="row half">
+			<ul class="cell">
+							
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/smartphones/c282/" class="skyblue-links"><img src="http://i4.sokol.org.ua/goods/2407/2407189.jpg" width="87" height="90" alt="Смартфоны (Коммуникаторы)" title="Смартфоны (Коммуникаторы)" >Смартфоны (Коммуникаторы)</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/mobile-phones/c267/" class="skyblue-links"><img src="http://i4.sokol.org.ua/goods/3270/3270833.jpg" width="89" height="89" alt="Мобильные телефоны" title="Мобильные телефоны" >Мобильные телефоны</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/smart-chasy-85107/c206730/" class="skyblue-links"><img src="http://i7.sokol.org.ua/goods/4296/4296844.jpg" width="90" height="77" alt="Смарт-часы и браслеты" title="Смарт-часы и браслеты" >Смарт-часы и браслеты</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/mobile-phones-accessories/c432/" class="skyblue-links"><img src="http://i3.sokol.org.ua/goods/2408/2408090.jpg" width="90" height="74" alt="Аксессуары для мобильных телефонов" title="Аксессуары для мобильных телефонов" >Аксессуары для мобильных телефонов</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/dect/c280/" class="skyblue-links"><img src="http://i2.sokol.org.ua/goods/2383/2383360.jpg" width="59" height="90" alt="Телефоны" title="Телефоны" >Телефоны</a>
+						</li>
+																						</ul><ul class="cell">
+																
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/faxes/c216/" class="skyblue-links"><img src="http://i4.sokol.org.ua/goods/2407/2407701.jpg" width="89" height="83" alt="Факсы" title="Факсы" >Факсы</a>
+						</li>
+																																		
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/ate/c276/" class="skyblue-links"><img src="http://i5.sokol.org.ua/goods/2407/2407533.jpg" width="90" height="75" alt="АТС" title="АТС" >АТС</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/ate-components/c277/" class="skyblue-links"><img src="http://i4.sokol.org.ua/goods/2407/2407580.jpg" width="90" height="90" alt="АТС принадлежности" title="АТС принадлежности" >АТС принадлежности</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/phones-accessories/c37032/" class="skyblue-links"><img src="http://i7.sokol.org.ua/goods/2407/2407663.jpg" width="72" height="90" alt="Аксессуары для телефонов" title="Аксессуары для телефонов" >Аксессуары для телефонов</a>
+						</li>
+																																	</ul>
+		</div>
+	</div>
+</div>
+							</td>
+											
+					
+																		<td class="menu-main-i">
+								<a href="http://www.sokol.ua/audio-video-photo/c018/" name="active-elem" class="main-menu-link">
+									<span class="menu-main-i-table">
+										<span class="menu-main-i-row">
+																						<span class="menu-main-img-b">
+												<img class="menu-main-img" src="http://i5.sokol.org.ua/goods/1826/1826280.png" width="36" height="39" alt="_">
+											</span>
+																					</span>
+										<span class="menu-main-i-row">
+											<span class="menu-main-title">Аудио и видеотехника</span>
+										</span>
+									</span>
+								</a>
+																																																																																																		<div name="drop-elem" class="drop-elem menu-popup-drop">
+	<div class="bg container">
+		<div class="row half">
+			<ul class="cell">
+							
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/tv-sets/c18258/" class="skyblue-links"><img src="http://i3.sokol.org.ua/goods/1624/1624733.jpg" width="90" height="90" alt="Телевизоры" title="Телевизоры" >Телевизоры</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/acoustics/c036/" class="skyblue-links"><img src="http://i7.sokol.org.ua/goods/1624/1624720.jpg" width="90" height="90" alt="Акустика" title="Акустика" >Акустика</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/mp3-players/c025/" class="skyblue-links"><img src="http://i1.sokol.org.ua/goods/1624/1624713.jpg" width="90" height="90" alt="MP3/MP4 плееры" title="MP3/MP4 плееры" >MP3/MP4 плееры</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/headphones/c048/" class="skyblue-links"><img src="http://i4.sokol.org.ua/goods/1624/1624730.jpg" width="90" height="90" alt="Наушники" title="Наушники" >Наушники</a>
+						</li>
+																																		
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/audio-systems/c112/" class="skyblue-links"><img src="http://i5.sokol.org.ua/goods/1624/1624721.jpg" width="90" height="90" alt="Аудиосистемы" title="Аудиосистемы" >Аудиосистемы</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/brackets-for-projectors/c428/" class="skyblue-links"><img src="http://i3.sokol.org.ua/goods/1735/1735990.jpg" width="90" height="90" alt="Крепления и подставки для ТВ" title="Крепления и подставки для ТВ" >Крепления и подставки для ТВ</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/media-players/c18252/" class="skyblue-links"><img src="http://i4.sokol.org.ua/goods/1624/1624727.jpg" width="90" height="90" alt="Медиаплееры" title="Медиаплееры" >Медиаплееры</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/dvd-players/c021/" class="skyblue-links"><img src="http://i2.sokol.org.ua/goods/1624/1624712.jpg" width="90" height="90" alt="DVD/Blu-ray  проигрыватели" title="DVD/Blu-ray  проигрыватели" >DVD/Blu-ray  проигрыватели</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/home-theaters/c105/" class="skyblue-links"><img src="http://i2.sokol.org.ua/goods/1624/1624725.jpg" width="90" height="90" alt="Домашние кинотеатры" title="Домашние кинотеатры" >Домашние кинотеатры</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/remotes/c177/" class="skyblue-links"><img src="http://i1.sokol.org.ua/goods/1692/1692678.jpg" width="90" height="90" alt="Пульты ДУ" title="Пульты ДУ" >Пульты ДУ</a>
+						</li>
+																																									
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/tv-tuners/c41110/" class="skyblue-links"><img src="http://i2.sokol.org.ua/goods/1624/1624734.jpg" width="90" height="90" alt="Цифровые TV-тюнеры" title="Цифровые TV-тюнеры" >Цифровые TV-тюнеры</a>
+						</li>
+																						</ul><ul class="cell">
+																
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/receivers/c181/" class="skyblue-links"><img src="http://i7.sokol.org.ua/goods/1624/1624803.jpg" width="90" height="90" alt="Ресиверы" title="Ресиверы" >Ресиверы</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/interunit-cables/c42665/" class="skyblue-links"><img src="http://i1.sokol.org.ua/goods/1624/1624728.jpg" width="90" height="90" alt="Межблочный и акустический кабель" title="Межблочный и акустический кабель" >Межблочный и акустический кабель</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/85479/c85479/" class="skyblue-links"><img src="http://i1.sokol.org.ua/goods/1624/1624732.jpg" width="90" height="90" alt="ТВ антенна" title="ТВ антенна" >ТВ антенна</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/3d/c41067/" class="skyblue-links"><img src="http://i7.sokol.org.ua/goods/3311/3311086.jpg" width="90" height="90" alt="3D очки" title="3D очки" >3D очки</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/voice-recorders/c058/" class="skyblue-links"><img src="http://i5.sokol.org.ua/goods/1692/1692676.jpg" width="90" height="90" alt="Диктофоны" title="Диктофоны" >Диктофоны</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/projection-screens/c175/" class="skyblue-links"><img src="http://i5.sokol.org.ua/goods/2196/2196721.jpg" width="84" height="89" alt="Проекционные экраны" title="Проекционные экраны" >Проекционные экраны</a>
+						</li>
+																																		
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/microphones/c117/" class="skyblue-links"><img src="http://i2.sokol.org.ua/goods/1624/1624729.jpg" width="90" height="90" alt="Микрофоны" title="Микрофоны" >Микрофоны</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/projectors/c032/" class="skyblue-links"><img src="http://i3.sokol.org.ua/goods/2196/2196779.jpg" width="90" height="64" alt="Проекторы" title="Проекторы" >Проекторы</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/voice-recorder-accessories/c229/" class="skyblue-links"><img src="http://i6.sokol.org.ua/goods/2477/2477032.jpg" width="85" height="90" alt="Аксессуары для диктофонов" title="Аксессуары для диктофонов" >Аксессуары для диктофонов</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/accessories-and-expendables/c033/" class="skyblue-links"><img src="http://i2.sokol.org.ua/goods/2196/2196781.jpg" width="77" height="90" alt="Аксессуары для проекторов" title="Аксессуары для проекторов" >Аксессуары для проекторов</a>
+						</li>
+																																								</ul>
+		</div>
+	</div>
+</div>
+							</td>
+											
+					
+																		<td class="menu-main-i">
+								<a href="http://www.sokol.ua/photo-video/c44513/" name="active-elem" class="main-menu-link">
+									<span class="menu-main-i-table">
+										<span class="menu-main-i-row">
+																						<span class="menu-main-img-b">
+												<img class="menu-main-img" src="http://i5.sokol.org.ua/goods/1826/1826288.png" width="42" height="32" alt="_">
+											</span>
+																					</span>
+										<span class="menu-main-i-row">
+											<span class="menu-main-title">Фото и видеокамеры</span>
+										</span>
+									</span>
+								</a>
+																																																										<div name="drop-elem" class="drop-elem menu-popup-drop">
+	<div class="bg container">
+		<div class="row half">
+			<ul class="cell">
+							
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/digital-cameras/c073/" class="skyblue-links"><img src="http://i4.sokol.org.ua/goods/2476/2476812.jpg" width="90" height="76" alt="Фотоаппараты" title="Фотоаппараты" >Фотоаппараты</a>
+						</li>
+																																		
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/lenses/c248/" class="skyblue-links"><img src="http://i1.sokol.org.ua/goods/1623/1623743.jpg" width="90" height="90" alt="Объективы" title="Объективы" >Объективы</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/color-filters/c37036/" class="skyblue-links"><img src="http://i5.sokol.org.ua/goods/1849/1849324.jpg" width="90" height="90" alt="Светофильтры" title="Светофильтры" >Светофильтры</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/bags/c384/" class="skyblue-links"><img src="http://i1.sokol.org.ua/goods/1623/1623789.jpg" width="90" height="90" alt="Сумки, рюкзаки" title="Сумки, рюкзаки" >Сумки, рюкзаки</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/flash-memory-cards/c239/" class="skyblue-links"><img src="http://i1.sokol.org.ua/goods/2465/2465993.jpg" width="90" height="90" alt="Карты памяти" title="Карты памяти" >Карты памяти</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/elementy-pitaniya-b9979/c131253/" class="skyblue-links"><img src="http://i2.sokol.org.ua/goods/2514/2514577.jpg" width="90" height="67" alt="Элементы питания" title="Элементы питания" >Элементы питания</a>
+						</li>
+																						</ul><ul class="cell">
+																
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/video-cameras/c046/" class="skyblue-links"><img src="http://i1.sokol.org.ua/goods/2476/2476886.jpg" width="90" height="67" alt="Видеокамеры" title="Видеокамеры" >Видеокамеры</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/photo-video-accessories/c074/" class="skyblue-links"><img src="http://i6.sokol.org.ua/goods/2064/2064373.jpg" width="90" height="62" alt="Аксессуары для фото/видео" title="Аксессуары для фото/видео" >Аксессуары для фото/видео</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/digital-photoframes/c429/" class="skyblue-links"><img src="http://i6.sokol.org.ua/goods/1623/1623847.jpg" width="90" height="90" alt="Цифровые фоторамки" title="Цифровые фоторамки" >Цифровые фоторамки</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/tripods-accessories/c313/" class="skyblue-links"><img src="http://i1.sokol.org.ua/goods/1623/1623857.jpg" width="90" height="90" alt="Штативы, моноподы, головки" title="Штативы, моноподы, головки" >Штативы, моноподы, головки</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/flashes/c306/" class="skyblue-links"><img src="http://i3.sokol.org.ua/goods/1623/1623791.jpg" width="90" height="90" alt="Фотовспышки" title="Фотовспышки" >Фотовспышки</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/106188/c106188/" class="skyblue-links"><img src="http://i2.sokol.org.ua/goods/2065/2065004.jpg" width="90" height="90" alt="Свет" title="Свет" >Свет</a>
+						</li>
+																																	</ul>
+		</div>
+	</div>
+</div>
+							</td>
+											
+					
+																		<td class="menu-main-i">
+								<a href="http://www.sokol.ua/home-appliances/c317/" name="active-elem" class="main-menu-link">
+									<span class="menu-main-i-table">
+										<span class="menu-main-i-row">
+																						<span class="menu-main-img-b">
+												<img class="menu-main-img" src="http://i7.sokol.org.ua/goods/1826/1826281.png" width="32" height="38" alt="_">
+											</span>
+																					</span>
+										<span class="menu-main-i-row">
+											<span class="menu-main-title">Бытовая техника</span>
+										</span>
+									</span>
+								</a>
+																																								<div name="drop-elem" class="drop-elem menu-popup-drop">
+	<div class="bg container">
+		<div class="row half">
+			<ul class="cell">
+							
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/small/c320/" class="skyblue-links"><img src="http://i4.sokol.org.ua/goods/1625/1625389.jpg" width="90" height="90" alt="Техника для кухни" title="Техника для кухни" >Техника для кухни</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/large/c318/" class="skyblue-links"><img src="http://i1.sokol.org.ua/goods/1625/1625386.jpg" width="90" height="90" alt="Крупная бытовая техника" title="Крупная бытовая техника" >Крупная бытовая техника</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/home/c45456/" class="skyblue-links"><img src="http://i3.sokol.org.ua/goods/1625/1625388.jpg" width="90" height="90" alt="Техника для дома" title="Техника для дома" >Техника для дома</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/beauty-health/c355/" class="skyblue-links"><img src="http://i3.sokol.org.ua/goods/1625/1625417.jpg" width="90" height="90" alt="Техника для личного пользования" title="Техника для личного пользования" >Техника для личного пользования</a>
+						</li>
+																						</ul><ul class="cell">
+																
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/climatic-equipment/c321/" class="skyblue-links"><img src="http://i2.sokol.org.ua/goods/1625/1625385.jpg" width="90" height="90" alt="Климатическое оборудование" title="Климатическое оборудование" >Климатическое оборудование</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/built-in/c319/" class="skyblue-links"><img src="http://i2.sokol.org.ua/goods/1625/1625384.jpg" width="90" height="90" alt="Встраиваемая бытовая техника" title="Встраиваемая бытовая техника" >Встраиваемая бытовая техника</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/medtechnics/c64160/" class="skyblue-links"><img src="http://i4.sokol.org.ua/goods/1625/1625387.jpg" width="90" height="90" alt="Медтехника" title="Медтехника" >Медтехника</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/accessories/c45545/" class="skyblue-links"><img src="http://i3.sokol.org.ua/goods/1625/1625383.jpg" width="90" height="90" alt="Аксессуары к бытовой технике" title="Аксессуары к бытовой технике" >Аксессуары к бытовой технике</a>
+						</li>
+																										</ul>
+		</div>
+	</div>
+</div>
+							</td>
+											
+					
+																		<td class="menu-main-i">
+								<a href="http://www.sokol.ua/auto-tovary/c18247/" name="active-elem" class="main-menu-link">
+									<span class="menu-main-i-table">
+										<span class="menu-main-i-row">
+																						<span class="menu-main-img-b">
+												<img class="menu-main-img" src="http://i1.sokol.org.ua/goods/4365/4365955.png" width="50" height="37" alt="_">
+											</span>
+																					</span>
+										<span class="menu-main-i-row">
+											<span class="menu-main-title">Автотовары</span>
+										</span>
+									</span>
+								</a>
+																																																																																																																																							<div name="drop-elem" class="drop-elem menu-popup-drop">
+	<div class="bg container">
+		<div class="row half">
+			<ul class="cell">
+							
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/car-players/c18249/" class="skyblue-links"><img src="http://i1.sokol.org.ua/goods/1465/1465721.jpg" width="90" height="90" alt="Автомагнитолы" title="Автомагнитолы" >Автомагнитолы</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/82652/c82652/" class="skyblue-links"><img src="http://i2.sokol.org.ua/goods/2136/2136987.jpg" width="90" height="70" alt="Видеорегистраторы" title="Видеорегистраторы" >Видеорегистраторы</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/navigation-systems/c380/" class="skyblue-links"><img src="http://i4.sokol.org.ua/goods/1881/1881785.jpg" width="90" height="90" alt="GPS навигация" title="GPS навигация" >GPS навигация</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/shiny-84186/c128006/" class="skyblue-links"><img src="http://i7.sokol.org.ua/goods/2469/2469552.jpg" width="90" height="64" alt="Шины" title="Шины" >Шины</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/instrumenty-b7da5/c162532/" class="skyblue-links"><img src="http://i4.sokol.org.ua/goods/3228/3228250.jpg" width="90" height="84" alt="Инструменты" title="Инструменты" >Инструменты</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/aksessuar-dlya-avtomobilya-c978b/c143519/" class="skyblue-links"><img src="http://i5.sokol.org.ua/goods/2792/2792232.jpg" width="90" height="65" alt="Аксессуар для автомобиля" title="Аксессуар для автомобиля" >Аксессуар для автомобиля</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/105107/c105107/" class="skyblue-links"><img src="http://i6.sokol.org.ua/goods/2052/2052372.jpg" width="90" height="67" alt="Чехлы для сидений" title="Чехлы для сидений" >Чехлы для сидений</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/92229/c92229/" class="skyblue-links"><img src="http://i6.sokol.org.ua/goods/1754/1754044.jpg" width="90" height="90" alt="Алкометры" title="Алкометры" >Алкометры</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/90763/c90763/" class="skyblue-links"><img src="http://i4.sokol.org.ua/goods/1719/1719776.jpg" width="90" height="90" alt="Радардетекторы" title="Радардетекторы" >Радардетекторы</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/car-acoustics/c18248/" class="skyblue-links"><img src="http://i4.sokol.org.ua/goods/1465/1465723.jpg" width="90" height="90" alt="Автоакустика" title="Автоакустика" >Автоакустика</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/90061/c90061/" class="skyblue-links"><img src="http://i5.sokol.org.ua/goods/1693/1693768.jpg" width="90" height="90" alt="Парктроники" title="Парктроники" >Парктроники</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/invertors/c18284/" class="skyblue-links"><img src="http://i7.sokol.org.ua/goods/1509/1509647.jpg" width="90" height="90" alt="Инверторы" title="Инверторы" >Инверторы</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/kompressory-d5bae/c162533/" class="skyblue-links"><img src="http://i1.sokol.org.ua/goods/3228/3228391.jpg" width="90" height="81" alt="Компрессоры" title="Компрессоры" >Компрессоры</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/zaryadnye-ustrojstva-d6951/c162535/" class="skyblue-links"><img src="http://i6.sokol.org.ua/goods/3228/3228389.jpg" width="90" height="50" alt="Зарядные устройства" title="Зарядные устройства" >Зарядные устройства</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/domkraty-d63d5/c162534/" class="skyblue-links"><img src="http://i1.sokol.org.ua/goods/3228/3228387.jpg" width="90" height="47" alt="Домкраты" title="Домкраты" >Домкраты</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/fm/c71563/" class="skyblue-links"><img src="http://i5.sokol.org.ua/goods/1465/1465722.jpg" width="90" height="90" alt="Авто FM трансмиттеры" title="Авто FM трансмиттеры" >Авто FM трансмиттеры</a>
+						</li>
+																						</ul><ul class="cell">
+																
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/avtokresla-e1ce9/c138605/" class="skyblue-links"><img src="http://i2.sokol.org.ua/goods/2675/2675591.jpg" width="65" height="90" alt="Автокресла" title="Автокресла" >Автокресла</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/92230/c92230/" class="skyblue-links"><img src="http://i6.sokol.org.ua/goods/1754/1754064.jpg" width="90" height="90" alt="Камеры заднего вида" title="Камеры заднего вида" >Камеры заднего вида</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/car-amplifiers/c18251/" class="skyblue-links"><img src="http://i3.sokol.org.ua/goods/1465/1465719.jpg" width="90" height="90" alt="Автоусилители" title="Автоусилители" >Автоусилители</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/car-subwoofers/c23066/" class="skyblue-links"><img src="http://i3.sokol.org.ua/goods/1465/1465720.jpg" width="90" height="90" alt="Автосабвуферы" title="Автосабвуферы" >Автосабвуферы</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/92226/c92226/" class="skyblue-links"><img src="http://i2.sokol.org.ua/goods/1754/1754063.jpg" width="90" height="90" alt="Сенсоры комфорта" title="Сенсоры комфорта" >Сенсоры комфорта</a>
+						</li>
+																																		
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/105108/c105108/" class="skyblue-links"><img src="http://i5.sokol.org.ua/goods/2052/2052374.jpg" width="81" height="90" alt="Оплетка на руль" title="Оплетка на руль" >Оплетка на руль</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/mini-washers/c23053/" class="skyblue-links"><img src="http://i7.sokol.org.ua/goods/3230/3230529.jpg" width="50" height="90" alt="Минимойки" title="Минимойки" >Минимойки</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/car-tv/c18250/" class="skyblue-links"><img src="http://i1.sokol.org.ua/goods/1465/1465718.jpg" width="90" height="90" alt="Авто TV" title="Авто TV" >Авто TV</a>
+						</li>
+																																									
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/security-systems/c43570/" class="skyblue-links"><img src="http://i7.sokol.org.ua/goods/1573/1573782.jpg" width="90" height="90" alt="Охранные системы" title="Охранные системы" >Охранные системы</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/avtomobilnie_monitory/c121755/" class="skyblue-links"><img src="http://i1.sokol.org.ua/goods/2359/2359731.jpg" width="90" height="79" alt="Автомобильные мониторы" title="Автомобильные мониторы" >Автомобильные мониторы</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/lebedki-2b69c/c189843/" class="skyblue-links"><img src="http://i7.sokol.org.ua/goods/3896/3896642.jpg" width="90" height="78" alt="Лебедки" title="Лебедки" >Лебедки</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/tenty-69417/c178578/" class="skyblue-links"><img src="http://i1.sokol.org.ua/goods/3601/3601654.jpg" width="90" height="40" alt="Тенты" title="Тенты" >Тенты</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/shtatnye-magnitoly-e7041/c193911/" class="skyblue-links"><img src="http://i3.sokol.org.ua/goods/3999/3999534.jpg" width="90" height="51" alt="Штатные магнитолы" title="Штатные магнитолы" >Штатные магнитолы</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/avtoximiya-2534c/c196546/" class="skyblue-links"><img src="http://i4.sokol.org.ua/goods/4115/4115040.png" width="90" height="90" alt="Автохимия" title="Автохимия" >Автохимия</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/masla-2469f/c196545/" class="skyblue-links"><img src="http://i3.sokol.org.ua/goods/4089/4089104.jpg" width="63" height="90" alt="Масла" title="Масла" >Масла</a>
+						</li>
+																										</ul>
+		</div>
+	</div>
+</div>
+							</td>
+											
+					
+																		<td class="menu-main-i">
+								<a href="http://www.sokol.ua/dacha-sad-ogorod/c110581/" name="active-elem" class="main-menu-link">
+									<span class="menu-main-i-table">
+										<span class="menu-main-i-row">
+																						<span class="menu-main-img-b">
+												<img class="menu-main-img" src="http://i3.sokol.org.ua/goods/2191/2191774.png" width="82" height="52" alt="_">
+											</span>
+																					</span>
+										<span class="menu-main-i-row">
+											<span class="menu-main-title">Все для дома</span>
+										</span>
+									</span>
+								</a>
+																																																													<div name="drop-elem" class="drop-elem menu-popup-drop">
+	<div class="bg container">
+		<div class="row half">
+			<ul class="cell">
+							
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/posuda/c114715/" class="skyblue-links"><img src="http://i3.sokol.org.ua/goods/2235/2235563.jpg" width="90" height="58" alt="Посуда" title="Посуда" >Посуда</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/mebel-061d5/c165212/" class="skyblue-links"><img src="http://i3.sokol.org.ua/goods/3278/3278922.jpg" width="61" height="90" alt="Мебель" title="Мебель" >Мебель</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/stroitelstvo_and_remont/c111116/" class="skyblue-links"><img src="http://i3.sokol.org.ua/goods/4378/4378196.jpg" width="90" height="66" alt="Освещение и электрика" title="Освещение и электрика" >Освещение и электрика</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/domashniy_tekstil/c116428/" class="skyblue-links"><img src="http://i6.sokol.org.ua/goods/2263/2263032.jpg" width="89" height="60" alt="Домашний текстиль" title="Домашний текстиль" >Домашний текстиль</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/santexnika-95fd2/c128430/" class="skyblue-links"><img src="http://i7.sokol.org.ua/goods/2474/2474715.jpg" width="90" height="90" alt="Сантехника" title="Сантехника" >Сантехника</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/xozyajstvennye-tovary-4173c/c152614/" class="skyblue-links"><img src="http://i4.sokol.org.ua/goods/2987/2987853.jpg" width="90" height="90" alt="Хозяйственные товары" title="Хозяйственные товары" >Хозяйственные товары</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/interyer/c121756/" class="skyblue-links"><img src="http://i4.sokol.org.ua/goods/4378/4378198.jpg" width="90" height="90" alt="Интерьер" title="Интерьер" >Интерьер</a>
+						</li>
+																						</ul><ul class="cell">
+																
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/chasy-a16ef/c128148/" class="skyblue-links"><img src="http://i1.sokol.org.ua/goods/2480/2480169.jpg" width="90" height="90" alt="Часы" title="Часы" >Часы</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/99923/c99923/" class="skyblue-links"><img src="http://i2.sokol.org.ua/goods/1945/1945237.jpg" width="90" height="90" alt="Товары для детей" title="Товары для детей" >Товары для детей</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/banya-i-sauna-3d2e0/c134885/" class="skyblue-links"><img src="http://i7.sokol.org.ua/goods/2596/2596161.jpg" width="90" height="90" alt="Баня и сауна" title="Баня и сауна" >Баня и сауна</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/water-filters/c66865/" class="skyblue-links"><img src="http://i4.sokol.org.ua/goods/3808/3808273.jpg" width="90" height="90" alt="Фильтры для воды" title="Фильтры для воды" >Фильтры для воды</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/zootovary-5f658/c137437/" class="skyblue-links"><img src="http://i6.sokol.org.ua/goods/2674/2674681.jpg" width="90" height="73" alt="Зоотовары" title="Зоотовары" >Зоотовары</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/bytovaya-ximiya-53ed0/c180915/" class="skyblue-links"><img src="http://i4.sokol.org.ua/goods/3686/3686644.jpg" width="90" height="90" alt="Бытовая химия" title="Бытовая химия" >Бытовая химия</a>
+						</li>
+																																	</ul>
+		</div>
+	</div>
+</div>
+							</td>
+											
+					
+																		<td class="menu-main-i">
+								<a href="http://www.sokol.ua/dacha-sad-i-remont-1389e/c209499/" name="active-elem" class="main-menu-link">
+									<span class="menu-main-i-table">
+										<span class="menu-main-i-row">
+																						<span class="menu-main-img-b">
+												<img class="menu-main-img" src="http://i4.sokol.org.ua/goods/4378/4378690.png" width="82" height="52" alt="_">
+											</span>
+																					</span>
+										<span class="menu-main-i-row">
+											<span class="menu-main-title">Дача, сад и ремонт</span>
+										</span>
+									</span>
+								</a>
+																																																<div name="drop-elem" class="drop-elem menu-popup-drop">
+	<div class="bg container">
+		<div class="row half">
+			<ul class="cell">
+							
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/electroinstrument/c111121/" class="skyblue-links"><img src="http://i6.sokol.org.ua/goods/4378/4378200.jpg" width="90" height="90" alt="Электроинструмент" title="Электроинструмент" >Электроинструмент</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/stroitelnaya_technika/c113940/" class="skyblue-links"><img src="http://i3.sokol.org.ua/goods/2223/2223553.jpg" width="90" height="84" alt="Оборудование" title="Оборудование" >Оборудование</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/sadovaya_technika/c111115/" class="skyblue-links"><img src="http://i2.sokol.org.ua/goods/2216/2216621.jpg" width="82" height="90" alt="Садовая техника" title="Садовая техника" >Садовая техника</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/izmeritelniy_instrument/c112787/" class="skyblue-links"><img src="http://i5.sokol.org.ua/goods/4386/4386238.jpg" width="87" height="90" alt="Измерительный инструмент" title="Измерительный инструмент" >Измерительный инструмент</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/ruchnoy_instrument/c111122/" class="skyblue-links"><img src="http://i5.sokol.org.ua/goods/4386/4386242.jpg" width="90" height="52" alt="Ручной инструмент" title="Ручной инструмент" >Ручной инструмент</a>
+						</li>
+																						</ul><ul class="cell">
+																
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/poliv/c111119/" class="skyblue-links"><img src="http://i2.sokol.org.ua/goods/4378/4378192.jpg" width="63" height="90" alt="Полив" title="Полив" >Полив</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/sadovaya_mebel_and_dekor/c111117/" class="skyblue-links"><img src="http://i5.sokol.org.ua/goods/2216/2216592.jpg" width="89" height="82" alt="Садовая мебель и декор" title="Садовая мебель и декор" >Садовая мебель и декор</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/dacha/c111120/" class="skyblue-links"><img src="http://i5.sokol.org.ua/goods/2216/2216223.png" width="90" height="62" alt="Дача" title="Дача" >Дача</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/puchnoi_sadoviy_instrument/c111118/" class="skyblue-links"><img src="http://i1.sokol.org.ua/goods/2217/2217698.jpg" width="90" height="60" alt="Ручной садовый инструмент" title="Ручной садовый инструмент" >Ручной садовый инструмент</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/elektroinstalyaciya-c2b9b/c150621/" class="skyblue-links"><img src="http://i1.sokol.org.ua/goods/4386/4386244.jpg" width="90" height="60" alt="Строительство и ремонт" title="Строительство и ремонт" >Строительство и ремонт</a>
+						</li>
+																										</ul>
+		</div>
+	</div>
+</div>
+							</td>
+											
+					
+																		<td class="menu-main-i">
+								<a href="http://www.sokol.ua/sport_otdih_turizm/c111089/" name="active-elem" class="main-menu-link">
+									<span class="menu-main-i-table">
+										<span class="menu-main-i-row">
+																						<span class="menu-main-img-b">
+												<img class="menu-main-img" src="http://i3.sokol.org.ua/goods/2457/2457158.png" width="63" height="64" alt="_">
+											</span>
+																					</span>
+										<span class="menu-main-i-row">
+											<span class="menu-main-title">Спорт, отдых и туризм</span>
+										</span>
+									</span>
+								</a>
+																																								<div name="drop-elem" class="drop-elem menu-popup-drop">
+	<div class="bg container">
+		<div class="row half">
+			<ul class="cell">
+							
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/turizm_piknik/c111154/" class="skyblue-links"><img src="http://i7.sokol.org.ua/goods/2435/2435827.jpg" width="90" height="55" alt="Туризм, кемпинг и пляж" title="Туризм, кемпинг и пляж" >Туризм, кемпинг и пляж</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/oruzhie-27c75/c125391/" class="skyblue-links"><img src="http://i3.sokol.org.ua/goods/2435/2435887.jpg" width="90" height="73" alt="Спортивное оружие" title="Спортивное оружие" >Спортивное оружие</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/rybalka-0f028/c211069/" class="skyblue-links"><img src="http://i1.sokol.org.ua/goods/4403/4403781.jpg" width="88" height="90" alt="Рыбалка" title="Рыбалка" >Рыбалка</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/dajving-i-podvodnaya-oxota-63447/c232584/" class="skyblue-links"><img src="http://i4.sokol.org.ua/goods/4897/4897894.jpg" width="76" height="90" alt="Дайвинг и подводная охота" title="Дайвинг и подводная охота" >Дайвинг и подводная охота</a>
+						</li>
+																						</ul><ul class="cell">
+																
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/radiostancii-i-aksessuary-k-nim-6afa8/c207797/" class="skyblue-links"><img src="http://i7.sokol.org.ua/goods/4338/4338676.jpg" width="72" height="90" alt="Радиостанции и аксессуары к ним" title="Радиостанции и аксессуары к ним" >Радиостанции и аксессуары к ним</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/trenazhery-26764/c125386/" class="skyblue-links"><img src="http://i7.sokol.org.ua/goods/2435/2435885.jpg" width="90" height="79" alt="Тренажеры и фитнес" title="Тренажеры и фитнес" >Тренажеры и фитнес</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/sport-24daa/c125380/" class="skyblue-links"><img src="http://i6.sokol.org.ua/goods/2435/2435838.jpg" width="90" height="78" alt="Спорт" title="Спорт" >Спорт</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/opticheskie-pribory-d25e6/c136902/" class="skyblue-links"><img src="http://i7.sokol.org.ua/goods/2653/2653520.jpg" width="90" height="69" alt="Оптические приборы" title="Оптические приборы" >Оптические приборы</a>
+						</li>
+																										</ul>
+		</div>
+	</div>
+</div>
+							</td>
+											
+					
+																		<td class="menu-main-i">
+								<a href="http://www.sokol.ua/76455/c76455/" name="active-elem" class="main-menu-link">
+									<span class="menu-main-i-table">
+										<span class="menu-main-i-row">
+																						<span class="menu-main-img-b">
+												<img class="menu-main-img" src="http://i6.sokol.org.ua/goods/1826/1826287.png" width="36" height="34" alt="_">
+											</span>
+																					</span>
+										<span class="menu-main-i-row">
+											<span class="menu-main-title">Услуги</span>
+										</span>
+									</span>
+								</a>
+																									<div name="drop-elem" class="drop-elem menu-popup-drop">
+	<div class="bg container">
+		<div class="row half">
+			<ul class="cell">
+														
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/ustanovka-bytovoj-texniki-a353f/c232545/" class="skyblue-links"><img src="http://i7.sokol.org.ua/goods/4882/4882546.jpg" width="90" height="90" alt="Установка бытовой техники" title="Установка бытовой техники" >Установка бытовой техники</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/rasshirennaya-garantiya-8e573/c236129/" class="skyblue-links"><img src="http://i3.sokol.org.ua/goods/4982/4982203.jpg" width="90" height="90" alt="Расширенная гарантия" title="Расширенная гарантия" >Расширенная гарантия</a>
+						</li>
+																						</ul><ul class="cell">
+																
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/76457/c76457/" class="skyblue-links"><img src="http://i5.sokol.org.ua/goods/3047/3047779.jpg" width="90" height="90" alt="Подарочные сертификаты" title="Подарочные сертификаты" >Подарочные сертификаты</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/76456/c76456/" class="skyblue-links"><img src="http://i6.sokol.org.ua/goods/3047/3047871.jpg" width="90" height="90" alt="Установка программ" title="Установка программ" >Установка программ</a>
+						</li>
+																										</ul>
+		</div>
+	</div>
+</div>
+							</td>
+											
+					
+																		<td class="menu-main-i menu-main-i-last">
+								<a href="http://www.sokol.ua/stock/c77838/" name="active-elem" class="main-menu-link">
+									<span class="menu-main-i-table">
+										<span class="menu-main-i-row">
+																						<span class="menu-main-img-b">
+												<img class="menu-main-img" src="http://i2.sokol.org.ua/goods/1826/1826286.png" width="54" height="43" alt="_">
+											</span>
+																					</span>
+										<span class="menu-main-i-row">
+											<span class="menu-main-title">Распродажа</span>
+										</span>
+									</span>
+								</a>
+																																																																									<div name="drop-elem" class="drop-elem menu-popup-drop">
+	<div class="bg container">
+		<div class="row half">
+			<ul class="cell">
+							
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/stock/c77838/#r79482" class="skyblue-links"><img src="http://i6.sokol.org.ua/goods/1614/1614970.jpg" width="90" height="90" alt="Ноутбуки и компьютеры - уценка" title="Ноутбуки и компьютеры - уценка" >Ноутбуки и компьютеры - уценка</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/stock/c77838/#r77940" class="skyblue-links"><img src="http://i2.sokol.org.ua/goods/1614/1614960.jpg" width="90" height="90" alt="Телевизоры - уценка" title="Телевизоры - уценка" >Телевизоры - уценка</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/stock/c77838/#r77951" class="skyblue-links"><img src="http://i7.sokol.org.ua/goods/1614/1614975.jpg" width="90" height="90" alt="Фото-видео техника - уценка" title="Фото-видео техника - уценка" >Фото-видео техника - уценка</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/stock/c77838/#r107134" class="skyblue-links"><img src="http://i1.sokol.org.ua/goods/3355/3355071.jpg" width="85" height="90" alt="Телефоны - уценка" title="Телефоны - уценка" >Телефоны - уценка</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/stock/c77838/#r96844" class="skyblue-links"><img src="http://i3.sokol.org.ua/goods/3254/3254266.jpg" width="83" height="90" alt="Аксессуары - уценка" title="Аксессуары - уценка" >Аксессуары - уценка</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/stock/c77838/#r87849" class="skyblue-links"><img src="http://i1.sokol.org.ua/goods/3254/3254335.jpg" width="90" height="90" alt="Мелкая бытовая - уценка" title="Мелкая бытовая - уценка" >Мелкая бытовая - уценка</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/stock/c77838/#r87848" class="skyblue-links"><img src="http://i7.sokol.org.ua/goods/3254/3254333.jpg" width="41" height="90" alt="Крупная бытовая - уценка" title="Крупная бытовая - уценка" >Крупная бытовая - уценка</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/stock/c77838/#r89955" class="skyblue-links"><img src="http://i7.sokol.org.ua/goods/3254/3254418.jpg" width="90" height="90" alt="Комплектующие ПК - Уценка" title="Комплектующие ПК - Уценка" >Комплектующие ПК - Уценка</a>
+						</li>
+																						</ul><ul class="cell">
+																
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/stock/c77838/#r77943" class="skyblue-links"><img src="http://i2.sokol.org.ua/goods/1614/1614969.jpg" width="90" height="90" alt="Мониторы - уценка" title="Мониторы - уценка" >Мониторы - уценка</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/stock/c77838/#r235891" class="skyblue-links"><img src="http://i4.sokol.org.ua/goods/4972/4972402.jpg" width="90" height="90" alt="Все для дома - уценка" title="Все для дома - уценка" >Все для дома - уценка</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/stock/c77838/#r77939" class="skyblue-links"><img src="http://i5.sokol.org.ua/goods/1614/1614959.jpg" width="90" height="90" alt="Аудио и видеотехника - уценка" title="Аудио и видеотехника - уценка" >Аудио и видеотехника - уценка</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/stock/c77838/#r147488" class="skyblue-links"><img src="http://i4.sokol.org.ua/goods/3254/3254268.jpg" width="90" height="87" alt="Автотовары - уценка" title="Автотовары - уценка" >Автотовары - уценка</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/stock/c77838/#r100335" class="skyblue-links"><img src="http://i4.sokol.org.ua/goods/3259/3259320.jpg" width="90" height="67" alt="Расходный материал - уценка" title="Расходный материал - уценка" >Расходный материал - уценка</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/stock/c77838/#r89956" class="skyblue-links"><img src="http://i6.sokol.org.ua/goods/3254/3254429.jpg" width="90" height="90" alt="Сетевое оборудование - уценка" title="Сетевое оборудование - уценка" >Сетевое оборудование - уценка</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/stock/c77838/#r160478" class="skyblue-links"><img src="http://i2.sokol.org.ua/goods/3254/3254264.jpg" width="81" height="90" alt="Товары для детей - уценка" title="Товары для детей - уценка" >Товары для детей - уценка</a>
+						</li>
+																											
+                
+						
+					                                                                                        											<li class="image">
+                            <a href="http://www.sokol.ua/stock/c77838/#r77952" class="skyblue-links"><img src="http://i3.sokol.org.ua/goods/1614/1614973.jpg" width="90" height="90" alt="Прочее - уценка" title="Прочее - уценка" >Прочее - уценка</a>
+						</li>
+																																	</ul>
+		</div>
+	</div>
+</div>
+							</td>
+											
+										</tr>
+				</table>
+			</div>
+		</div>
+	</nav>
+	<script type="text/javascript">
+		new SokolStimulateBlock_class("");
+	</script>
+	<script type="text/javascript">
+var b=[];
+if( b && b.length)
+	document.write(App.getHTML('<div class=\"visual-horizontal under-top-menu\"> {if html_code} ${html_code} {else} {if is_object} <object classid=\"clsid:d27cdb6e-ae6d-11cf-96b8-444553540000\" codebase=\"http:\/\/download.macromedia.com\/pub\/shockwave\/cabs\/flash\/swflash.cab#version=5,0,0,0\" width=\"${width}\" height=\"${height}\" align=\"top\"> <param name=\"movie\" value=\"${src}?url=${url}\"> <param name=\"quality\" value=\"high\"> <param name=\"bgcolor\" value=\"#FFFFFF\"> <param name=\"wmode\" value=\"transparent\"> <embed src=\"${src}?url=${url}\" menu=\"false\" quality=\"high\" width=\"${width}\" height=\"${height}\" name=\"intro\" align=\"top\" wmode=\"transparent\" type=\"application\/x-shockwave-flash\" pluginspage=\"http:\/\/www.macromedia.com\/go\/getflashplayer\" bgcolor=\"#FFFFFF\"> <\/embed> <\/object> {else} {if url == \"http:\/\/www.sokol.ua\/#kingston-verificator\"} <a href=\"#\" onclick=\"return false;\" id=\"kingston-verificator\"><img class=\"visual-horizontal-img\" src=\"${src}\" width=\"${width}\" height=\"${height}\" alt=\"${alt}\" \><\/a> <script type=\"text\/javascript\"> var kingston_verificator = new KingstonVerificator_class(); kingston_verificator.init(); <\/script> {else} <a href=\"${url}\"><img class=\"visual-horizontal-img\" src=\"${src}\" width=\"${width}\" height=\"${height}\" alt=\"${alt}\" \><\/a> {\/if} {\/if} {\/if}<\/div>',b.getRandom()))
+</script></header>
+
+
+<script type="text/javascript">
+	App.addOnDomReady(function(){
+		var topDropMenu = new SokolDropDownMenu_class();
+		topDropMenu.setOptions({close_delay:500, open_delay:500});
+		$('action-zone').addEvents({
+
+			mouseleave:function(){
+				topDropMenu.setOptions({open_delay:500});
+			},
+
+			showed:function(){
+				topDropMenu.setOptions({open_delay:0});
+			}
+		});
+		topDropMenu.setOptions({
+			action_zone_elem:$('action-zone'),
+			parent_name:$('action-zone')
+		}).run();
+	})
+</script>
+
+
+		<div class="content" id="page">
+			<script type="text/javascript">
+	Analytics.setContext('main');
+</script>
+<div class="columns left-hand">
+
+	<section class="column-left" role="main">
+
+		<div name="app-message"></div>
+		
+
+    <div class="b-visuals" id="big-promo"></div>
+    <script type="text/javascript">
+        new BigPromo_class('big-promo',{"pages":[{"width":"700","height":"130","src":"http:\/\/i4.sokol.org.ua\/promotions\/6\/6982.jpg","alt":"\u0421\u043a\u0438\u0434\u043a\u0430 10% \u043d\u0430 \u0430\u043a\u0446\u0438\u043e\u043d\u043d\u0443\u044e \u043f\u0440\u043e\u0434\u0443\u043a\u0446\u0438\u044e!","url":"http:\/\/www.sokol.ua\/promotions\/skidka_10_procentov.html"},{"width":"700","height":"130","src":"http:\/\/i6.sokol.org.ua\/promotions\/6\/6692.jpg","alt":"Smart TV. \u0422\u0435\u043f\u0435\u0440\u044c \u0432\u0441\u0435 \u043f\u0440\u043e\u0441\u0442\u043e!","url":"http:\/\/www.sokol.ua\/promotions\/smart_tv_teper_vse_prosto.html"},{"width":"700","height":"130","src":"http:\/\/i3.sokol.org.ua\/promotions\/6\/6918.jpg","alt":"\u0412\u044b\u0438\u0433\u0440\u0430\u0439 Blu-ray \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u0442\u0435\u043b\u044c LG!","url":"http:\/\/www.sokol.ua\/promotions\/rozugrush_blu_ray_proigrivatelaj_lg.html"},{"width":"700","height":"130","src":"http:\/\/i4.sokol.org.ua\/promotions\/6\/6972.jpg","alt":"\u0421\u043a\u0438\u0434\u043a\u0430 10% \u043d\u0430 \u043f\u0440\u043e\u0434\u0443\u043a\u0446\u0438\u044e Stadler Form!","url":"http:\/\/www.sokol.ua\/promotions\/skidka_10_procentov_na_stadler_form.html"},{"width":"700","height":"130","src":"http:\/\/i6.sokol.org.ua\/promotions\/6\/6967.jpg","alt":"\u0424\u0438\u043b\u044c\u0442\u0440 \u0434\u043b\u044f \u0443\u0432\u043b\u0430\u0436\u043d\u0438\u0442\u0435\u043b\u044f \u0432\u043e\u0437\u0434\u0443\u0445\u0430 \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a!","url":"http:\/\/www.sokol.ua\/promotions\/filter_dlya_uvlajnitelya_v_podarok.html"},{"width":"700","height":"130","src":"http:\/\/i4.sokol.org.ua\/promotions\/6\/6965.jpg","alt":"\u0412\u044b\u0438\u0433\u0440\u0430\u0439 \u0432\u043d\u0435\u0448\u043d\u0438\u0439 HDD Silicon Power!","url":"http:\/\/www.sokol.ua\/promotions\/rozugrush_hdd_silicon_power.html"},{"width":"700","height":"130","src":"http:\/\/i1.sokol.org.ua\/promotions\/6\/6942.jpg","alt":"\u041c\u044f\u0447 \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a!","url":"http:\/\/www.sokol.ua\/promotions\/myach_v_podarok.html"},{"width":"700","height":"130","src":"http:\/\/i6.sokol.org.ua\/promotions\/6\/6753.jpg","alt":"\u041c\u0430\u043d\u0438\u043f\u0443\u043b\u044f\u0442\u043e\u0440 Asus Vivo Mouse \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a!","url":"http:\/\/www.sokol.ua\/promotions\/manipulyator_asus_vivo_mouse_v_podarok.html"},{"width":"700","height":"130","src":"http:\/\/i7.sokol.org.ua\/promotions\/6\/6673.jpg","alt":"\u041e\u043a\u0435\u0430\u043d \u044d\u043c\u043e\u0446\u0438\u0439 \u0441 \u043f\u043b\u0430\u043d\u0448\u0435\u0442\u043e\u043c \u043d\u0430 \u0431\u0430\u0437\u0435 \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440\u0430 Intel!","url":"http:\/\/www.sokol.ua\/promotions\/ocean_emotziy_s_planshetom_na_baze_intel.html"},{"width":"700","height":"130","src":"http:\/\/i3.sokol.org.ua\/promotions\/6\/6709.jpg","alt":"\u0413\u0430\u0440\u043d\u0438\u0442\u0443\u0440\u0430 \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a \u043a \u043c\u043e\u043d\u0438\u0442\u043e\u0440\u0430\u043c LG!","url":"http:\/\/www.sokol.ua\/promotions\/garnityra_k_monitoram_lg.html"},{"width":"700","height":"130","src":"http:\/\/i1.sokol.org.ua\/promotions\/6\/6640.jpg","alt":"\u041d\u0430\u0441\u0442\u043e\u043b\u044c\u043d\u044b\u0439 \u0432\u0435\u043d\u0442\u0438\u043b\u044f\u0442\u043e\u0440 \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a!","url":"http:\/\/www.sokol.ua\/promotions\/nastolnuy_ventilajtor_v_podarok.html"},{"width":"700","height":"130","src":"http:\/\/i6.sokol.org.ua\/promotions\/6\/6633.jpg","alt":"\u0421\u0443\u043c\u043a\u0430 Belkin \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a \u043a \u043d\u043e\u0443\u0442\u0431\u0443\u043a\u0430\u043c Acer!","url":"http:\/\/www.sokol.ua\/promotions\/symka_k_noytbykam_acer.html"},{"width":"700","height":"130","src":"http:\/\/i7.sokol.org.ua\/promotions\/6\/6578.jpg","alt":"2 \u0433\u043e\u0434\u0430 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0439 \u0433\u0430\u0440\u0430\u043d\u0442\u0438\u0438 \u043d\u0430 iPad!","url":"http:\/\/www.sokol.ua\/promotions\/dva_goda_garantii.html"},{"width":"700","height":"130","src":"http:\/\/i7.sokol.org.ua\/promotions\/6\/6573.png","alt":"\u0423\u043c\u0435\u043d\u044c\u0448\u0438 \u0432\u043b\u0430\u0436\u043d\u043e\u0441\u0442\u044c \u0438 \u043d\u0435\u043f\u0440\u0438\u044f\u0442\u043d\u044b\u0435 \u0437\u0430\u043f\u0430\u0445\u0438 \u0432 \u0441\u0432\u043e\u0435\u043c \u0434\u043e\u043c\u0435!","url":"http:\/\/www.sokol.ua\/promotions\/stop_vlaga_ceresit.html"},{"width":"700","height":"130","src":"http:\/\/i1.sokol.org.ua\/promotions\/6\/6565.jpg","alt":"100 \u0434\u043d\u0435\u0439 \u0431\u0435\u0437\u043b\u0438\u043c\u0438\u0442\u043d\u043e\u0433\u043e 3G-\u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442\u0430 \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a \u0438 2 \u0433\u043e\u0434\u0430 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0439 \u0433\u0430\u0440\u0430\u043d\u0442\u0438\u0438!","url":"http:\/\/www.sokol.ua\/promotions\/3g_internet_v_podarok.html"},{"width":"700","height":"130","src":"http:\/\/i2.sokol.org.ua\/promotions\/6\/6555.png","alt":"\u0410\u043a\u0443\u0441\u0442\u0438\u043a\u0430 \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a!","url":"http:\/\/www.sokol.ua\/promotions\/akystika_v_podarok_monobloki.html"},{"width":"700","height":"130","src":"http:\/\/i2.sokol.org.ua\/promotions\/6\/6560.jpg","alt":"\u041f\u043e\u0440\u0442\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u0430\u043a\u0443\u0441\u0442\u0438\u043a\u0430 \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a!","url":"http:\/\/www.sokol.ua\/promotions\/akystika_v_podarok_k_videokartam.html"},{"width":"700","height":"130","src":"http:\/\/i2.sokol.org.ua\/promotions\/6\/6492.jpg","alt":"\u0421\u0435\u0440\u0442\u0438\u0444\u0438\u043a\u0430\u0442 \u043d\u0430 100 \u0433\u0440\u043d \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a \u043a \u043c\u0443\u043b\u044c\u0442\u0438\u0432\u0430\u0440\u043a\u0435 UFO!","url":"http:\/\/www.sokol.ua\/promotions\/sertifikat_v_podarok_k_myltivarke.html"},{"width":"700","height":"130","src":"http:\/\/i6.sokol.org.ua\/promotions\/6\/6487.jpg","alt":"500 \u043b\u0438\u0441\u0442\u043e\u0432 \u0444\u043e\u0442\u043e\u0431\u0443\u043c\u0430\u0433\u0438 \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a!","url":"http:\/\/www.sokol.ua\/promotions\/fotobymaga_v_podarok.html"},{"width":"700","height":"130","src":"http:\/\/i4.sokol.org.ua\/promotions\/6\/6530.jpg","alt":"\u0424\u0438\u0440\u043c\u0435\u043d\u043d\u044b\u0439 \u0440\u044e\u043a\u0437\u0430\u043a Lenovo \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a!","url":"http:\/\/www.sokol.ua\/promotions\/firmennuy_rykzak_v_podarok.html"},{"width":"700","height":"130","src":"http:\/\/i4.sokol.org.ua\/promotions\/6\/6385.jpg","alt":"\u0421\u043c\u0430\u0440\u0442 \u0447\u0435\u0445\u043e\u043b \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a!","url":"http:\/\/www.sokol.ua\/promotions\/smart_chehol_v_podarok_k_smartfony_lg.html"},{"width":"700","height":"130","src":"http:\/\/i2.sokol.org.ua\/promotions\/6\/6356.jpg","alt":"\u0411\u0440\u0430\u0441\u043b\u0435\u0442 \u043e\u0442 \u043a\u043e\u043c\u0430\u0440\u043e\u0432 \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a!","url":"http:\/\/www.sokol.ua\/promotions\/braslet_ot_komarov_v_podarok.html"},{"width":"700","height":"130","src":"http:\/\/i2.sokol.org.ua\/promotions\/6\/6353.jpg","alt":"\u0410\u043a\u043a\u0443\u043c\u0443\u043b\u044f\u0442\u043e\u0440 \u0445\u043e\u043b\u043e\u0434\u0430 \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a!","url":"http:\/\/www.sokol.ua\/promotions\/akkymykajtor_holoda_v_podarok_termosymkam.html"},{"width":"700","height":"130","src":"http:\/\/i6.sokol.org.ua\/promotions\/6\/6638.jpg","alt":"\u0411\u0435\u0441\u043f\u0440\u043e\u0432\u043e\u0434\u043d\u0430\u044f \u043c\u044b\u0448\u044c \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a!","url":"http:\/\/www.sokol.ua\/promotions\/besprovodnaja_mush_v_podarok_k_noytam_acer.html"},{"width":"700","height":"130","src":"http:\/\/i7.sokol.org.ua\/promotions\/6\/6249.jpg","alt":"\u0418\u0433\u0440\u043e\u0432\u0430\u044f \u043f\u043e\u0432\u0435\u0440\u0445\u043d\u043e\u0441\u0442\u044c \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a \u043a \u0432\u0438\u0434\u0435\u043e\u043a\u0430\u0440\u0442\u0430\u043c Asus!","url":"http:\/\/www.sokol.ua\/promotions\/igrovaia_poverhnost_v_podarok_videokarty_asus.html"},{"width":"700","height":"130","src":"http:\/\/i3.sokol.org.ua\/promotions\/6\/6107.jpg","alt":"\u0422\u0443\u0440\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043d\u043e\u0436\u0438\u043a \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a!","url":"http:\/\/www.sokol.ua\/promotions\/turisticheskiy_nozh_v_podarok.html"},{"width":"700","height":"130","src":"http:\/\/i7.sokol.org.ua\/promotions\/5\/5992.jpg","alt":"\u041f\u043b\u0430\u043d\u0448\u0435\u0442 \u0438 \u043d\u043e\u0443\u0442\u0431\u0443\u043a \u2013 2 \u0432 1!","url":"http:\/\/www.sokol.ua\/promotions\/intel_2_v_1.html"},{"width":"700","height":"130","src":"http:\/\/i1.sokol.org.ua\/promotions\/5\/5570.jpg","alt":"\u041a \u0441\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u0430\u043c Dex - \u0441\u0442\u0438\u043b\u044c\u043d\u044b\u0435 \u0447\u0435\u0445\u043b\u044b \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a!","url":"http:\/\/www.sokol.ua\/promotions\/stilnye_chehly_podarok_smartfon_dex.html"},{"width":"700","height":"130","src":"http:\/\/i2.sokol.org.ua\/promotions\/6\/6381.jpg","alt":"\u0412\u043d\u0435\u0448\u043d\u0438\u0439 \u0436\u0435\u0441\u0442\u043a\u0438\u0439 \u0434\u0438\u0441\u043a 500 \u0413\u0431 \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a!","url":"http:\/\/www.sokol.ua\/promotions\/jestkiy_disk_podarok_noutbook.html"}]})
+		
+        .setOptions({
+            periodSlideShow: 5000,
+            delayAfterClick: 1000,
+            pages: 'ul[name=pages] li',
+            image_selector:'ul[name=images] li',
+            navigator: false,
+            paginator: true,
+            useFade: true,
+            fadeAfter: 1,
+            slideDuration: 400
+        }).init();
+		
+    </script>
+		
+		<div id ="recent_goods"></div>
+<script type="text/javascript">
+	if(typeof(RecentGoodsMain)!='undefined')RecentGoodsMain.init('recent_goods');
+</script>        
+
+	<section id="catalog" class="white-block">
+	
+
+	
+	<div class="inner">
+		<div class="container">
+			
+	<table class="tierce"><tbody><tr><td><h2><a href="http://www.sokol.ua/portable-devices/c217/">Портативная техника</a></h2><ul><li><a href="http://www.sokol.ua/notebooks/c218/">Ноутбуки</a></li><li><a href="http://www.sokol.ua/tablets/c69837/">Интернет-планшеты</a></li><li><a href="http://www.sokol.ua/netbooks/c18246/">Нетбуки</a></li><li><a href="http://www.sokol.ua/e-books/c430/">Электронные книги</a></li><li><a href="http://www.sokol.ua/notebook-components/c221/">Аксессуары для ноутбуков</a></li><li><a href="http://www.sokol.ua/72573/c72573/">Аксессуары для планшетов и книг</a></li></ul><ul><li class="cut"><a href="#" class="xhr">Развернуть &darr;</a></li></ul></ul></td><td><h2><a href="http://www.sokol.ua/computer-equipment/c001/">Компьютеры и оргтехника</a></h2><ul><li><a href="http://www.sokol.ua/computer-components/c002/">Комплектующие ПК</a></li><li><a href="http://www.sokol.ua/computers/c106/">Компьютеры</a></li><li><a href="http://www.sokol.ua/aksessuary-k-pk-701f4/c124494/">Компьютерная периферия</a></li><li><a href="http://www.sokol.ua/manipulators-and-accessories/c101/">Манипуляторы и аксессуары к ним</a></li><li><a href="http://www.sokol.ua/tft-lcd/c136/">Мониторы (TFT, LCD)</a></li><li><a href="http://www.sokol.ua/office-equipment/c042/">Оргтехника</a></li><li><a href="http://www.sokol.ua/igrovye-pristavki-48cb9/c150609/">Игровые приставки</a></li></ul><ul class="under-cut"><li><a href="http://www.sokol.ua/network-equipment/c096/">Сетевое оборудование</a></li><li><a href="http://www.sokol.ua/servernoe-oborudovanie-6b248/c188572/">Серверное оборудование</a></li><li><a href="http://www.sokol.ua/software/c161/">Программное Обеспечение</a></li></ul><ul><li class="cut"><a href="#" class="xhr">Развернуть &darr;</a></li></ul></ul></td><td><h2><a href="http://www.sokol.ua/telecomunication/c108444/">Телефония</a></h2><ul><li><a href="http://www.sokol.ua/smartphones/c282/">Смартфоны (Коммуникаторы)</a></li><li><a href="http://www.sokol.ua/mobile-phones/c267/">Мобильные телефоны</a></li><li><a href="http://www.sokol.ua/smart-chasy-85107/c206730/">Смарт-часы и браслеты</a></li><li><a href="http://www.sokol.ua/mobile-phones-accessories/c432/">Аксессуары для мобильных телефонов</a></li><li><a href="http://www.sokol.ua/dect/c280/">Телефоны</a></li><li><a href="http://www.sokol.ua/faxes/c216/">Факсы</a></li><li><a href="http://www.sokol.ua/ate/c276/">АТС</a></li></ul><ul class="under-cut"><li><a href="http://www.sokol.ua/ate-components/c277/">АТС принадлежности</a></li><li><a href="http://www.sokol.ua/phones-accessories/c37032/">Аксессуары для телефонов</a></li></ul><ul><li class="cut"><a href="#" class="xhr">Развернуть &darr;</a></li></ul></ul></td></tr><tr><td><h2><a href="http://www.sokol.ua/audio-video-photo/c018/">Аудио и видеотехника</a></h2><ul><li><a href="http://www.sokol.ua/tv-sets/c18258/">Телевизоры</a></li><li><a href="http://www.sokol.ua/acoustics/c036/">Акустика</a></li><li><a href="http://www.sokol.ua/mp3-players/c025/">MP3/MP4 плееры</a></li><li><a href="http://www.sokol.ua/headphones/c048/">Наушники</a></li><li><a href="http://www.sokol.ua/audio-systems/c112/">Аудиосистемы</a></li><li><a href="http://www.sokol.ua/brackets-for-projectors/c428/">Крепления и подставки для ТВ</a></li><li><a href="http://www.sokol.ua/media-players/c18252/">Медиаплееры</a></li></ul><ul class="under-cut"><li><a href="http://www.sokol.ua/dvd-players/c021/">DVD/Blu-ray  проигрыватели</a></li><li><a href="http://www.sokol.ua/home-theaters/c105/">Домашние кинотеатры</a></li><li><a href="http://www.sokol.ua/remotes/c177/">Пульты ДУ</a></li><li><a href="http://www.sokol.ua/tv-tuners/c41110/">Цифровые TV-тюнеры</a></li><li><a href="http://www.sokol.ua/receivers/c181/">Ресиверы</a></li><li><a href="http://www.sokol.ua/interunit-cables/c42665/">Межблочный и акустический кабель</a></li><li><a href="http://www.sokol.ua/85479/c85479/">ТВ антенна</a></li><li><a href="http://www.sokol.ua/3d/c41067/">3D очки</a></li><li><a href="http://www.sokol.ua/voice-recorders/c058/">Диктофоны</a></li><li><a href="http://www.sokol.ua/projection-screens/c175/">Проекционные экраны</a></li><li><a href="http://www.sokol.ua/microphones/c117/">Микрофоны</a></li><li><a href="http://www.sokol.ua/projectors/c032/">Проекторы</a></li><li><a href="http://www.sokol.ua/voice-recorder-accessories/c229/">Аксессуары для диктофонов</a></li><li><a href="http://www.sokol.ua/accessories-and-expendables/c033/">Аксессуары для проекторов</a></li></ul><ul><li class="cut"><a href="#" class="xhr">Развернуть &darr;</a></li></ul></ul></td><td><h2><a href="http://www.sokol.ua/photo-video/c44513/">Фото и видеокамеры</a></h2><ul><li><a href="http://www.sokol.ua/digital-cameras/c073/">Фотоаппараты</a></li><li><a href="http://www.sokol.ua/lenses/c248/">Объективы</a></li><li><a href="http://www.sokol.ua/color-filters/c37036/">Светофильтры</a></li><li><a href="http://www.sokol.ua/bags/c384/">Сумки, рюкзаки</a></li><li><a href="http://www.sokol.ua/flash-memory-cards/c239/">Карты памяти</a></li><li><a href="http://www.sokol.ua/elementy-pitaniya-b9979/c131253/">Элементы питания</a></li><li><a href="http://www.sokol.ua/video-cameras/c046/">Видеокамеры</a></li></ul><ul class="under-cut"><li><a href="http://www.sokol.ua/photo-video-accessories/c074/">Аксессуары для фото/видео</a></li><li><a href="http://www.sokol.ua/digital-photoframes/c429/">Цифровые фоторамки</a></li><li><a href="http://www.sokol.ua/tripods-accessories/c313/">Штативы, моноподы, головки</a></li><li><a href="http://www.sokol.ua/flashes/c306/">Фотовспышки</a></li><li><a href="http://www.sokol.ua/106188/c106188/">Свет</a></li></ul><ul><li class="cut"><a href="#" class="xhr">Развернуть &darr;</a></li></ul></ul></td><td><h2><a href="http://www.sokol.ua/home-appliances/c317/">Бытовая техника</a></h2><ul><li><a href="http://www.sokol.ua/small/c320/">Техника для кухни</a></li><li><a href="http://www.sokol.ua/large/c318/">Крупная бытовая техника</a></li><li><a href="http://www.sokol.ua/home/c45456/">Техника для дома</a></li><li><a href="http://www.sokol.ua/beauty-health/c355/">Техника для личного пользования</a></li><li><a href="http://www.sokol.ua/climatic-equipment/c321/">Климатическое оборудование</a></li><li><a href="http://www.sokol.ua/built-in/c319/">Встраиваемая бытовая техника</a></li><li><a href="http://www.sokol.ua/medtechnics/c64160/">Медтехника</a></li></ul><ul class="under-cut"><li><a href="http://www.sokol.ua/accessories/c45545/">Аксессуары к бытовой технике</a></li></ul><ul><li class="cut"><a href="#" class="xhr">Развернуть &darr;</a></li></ul></ul></td></tr><tr><td><h2><a href="http://www.sokol.ua/auto-tovary/c18247/">Автотовары</a></h2><ul><li><a href="http://www.sokol.ua/car-players/c18249/">Автомагнитолы</a></li><li><a href="http://www.sokol.ua/82652/c82652/">Видеорегистраторы</a></li><li><a href="http://www.sokol.ua/navigation-systems/c380/">GPS навигация</a></li><li><a href="http://www.sokol.ua/shiny-84186/c128006/">Шины</a></li><li><a href="http://www.sokol.ua/instrumenty-b7da5/c162532/">Инструменты</a></li><li><a href="http://www.sokol.ua/aksessuar-dlya-avtomobilya-c978b/c143519/">Аксессуар для автомобиля</a></li><li><a href="http://www.sokol.ua/105107/c105107/">Чехлы для сидений</a></li></ul><ul class="under-cut"><li><a href="http://www.sokol.ua/92229/c92229/">Алкометры</a></li><li><a href="http://www.sokol.ua/90763/c90763/">Радардетекторы</a></li><li><a href="http://www.sokol.ua/car-acoustics/c18248/">Автоакустика</a></li><li><a href="http://www.sokol.ua/90061/c90061/">Парктроники</a></li><li><a href="http://www.sokol.ua/invertors/c18284/">Инверторы</a></li><li><a href="http://www.sokol.ua/kompressory-d5bae/c162533/">Компрессоры</a></li><li><a href="http://www.sokol.ua/zaryadnye-ustrojstva-d6951/c162535/">Зарядные устройства</a></li><li><a href="http://www.sokol.ua/domkraty-d63d5/c162534/">Домкраты</a></li><li><a href="http://www.sokol.ua/fm/c71563/">Авто FM трансмиттеры</a></li><li><a href="http://www.sokol.ua/avtokresla-e1ce9/c138605/">Автокресла</a></li><li><a href="http://www.sokol.ua/92230/c92230/">Камеры заднего вида</a></li><li><a href="http://www.sokol.ua/car-amplifiers/c18251/">Автоусилители</a></li><li><a href="http://www.sokol.ua/car-subwoofers/c23066/">Автосабвуферы</a></li><li><a href="http://www.sokol.ua/92226/c92226/">Сенсоры комфорта</a></li><li><a href="http://www.sokol.ua/105108/c105108/">Оплетка на руль</a></li><li><a href="http://www.sokol.ua/mini-washers/c23053/">Минимойки</a></li><li><a href="http://www.sokol.ua/car-tv/c18250/">Авто TV</a></li><li><a href="http://www.sokol.ua/security-systems/c43570/">Охранные системы</a></li><li><a href="http://www.sokol.ua/avtomobilnie_monitory/c121755/">Автомобильные мониторы</a></li><li><a href="http://www.sokol.ua/lebedki-2b69c/c189843/">Лебедки</a></li><li><a href="http://www.sokol.ua/tenty-69417/c178578/">Тенты</a></li><li><a href="http://www.sokol.ua/shtatnye-magnitoly-e7041/c193911/">Штатные магнитолы</a></li><li><a href="http://www.sokol.ua/avtoximiya-2534c/c196546/">Автохимия</a></li><li><a href="http://www.sokol.ua/masla-2469f/c196545/">Масла</a></li></ul><ul><li class="cut"><a href="#" class="xhr">Развернуть &darr;</a></li></ul></ul></td><td><h2><a href="http://www.sokol.ua/dacha-sad-ogorod/c110581/">Все для дома</a></h2><ul><li><a href="http://www.sokol.ua/posuda/c114715/">Посуда</a></li><li><a href="http://www.sokol.ua/mebel-061d5/c165212/">Мебель</a></li><li><a href="http://www.sokol.ua/stroitelstvo_and_remont/c111116/">Освещение и электрика</a></li><li><a href="http://www.sokol.ua/domashniy_tekstil/c116428/">Домашний текстиль</a></li><li><a href="http://www.sokol.ua/santexnika-95fd2/c128430/">Сантехника</a></li><li><a href="http://www.sokol.ua/xozyajstvennye-tovary-4173c/c152614/">Хозяйственные товары</a></li><li><a href="http://www.sokol.ua/interyer/c121756/">Интерьер</a></li></ul><ul class="under-cut"><li><a href="http://www.sokol.ua/chasy-a16ef/c128148/">Часы</a></li><li><a href="http://www.sokol.ua/99923/c99923/">Товары для детей</a></li><li><a href="http://www.sokol.ua/banya-i-sauna-3d2e0/c134885/">Баня и сауна</a></li><li><a href="http://www.sokol.ua/water-filters/c66865/">Фильтры для воды</a></li><li><a href="http://www.sokol.ua/zootovary-5f658/c137437/">Зоотовары</a></li><li><a href="http://www.sokol.ua/bytovaya-ximiya-53ed0/c180915/">Бытовая химия</a></li></ul><ul><li class="cut"><a href="#" class="xhr">Развернуть &darr;</a></li></ul></ul></td><td><h2><a href="http://www.sokol.ua/dacha-sad-i-remont-1389e/c209499/">Дача, сад и ремонт</a></h2><ul><li><a href="http://www.sokol.ua/electroinstrument/c111121/">Электроинструмент</a></li><li><a href="http://www.sokol.ua/stroitelnaya_technika/c113940/">Оборудование</a></li><li><a href="http://www.sokol.ua/sadovaya_technika/c111115/">Садовая техника</a></li><li><a href="http://www.sokol.ua/izmeritelniy_instrument/c112787/">Измерительный инструмент</a></li><li><a href="http://www.sokol.ua/ruchnoy_instrument/c111122/">Ручной инструмент</a></li><li><a href="http://www.sokol.ua/poliv/c111119/">Полив</a></li><li><a href="http://www.sokol.ua/sadovaya_mebel_and_dekor/c111117/">Садовая мебель и декор</a></li></ul><ul class="under-cut"><li><a href="http://www.sokol.ua/dacha/c111120/">Дача</a></li><li><a href="http://www.sokol.ua/puchnoi_sadoviy_instrument/c111118/">Ручной садовый инструмент</a></li><li><a href="http://www.sokol.ua/elektroinstalyaciya-c2b9b/c150621/">Строительство и ремонт</a></li></ul><ul><li class="cut"><a href="#" class="xhr">Развернуть &darr;</a></li></ul></ul></td></tr><tr><td><h2><a href="http://www.sokol.ua/sport_otdih_turizm/c111089/">Спорт, отдых и туризм</a></h2><ul><li><a href="http://www.sokol.ua/turizm_piknik/c111154/">Туризм, кемпинг и пляж</a></li><li><a href="http://www.sokol.ua/oruzhie-27c75/c125391/">Спортивное оружие</a></li><li><a href="http://www.sokol.ua/rybalka-0f028/c211069/">Рыбалка</a></li><li><a href="http://www.sokol.ua/dajving-i-podvodnaya-oxota-63447/c232584/">Дайвинг и подводная охота</a></li><li><a href="http://www.sokol.ua/radiostancii-i-aksessuary-k-nim-6afa8/c207797/">Радиостанции и аксессуары к ним</a></li><li><a href="http://www.sokol.ua/trenazhery-26764/c125386/">Тренажеры и фитнес</a></li><li><a href="http://www.sokol.ua/sport-24daa/c125380/">Спорт</a></li></ul><ul class="under-cut"><li><a href="http://www.sokol.ua/opticheskie-pribory-d25e6/c136902/">Оптические приборы</a></li></ul><ul><li class="cut"><a href="#" class="xhr">Развернуть &darr;</a></li></ul></ul></td><td><h2><a href="http://www.sokol.ua/76455/c76455/">Услуги</a></h2><ul><li><a href="http://www.sokol.ua/ustanovka-bytovoj-texniki-a353f/c232545/">Установка бытовой техники</a></li><li><a href="http://www.sokol.ua/rasshirennaya-garantiya-8e573/c236129/">Расширенная гарантия</a></li><li><a href="http://www.sokol.ua/76457/c76457/">Подарочные сертификаты</a></li><li><a href="http://www.sokol.ua/76456/c76456/">Установка программ</a></li></ul></td><td><h2><a href="http://www.sokol.ua/stock/c77838/">Распродажа</a></h2><ul><li><a href="http://www.sokol.ua/stock/c77838/#r79482">Ноутбуки и компьютеры - уценка</a></li><li><a href="http://www.sokol.ua/stock/c77838/#r77940">Телевизоры - уценка</a></li><li><a href="http://www.sokol.ua/stock/c77838/#r77951">Фото-видео техника - уценка</a></li><li><a href="http://www.sokol.ua/stock/c77838/#r107134">Телефоны - уценка</a></li><li><a href="http://www.sokol.ua/stock/c77838/#r96844">Аксессуары - уценка</a></li><li><a href="http://www.sokol.ua/stock/c77838/#r87849">Мелкая бытовая - уценка</a></li><li><a href="http://www.sokol.ua/stock/c77838/#r87848">Крупная бытовая - уценка</a></li></ul><ul class="under-cut"><li><a href="http://www.sokol.ua/stock/c77838/#r89955">Комплектующие ПК - Уценка</a></li><li><a href="http://www.sokol.ua/stock/c77838/#r77943">Мониторы - уценка</a></li><li><a href="http://www.sokol.ua/stock/c77838/#r235891">Все для дома - уценка</a></li><li><a href="http://www.sokol.ua/stock/c77838/#r77939">Аудио и видеотехника - уценка</a></li><li><a href="http://www.sokol.ua/stock/c77838/#r147488">Автотовары - уценка</a></li><li><a href="http://www.sokol.ua/stock/c77838/#r100335">Расходный материал - уценка</a></li><li><a href="http://www.sokol.ua/stock/c77838/#r89956">Сетевое оборудование - уценка</a></li><li><a href="http://www.sokol.ua/stock/c77838/#r160478">Товары для детей - уценка</a></li><li><a href="http://www.sokol.ua/stock/c77838/#r77952">Прочее - уценка</a></li></ul><ul><li class="cut"><a href="#" class="xhr">Развернуть &darr;</a></li></ul></ul></td></tr></tbody></table>
+
+		</div>
+	</div>
+
+</section>
+
+		        	
+				
+<section class="named-block goods tile novelty">
+	<header class="head">
+		<div class="container">
+			<h2>Новинки</h2>
+		</div>
+	</header>
+	<div class="inner">
+		<div class="container">
+			<div class="all"><a onclick="Analytics.trackLinkClick(event,'novelty',Analytics.getContext(),'see-all')" href="http://www.sokol.ua/novelty/" class="with-arrow"><span>Смотреть все</span> <span class="arrow">&rarr;</span></a></div>			<table class="one-fouth">
+												
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+									<tr class="images">																
+				<td><a onclick="Analytics.trackLinkClick(event,'novelty',Analytics.getContext(),'/audio-video-photo/headphones',1)" href="http://www.sokol.ua/naushniki-monster-isport-freedom-wireless-bluetooth-on-ear-headphones-green-mns-128939-00-87073/p185157/"><img src="http://i5.sokol.org.ua/goods/4976/4976444.jpg" width="111" height="130" alt="Наушники Monster iSport Freedom Wireless Bluetooth On-Ear Headphones Green (MNS-128939-00)" title="Наушники Monster iSport Freedom Wireless Bluetooth On-Ear Headphones Green (MNS-128939-00)" ></a></td>
+				
+				<td><a onclick="Analytics.trackLinkClick(event,'novelty',Analytics.getContext(),'/telecomunication/mobile-phones-accessories/99425',2)" href="http://www.sokol.ua/avtomobilnoe-kreplenie-na-prisoske-easy-link-el-680-ea1f6/p233545/"><img src="http://i6.sokol.org.ua/goods/4978/4978307.jpg" width="130" height="125" alt="Автомобильное крепление на присоске для коммуникаторов (iPhone, HTC, Samsung)" title="Автомобильное крепление на присоске для коммуникаторов (iPhone, HTC, Samsung)" ></a></td>
+				
+				<td><a onclick="Analytics.trackLinkClick(event,'novelty',Analytics.getContext(),'/telecomunication/mobile-phones-accessories/99425',3)" href="http://www.sokol.ua/avtomobilnoe-kreplenie-na-prisoske-easy-link-el-550-0550a/p233548/"><img src="http://i2.sokol.org.ua/goods/4977/4977704.jpg" width="130" height="115" alt="Автомобильное крепление на присоске универсальное" title="Автомобильное крепление на присоске универсальное" ></a></td>
+				
+				<td><a onclick="Analytics.trackLinkClick(event,'novelty',Analytics.getContext(),'/telecomunication/mobile-phones-accessories/accumulators',4)" href="http://www.sokol.ua/akumulyator-samsung-eb-l1g6llu-c9867/p233878/"><img src="http://i4.sokol.org.ua/goods/4979/4979369.jpg" width="105" height="130" alt="Аккумуляторная батарея Samsung EB-L1G6LLU 2100 мА·ч Silver" title="Аккумуляторная батарея Samsung EB-L1G6LLU 2100 мА·ч Silver" ></a></td>
+				</tr>
+					<tr class="details">																
+				<td id="catalog_item185157">
+										<div class="title"><a onclick="Analytics.trackLinkClick(event,'novelty',Analytics.getContext(),'/audio-video-photo/headphones',1)" href="http://www.sokol.ua/naushniki-monster-isport-freedom-wireless-bluetooth-on-ear-headphones-green-mns-128939-00-87073/p185157/">Наушники Monster iSport Freedom Wireless Bluetooth On-Ear Headphones Green (MNS-128939-00)</a></div>
+																		<div class="price price-old">
+								<span class="uah" name="uah_old"></span>
+								<span class="usd" name="usd_old"></span>
+							</div>
+												<div class="price"><span class="uah" name="uah">3&nbsp;006&nbsp;грн.</span> <span class="usd" name="usd">252&nbsp;$</span></div>
+										<div class="to-cart" name="buy_details_small"></div>
+					<script type="text/javascript">GoodsCatalog.add(185157)</script>
+				</td>
+				
+				<td id="catalog_item233545">
+										<div class="title"><a onclick="Analytics.trackLinkClick(event,'novelty',Analytics.getContext(),'/telecomunication/mobile-phones-accessories/99425',2)" href="http://www.sokol.ua/avtomobilnoe-kreplenie-na-prisoske-easy-link-el-680-ea1f6/p233545/">Автомобильное крепление на присоске для коммуникаторов (iPhone, HTC, Samsung)</a></div>
+																		<div class="price price-old">
+								<span class="uah" name="uah_old"></span>
+								<span class="usd" name="usd_old"></span>
+							</div>
+												<div class="price"><span class="uah" name="uah">120&nbsp;грн.</span> <span class="usd" name="usd">10&nbsp;$</span></div>
+										<div class="to-cart" name="buy_details_small"></div>
+					<script type="text/javascript">GoodsCatalog.add(233545)</script>
+				</td>
+				
+				<td id="catalog_item233548">
+										<div class="title"><a onclick="Analytics.trackLinkClick(event,'novelty',Analytics.getContext(),'/telecomunication/mobile-phones-accessories/99425',3)" href="http://www.sokol.ua/avtomobilnoe-kreplenie-na-prisoske-easy-link-el-550-0550a/p233548/">Автомобильное крепление на присоске универсальное</a></div>
+																		<div class="price price-old">
+								<span class="uah" name="uah_old"></span>
+								<span class="usd" name="usd_old"></span>
+							</div>
+												<div class="price"><span class="uah" name="uah">120&nbsp;грн.</span> <span class="usd" name="usd">10&nbsp;$</span></div>
+										<div class="to-cart" name="buy_details_small"></div>
+					<script type="text/javascript">GoodsCatalog.add(233548)</script>
+				</td>
+				
+				<td id="catalog_item233878">
+										<div class="title"><a onclick="Analytics.trackLinkClick(event,'novelty',Analytics.getContext(),'/telecomunication/mobile-phones-accessories/accumulators',4)" href="http://www.sokol.ua/akumulyator-samsung-eb-l1g6llu-c9867/p233878/">Аккумуляторная батарея Samsung EB-L1G6LLU 2100 мА·ч Silver</a></div>
+																		<div class="price price-old">
+								<span class="uah" name="uah_old"></span>
+								<span class="usd" name="usd_old"></span>
+							</div>
+												<div class="price"><span class="uah" name="uah">212&nbsp;грн.</span> <span class="usd" name="usd">18&nbsp;$</span></div>
+										<div class="to-cart" name="buy_details_small"></div>
+					<script type="text/javascript">GoodsCatalog.add(233878)</script>
+				</td>
+				</tr>
+												
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+									<tr class="images">																
+				<td><a onclick="Analytics.trackLinkClick(event,'novelty',Analytics.getContext(),'/computer-equipment/office-equipment/ibp-ups-i-opcii-13655/ups',5)" href="http://www.sokol.ua/ibp-ups-powercom-imd-1200ap-lcd-39b3d/p234780/"><img src="http://i1.sokol.org.ua/goods/4979/4979999.jpg" width="115" height="130" alt="ИБП (UPS) Powercom IMD-1200AP LCD" title="ИБП (UPS) Powercom IMD-1200AP LCD" ></a></td>
+				
+				<td><a onclick="Analytics.trackLinkClick(event,'novelty',Analytics.getContext(),'/sport_otdih_turizm/sport-24daa/bolshoj-tennis-262b8',6)" href="http://www.sokol.ua/raketka-head-youtek-graphene-radical-mp-u20-2014-230-514-123cd/p235369/"><img src="http://i4.sokol.org.ua/goods/4977/4977956.jpg" width="82" height="130" alt="Ракетка HEAD YouTek Graphene Radical MP U20 2014 (230-514)" title="Ракетка HEAD YouTek Graphene Radical MP U20 2014 (230-514)" ></a></td>
+				
+				<td><a onclick="Analytics.trackLinkClick(event,'novelty',Analytics.getContext(),'/dacha-sad-ogorod/posuda/bokaly_stakany_rumki',7)" href="http://www.sokol.ua/nabir-bokaliv-dlya-vina-440ml-style-3sht-31-225-078-9ca8b/p236326/"><img src="http://i3.sokol.org.ua/goods/4973/4973470.jpg" width="48" height="130" alt="Набор бокалов для вина 440 мл Libbey Style (31-225-078)" title="Набор бокалов для вина 440 мл Libbey Style (31-225-078)" ></a></td>
+				
+				<td><a onclick="Analytics.trackLinkClick(event,'novelty',Analytics.getContext(),'/dacha-sad-ogorod/posuda/bokaly_stakany_rumki',8)" href="http://www.sokol.ua/nabir-bokaliv-dlya-vina-540ml-l-39-esprit-du-vin-6sht-31-225-079-a5508/p236327/"><img src="http://i5.sokol.org.ua/goods/4973/4973479.jpg" width="50" height="130" alt="Набор бокалов для вина 540 мл Libbey (31-225-079)" title="Набор бокалов для вина 540 мл Libbey (31-225-079)" ></a></td>
+				</tr>
+					<tr class="details">																
+				<td id="catalog_item234780">
+										<div class="title"><a onclick="Analytics.trackLinkClick(event,'novelty',Analytics.getContext(),'/computer-equipment/office-equipment/ibp-ups-i-opcii-13655/ups',5)" href="http://www.sokol.ua/ibp-ups-powercom-imd-1200ap-lcd-39b3d/p234780/">ИБП (UPS) Powercom IMD-1200AP LCD</a></div>
+																		<div class="price price-old">
+								<span class="uah" name="uah_old"></span>
+								<span class="usd" name="usd_old"></span>
+							</div>
+												<div class="price"><span class="uah" name="uah">1&nbsp;836&nbsp;грн.</span> <span class="usd" name="usd">154&nbsp;$</span></div>
+										<div class="to-cart" name="buy_details_small"></div>
+					<script type="text/javascript">GoodsCatalog.add(234780)</script>
+				</td>
+				
+				<td id="catalog_item235369">
+										<div class="title"><a onclick="Analytics.trackLinkClick(event,'novelty',Analytics.getContext(),'/sport_otdih_turizm/sport-24daa/bolshoj-tennis-262b8',6)" href="http://www.sokol.ua/raketka-head-youtek-graphene-radical-mp-u20-2014-230-514-123cd/p235369/">Ракетка HEAD YouTek Graphene Radical MP U20 2014 (230-514)</a></div>
+																		<div class="price price-old">
+								<span class="uah" name="uah_old"></span>
+								<span class="usd" name="usd_old"></span>
+							</div>
+												<div class="price"><span class="uah" name="uah">3&nbsp;000&nbsp;грн.</span> <span class="usd" name="usd">251&nbsp;$</span></div>
+										<div class="to-cart" name="buy_details_small"></div>
+					<script type="text/javascript">GoodsCatalog.add(235369)</script>
+				</td>
+				
+				<td id="catalog_item236326">
+										<div class="title"><a onclick="Analytics.trackLinkClick(event,'novelty',Analytics.getContext(),'/dacha-sad-ogorod/posuda/bokaly_stakany_rumki',7)" href="http://www.sokol.ua/nabir-bokaliv-dlya-vina-440ml-style-3sht-31-225-078-9ca8b/p236326/">Набор бокалов для вина 440 мл Libbey Style (31-225-078)</a></div>
+																		<div class="price price-old">
+								<span class="uah" name="uah_old"></span>
+								<span class="usd" name="usd_old"></span>
+							</div>
+												<div class="price"><span class="uah" name="uah">75&nbsp;грн.</span> <span class="usd" name="usd">6&nbsp;$</span></div>
+										<div class="to-cart" name="buy_details_small"></div>
+					<script type="text/javascript">GoodsCatalog.add(236326)</script>
+				</td>
+				
+				<td id="catalog_item236327">
+										<div class="title"><a onclick="Analytics.trackLinkClick(event,'novelty',Analytics.getContext(),'/dacha-sad-ogorod/posuda/bokaly_stakany_rumki',8)" href="http://www.sokol.ua/nabir-bokaliv-dlya-vina-540ml-l-39-esprit-du-vin-6sht-31-225-079-a5508/p236327/">Набор бокалов для вина 540 мл Libbey (31-225-079)</a></div>
+																		<div class="price price-old">
+								<span class="uah" name="uah_old"></span>
+								<span class="usd" name="usd_old"></span>
+							</div>
+												<div class="price"><span class="uah" name="uah">199&nbsp;грн.</span> <span class="usd" name="usd">17&nbsp;$</span></div>
+										<div class="to-cart" name="buy_details_small"></div>
+					<script type="text/javascript">GoodsCatalog.add(236327)</script>
+				</td>
+				</tr>
+												
+							</table>
+		</div>
+	</div>
+</section>
+		
+
+	<section id="" class="named-block top-search-keywords">
+	
+	
+	<header class="head">
+		<div class="container">
+			<h2>Популярные поисковые запросы</h2>
+		</div>
+	</header>
+
+
+	
+	<div class="inner">
+		<div class="container">
+			
+	
+		<div class="row one-fourth">
+		<ul class="cell">
+									<li><a onclick="Analytics.trackLinkClick(event,'On-main','popular-keyword','удлинитель')" href="http://www.sokol.ua/search/?text=удлинитель">удлинитель</a></li>
+											<li><a onclick="Analytics.trackLinkClick(event,'On-main','popular-keyword','usb hub')" href="http://www.sokol.ua/search/?text=usb+hub">usb hub</a></li>
+											<li><a onclick="Analytics.trackLinkClick(event,'On-main','popular-keyword','тостер')" href="http://www.sokol.ua/search/?text=тостер">тостер</a></li>
+											<li><a onclick="Analytics.trackLinkClick(event,'On-main','popular-keyword','sdhc')" href="http://www.sokol.ua/search/?text=sdhc">sdhc</a></li>
+											<li><a onclick="Analytics.trackLinkClick(event,'On-main','popular-keyword','dakine')" href="http://www.sokol.ua/search/?text=dakine">dakine</a></li>
+									</ul><ul class="cell">
+											<li><a onclick="Analytics.trackLinkClick(event,'On-main','popular-keyword','сетевой фильтр')" href="http://www.sokol.ua/search/?text=сетевой+фильтр">сетевой фильтр</a></li>
+											<li><a onclick="Analytics.trackLinkClick(event,'On-main','popular-keyword','flash')" href="http://www.sokol.ua/search/?text=flash">flash</a></li>
+											<li><a onclick="Analytics.trackLinkClick(event,'On-main','popular-keyword','триммер')" href="http://www.sokol.ua/search/?text=триммер">триммер</a></li>
+											<li><a onclick="Analytics.trackLinkClick(event,'On-main','popular-keyword','веб камера')" href="http://www.sokol.ua/search/?text=веб+камера">веб камера</a></li>
+											<li><a onclick="Analytics.trackLinkClick(event,'On-main','popular-keyword','лампа')" href="http://www.sokol.ua/search/?text=лампа">лампа</a></li>
+									</ul><ul class="cell">
+											<li><a onclick="Analytics.trackLinkClick(event,'On-main','popular-keyword','fly')" href="http://www.sokol.ua/search/?text=fly">fly</a></li>
+											<li><a onclick="Analytics.trackLinkClick(event,'On-main','popular-keyword','microSD')" href="http://www.sokol.ua/search/?text=microSD">microSD</a></li>
+											<li><a onclick="Analytics.trackLinkClick(event,'On-main','popular-keyword','гигрометр')" href="http://www.sokol.ua/search/?text=гигрометр">гигрометр</a></li>
+											<li><a onclick="Analytics.trackLinkClick(event,'On-main','popular-keyword','ибп')" href="http://www.sokol.ua/search/?text=ибп">ибп</a></li>
+											<li><a onclick="Analytics.trackLinkClick(event,'On-main','popular-keyword','гарнитура')" href="http://www.sokol.ua/search/?text=гарнитура">гарнитура</a></li>
+									</ul><ul class="cell">
+											<li><a onclick="Analytics.trackLinkClick(event,'On-main','popular-keyword','клавиатура')" href="http://www.sokol.ua/search/?text=клавиатура">клавиатура</a></li>
+											<li><a onclick="Analytics.trackLinkClick(event,'On-main','popular-keyword','кабель hdmi')" href="http://www.sokol.ua/search/?text=кабель+hdmi">кабель hdmi</a></li>
+											<li><a onclick="Analytics.trackLinkClick(event,'On-main','popular-keyword','фоторамка')" href="http://www.sokol.ua/search/?text=фоторамка">фоторамка</a></li>
+											<li><a onclick="Analytics.trackLinkClick(event,'On-main','popular-keyword','фотобумага')" href="http://www.sokol.ua/search/?text=фотобумага">фотобумага</a></li>
+											<li><a onclick="Analytics.trackLinkClick(event,'On-main','popular-keyword','wifi')" href="http://www.sokol.ua/search/?text=wifi">wifi</a></li>
+											</ul>
+	</div>
+
+		</div>
+	</div>
+
+</section>
+
+		
+
+	</section>
+
+	<aside class="column-right" role="complementary">
+		
+<section class="grey-block info-webshop">
+	<article class="info-webshop-i">
+		<div class="info-webshop-icon">
+			<img src="http://i.sokol.org.ua/design/box.png" alt="Наши товары" >
+		</div>
+		<div class="info-webshop-text">
+			<div class="info-webshop-title">У нас в продаже</div>
+			<div class="info-webshop-count">
+				<span class="amount">67 240</span>
+				<span>товаров</span>
+			</div>
+		</div>
+	</article>
+	<article class="info-webshop-i">
+		<div class="info-webshop-icon">
+			<img src="http://i.sokol.org.ua/design/bus.png" alt="Доставка" >
+		</div>
+		<div class="info-webshop-text">
+			<div class="info-webshop-title">Можем доставить уже сегодня</div>
+			<div class="info-webshop-count">
+				<span class="amount">8 986</span>
+				<span>товаров</span>
+			</div>
+		</div>
+	</article>
+</section>		<section id="cart-header-main"></section>
+<section id="cart-container-main"></section>
+<script type="text/javascript">
+    CartMain.init('cart-header-main');
+</script>		<script type="text/javascript">
+var b=[{"width":null,"height":null,"src":null,"alt":"\u0441\u043e\u043d\u0438+\u0430\u043f\u043b","url":"","is_object":0,"html_code":"<p><center><a href=\"http:\/\/www.sokol.ua\/producers\/s\/sony\/\"><img alt=\"SONY\" src=\"http:\/\/i.sokol.org.ua\/promotions\/5\/5254.jpg\" style=\"height:78px; width:240px\" \><\/a> <a href=\"http:\/\/www.sokol.ua\/producers\/a\/apple\/\"><img alt=\"APPLE\" src=\"http:\/\/i.sokol.org.ua\/promotions\/5\/5255.jpg\" style=\"height:78px; width:240px\" \><\/a><br>\r<a href=\"http:\/\/www.sokol.ua\/promotions\/smart_tv_teper_vse_prosto.html\"><img src=\"http:\/\/i6.sokol.org.ua\/promotions\/6\/6781.jpg\" width=\"240\" height=\"240\" alt=\"\u041b\u0443\u0447\u0448\u0430\u044f \u0446\u0435\u043d\u0430!\" title=\"\u041b\u0443\u0447\u0448\u0430\u044f \u0446\u0435\u043d\u0430!\" \><\/center><\/p>"},{"width":"240","height":"240","src":"http:\/\/i2.sokol.org.ua\/media\/0\/83.jpg","alt":"Smart TV (LG)","url":"http:\/\/www.sokol.ua\/promotions\/smart_tv_teper_vse_prosto.html","is_object":0,"html_code":""}];
+if( b && b.length)
+	document.write(App.getHTML('<div class=\"visual\"> <div class=\"container\"> {if html_code} ${html_code} {else} {if is_object} <object classid=\"clsid:d27cdb6e-ae6d-11cf-96b8-444553540000\" codebase=\"http:\/\/download.macromedia.com\/pub\/shockwave\/cabs\/flash\/swflash.cab#version=5,0,0,0\" width=\"${width}\" height=\"${height}\" align=\"top\"> <param name=\"movie\" value=\"${src}?url=${url}\"> <param name=\"quality\" value=\"high\"> <param name=\"bgcolor\" value=\"#FFFFFF\"> <param name=\"wmode\" value=\"transparent\"> <embed src=\"${src}?url=${url}\" menu=\"false\" quality=\"high\" width=\"${width}\" height=\"${height}\" name=\"intro\" align=\"top\" wmode=\"transparent\" type=\"application\/x-shockwave-flash\" pluginspage=\"http:\/\/www.macromedia.com\/go\/getflashplayer\" bgcolor=\"#FFFFFF\"> <\/embed> <\/object> {else} {if url == \"http:\/\/www.sokol.ua\/#kingston-verificator\"} <a href=\"#\" onclick=\"return false;\" id=\"kingston-verificator\"><img class=\"visual-horizontal-img\" src=\"${src}\" width=\"${width}\" height=\"${height}\" alt=\"${alt}\" \><\/a> <script type=\"text\/javascript\"> var kingston_verificator = new KingstonVerificator_class(); kingston_verificator.init(); <\/script> {else} <a href=\"${url}\"><img class=\"visual-horizontal-img\" src=\"${src}\" width=\"${width}\" height=\"${height}\" alt=\"${alt}\" \><\/a> {\/if} {\/if} {\/if} <div class=\"link\"> <!-- <a href=\"http:\/\/www.sokol.ua\/advt\/\">\u0420\u0435\u043a\u043b\u0430\u043c\u0430 \u043d\u0430 \u0441\u0430\u0439\u0442\u0435<\/a> --> <\/div> <\/div> <\/div>',b.getRandom()))
+</script>		
+
+	<section id="" class="news-reviews">
+	
+
+	
+	<div class="inner">
+		<div class="container">
+			<header><h2>
+	<a href="http://www.sokol.ua/news/">Новости</a> <a href="http://www.sokol.ua/news/recent.rss"><img src="http://i2.sokol.org.ua/design/rss-icon.png" width="16" height="16" alt="RSS"></a>
+</h2></header>
+			
+	
+			<article class="item">
+				<div class="image"><a href="http://www.sokol.ua/news/2014/05/#new_modul_pamyati_ot_hyperx"><img src="http://i4.sokol.org.ua/news/0/678.jpg" width="50" height="50" alt="Новинка среди модулей памяти от HyperX!" title="Новинка среди модулей памяти от HyperX!" ></a></div>
+				<div class="text"><a href="http://www.sokol.ua/news/2014/05/#new_modul_pamyati_ot_hyperx">Новинка среди модулей памяти от HyperX!</a></div>
+	</article>
+		<article class="item">
+				<div class="image"><a href="http://www.sokol.ua/news/2014/05/#grafik_rabotu_na_mayskie"><img src="http://i2.sokol.org.ua/news/0/660.jpg" width="50" height="50" alt="График работы в период майских праздников!" title="График работы в период майских праздников!" ></a></div>
+				<div class="text"><a href="http://www.sokol.ua/news/2014/05/#grafik_rabotu_na_mayskie">График работы в период майских праздников!</a></div>
+	</article>
+		<article class="item">
+				<div class="image"><a href="http://www.sokol.ua/news/2014/04/#novye_materinskie_platy_ot_msi"><img src="http://i1.sokol.org.ua/news/0/675.jpg" width="50" height="50" alt="Новые материнские платы от MSI!" title="Новые материнские платы от MSI!" ></a></div>
+				<div class="text"><a href="http://www.sokol.ua/news/2014/04/#novye_materinskie_platy_ot_msi">Новые материнские платы от MSI!</a></div>
+	</article>
+		<article class="item">
+				<div class="image"><a href="http://www.sokol.ua/news/2014/04/#novaya_garnitura_ot_hyperx"><img src="http://i3.sokol.org.ua/news/0/667.jpg" width="50" height="50" alt="HyperX выпускает новую игровую гарнитуру!" title="HyperX выпускает новую игровую гарнитуру!" ></a></div>
+				<div class="text"><a href="http://www.sokol.ua/news/2014/04/#novaya_garnitura_ot_hyperx">HyperX выпускает новую игровую гарнитуру!</a></div>
+	</article>
+		<div class="all"><a href="http://www.sokol.ua/news/" class="with-arrow"><span>Смотреть все</span> <span class="arrow">&rarr;</span></a></div>
+
+		</div>
+	</div>
+
+</section>
+
+		
+
+	<section id="" class="news-reviews">
+	
+
+	
+	<div class="inner">
+		<div class="container">
+			<header><h2>
+	<a href="http://www.sokol.ua/promotions/" class="red">Акции</a> <a href="http://www.sokol.ua/promotions/recent.rss"><img src="http://i2.sokol.org.ua/design/rss-icon.png" width="16" height="16" alt="RSS"></a>
+</h2></header>
+			
+    <div id="promotions-block">
+	
+			<article  class="item">
+				<div class="image"><a href="http://www.sokol.ua/promotions/skidka_10_procentov.html"><img src="http://i1.sokol.org.ua/promotions/6/6980.jpg" width="50" height="30" alt="Скидка 10% на акционную продукцию!" title="Скидка 10% на акционную продукцию!" ></a></div>
+				<div class="text"><a href="http://www.sokol.ua/promotions/skidka_10_procentov.html">Скидка 10% на акционную продукцию!</a></div>
+	</article>
+		<article  class="item">
+				<div class="image"><a href="http://www.sokol.ua/promotions/smart_tv_teper_vse_prosto.html"><img src="http://i7.sokol.org.ua/promotions/6/6682.jpg" width="50" height="30" alt="Smart TV. Теперь все просто!" title="Smart TV. Теперь все просто!" ></a></div>
+				<div class="text"><a href="http://www.sokol.ua/promotions/smart_tv_teper_vse_prosto.html">Smart TV. Теперь все просто!</a></div>
+	</article>
+		<article  class="item">
+				<div class="image"><a href="http://www.sokol.ua/promotions/rozugrush_blu_ray_proigrivatelaj_lg.html"><img src="http://i6.sokol.org.ua/promotions/6/6916.jpg" width="50" height="30" alt="Выиграй Blu-ray проигрыватель LG!" title="Выиграй Blu-ray проигрыватель LG!" ></a></div>
+				<div class="text"><a href="http://www.sokol.ua/promotions/rozugrush_blu_ray_proigrivatelaj_lg.html">Выиграй Blu-ray проигрыватель LG!</a></div>
+	</article>
+		<div class="all"><a href="http://www.sokol.ua/promotions/" class="with-arrow"><span>Смотреть все</span> <span class="arrow">&rarr;</span></a></div>
+    </div>
+
+		</div>
+	</div>
+
+</section>
+
+		
+
+	<section id="" class="articles-reviews">
+	
+
+	
+	<div class="inner">
+		<div class="container">
+			<header><h2>
+	<a href="http://www.sokol.ua/articles/">Статьи и обзоры</a> <a href="http://www.sokol.ua/articles/recent.rss"><img src="http://i2.sokol.org.ua/design/rss-icon.png" width="16" height="16" alt="RSS"></a>
+</h2></header>
+			
+	
+			<article class="item without-image">
+				<div class="text"><a href="http://www.sokol.ua/articles/203.html">Выиграйте тур от Hottur.com.ua</a></div>
+	</article>
+		<article class="item">
+				<div class="image"><a href="http://www.sokol.ua/articles/202.html"><img src="http://i7.sokol.org.ua/articles/1/1218.jpg" width="50" height="46" alt="Samsung представил новые версии смартфонов Galaxy S4 и S4 mini – Black Edition" title="Samsung представил новые версии смартфонов Galaxy S4 и S4 mini – Black Edition" ></a></div>
+				<div class="text"><a href="http://www.sokol.ua/articles/202.html">Samsung представил новые версии смартфонов Galaxy S4 и S4 mini – Black Edition</a></div>
+	</article>
+		<article class="item">
+				<div class="image"><a href="http://www.sokol.ua/articles/201.html"><img src="http://i5.sokol.org.ua/articles/1/1215.jpg" width="50" height="37" alt="Olympus выпустил три новых фотокамеры и два объектива" title="Olympus выпустил три новых фотокамеры и два объектива" ></a></div>
+				<div class="text"><a href="http://www.sokol.ua/articles/201.html">Olympus выпустил три новых фотокамеры и два объектива</a></div>
+	</article>
+		<article class="item">
+				<div class="image"><a href="http://www.sokol.ua/articles/200.html"><img src="http://i3.sokol.org.ua/articles/1/1208.jpg" width="50" height="81" alt="Обзор часофона AirOn Connect" title="Обзор часофона AirOn Connect" ></a></div>
+				<div class="text"><a href="http://www.sokol.ua/articles/200.html">Обзор часофона AirOn Connect</a></div>
+	</article>
+		<article class="item">
+				<div class="image"><a href="http://www.sokol.ua/articles/199.html"><img src="http://i6.sokol.org.ua/articles/1/1202.jpg" width="50" height="50" alt="Компания iOttie получила премию за автодержатель Easy Flex Wireless" title="Компания iOttie получила премию за автодержатель Easy Flex Wireless" ></a></div>
+				<div class="text"><a href="http://www.sokol.ua/articles/199.html">Компания iOttie получила премию за автодержатель Easy Flex Wireless</a></div>
+	</article>
+		<article class="item">
+				<div class="image"><a href="http://www.sokol.ua/articles/198.html"><img src="http://i5.sokol.org.ua/articles/1/1198.jpg" width="50" height="50" alt="Новинка от AMD – сверхмощные гибридные процессоры A10-7850K и A10-7700K" title="Новинка от AMD – сверхмощные гибридные процессоры A10-7850K и A10-7700K" ></a></div>
+				<div class="text"><a href="http://www.sokol.ua/articles/198.html">Новинка от AMD – сверхмощные гибридные процессоры A10-7850K и A10-7700K</a></div>
+	</article>
+		<article class="item">
+				<div class="image"><a href="http://www.sokol.ua/articles/kak_vybrat_ibp.html"><img src="http://i3.sokol.org.ua/articles/1/1189.jpg" width="50" height="50" alt="Как выбрать ИБП?" title="Как выбрать ИБП?" ></a></div>
+				<div class="text"><a href="http://www.sokol.ua/articles/kak_vybrat_ibp.html">Как выбрать ИБП?</a></div>
+	</article>
+		<div class="all"><a href="http://www.sokol.ua/articles/" class="with-arrow"><span>Смотреть все</span> <span class="arrow">&rarr;</span></a></div>
+
+		</div>
+	</div>
+
+</section>
+
+		<div class="social-like-box">
+		<div class="container">
+		<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fsokol.ua&amp;width=292&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=false&amp;height=280" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:372px;" allowTransparency="true"></iframe>
+	</div>
+	</div>
+		
+	</aside>
+</div>
+										<article id="text-description-page" class="text-description-page">
+			<div class="container">
+				Компания «Сокол» - это уникальная организация, которая позволяет выбрать и приобрести товары различной сферы использования. Огромный ассортимент продукции, которая сегодня представлена в продаже, насчитывает десятки тысяч различных товаров, удобно разделенных на сайте по таким категориям, как:<br>- портативная техника;<br>- компьютерная и оргтехника;<br>- телефония;<br>- аудио и видеотехника;<br>- фото и видеокамеры;<br>- бытовая техника;<br>- автотовары;<br>- товары для детей;<br>- дом, сад и декор;<br>- спорт, отдых и туризм.<br>Для удобства каждого посетителя сайта компании «Сокол», мы разработали удобную разбивку товаров не только по категориям, и на подкатегории, позволяющие заметно быстрее отыскать нужные единицы товаров. К тому же, в каждом разделе Вы сможете постоянно видеть последние поступления той или иной продукции, а также товары, на которые распространяются скидки или действует распродажа.<br> Процесс выбора нужной продукции вызывает у Вас дополнительные вопросы или сложности? Тогда ознакомьтесь с рекомендациями специалистов, а также получите море полезной и актуальной информации в разделе «Статьи и обзоры по теме», которые автоматически будут сортироваться в зависимости от раздела, выбранного пользователем. В них собрана последняя и актуальная информация, касающаяся новых товаров, выпущенных известными производителями и доступными к заказу сегодня либо в ближайшее время.<br>Обращаем Ваше внимание и на такие преимущества покупки товаров в нашей компании, как доступность оптовых цен во время оформления заказа каждому зарегистрированному пользователю. А значит, отныне каждый желающий сможет по минимально возможной цене приобрести качественные и сертифицированные товары, нажав для оформления своего заказа всего лишь несколько кнопок на сайте. <br>Наши преимущества<br>Решив единожды воспользоваться нашими услугами, Вы непременно захотите приобрести в компании «Сокол» еще и еще раз, поскольку каждому клиенту мы предлагаем огромное количество преимуществ во время взаимовыгодного сотрудничества. Речь идет о наличии большого ассортимента товаров, собранных в одном единственном месте. А это значит, что Вам больше не нужно будет ходить по стационарным магазинам, расположенным в разных районах города с целью поисков нужных товаров. Поскольку у нас каждый отечественный потребитель сможет приобрести и домашние тренажеры, и детский транспорт, и многие другие разноплановые изделия по минимально возможным ценам в регионе. <br>Кроме того, сегодня мы рады предложить всем своим клиентам только качественную и сертифицированную продукцию от проверенных торговых марок. Среди них стоит отметить такие известные и проверенные временем компании, как <a href="http://www.sokol.ua/producers/L/lenovo/" title="Lenovo"><a href="http://www.sokol.ua/producers/L/lenovo/" title="Lenovo">lenovo</a></a>, <a href="http://www.sokol.ua/producers/S/samsung/" title="Samsung"><a href="http://www.sokol.ua/producers/S/samsung/" title="Samsung">samsung</a></a>, <a href="http://www.sokol.ua/producers/N/nokia/" title="Nokia"><a href="http://www.sokol.ua/producers/N/nokia/" title="Nokia">nokia</a></a>, а также многие другие, благодаря продукции которых мы постоянно пополняем свой ассортимент товаров  актуальными новинками. <br>На сайте нашей компании Вы сможете найти самую лучшую бытовую технику, продажа которой сегодня выступает одним из наших главных направлений деятельности. За 10 лет успешного существования и постоянного развития предлагаемых услуг, мы получили огромное количество положительных отзывов от своих постоянных клиентов, а также завоевали награды и признания со стороны отечественных потребителей. У нас Вы всегда сможете приобрести товары и технику, цены на которую будут намного ниже рыночных. Данный факт, прежде всего, объясняется нашим высоким уровнем профессионализма, который позволил наладить взаимовыгодное сотрудничество с крупными производителями, минуя услуги и накрутки многочисленных посредников.<br>Поэтому сегодня своим клиентам мы сможем предложить максимально выгодные условия для приобретения широкого спектра товаров. Работать с нами очень удобно и выгодно, поскольку на сайте компании Вы всегда найдете информацию, касающуюся характеристик нужных товаров, способов их оплаты и доставки по указанному адресу. К тому же, постоянно устраиваемые акции, распродажи, а также конкурсные программы, позволят Вам не просто приобрести качественную технику, но и выиграть при этом ценные призы и подарки. Мы желаем Вам приятных покупок!<br>
+			</div>
+		</article>
+			</div>
+		<footer class="footer" id="footer" role="contentinfo">
+	<div class="columns">
+		<div class="column-left">
+			<div class="container">
+				<div class="copyrights">&copy; 2002&ndash;2014 Компания «Сокол»
+					<p>
+	<a href="https://plus.google.com/108263160819082735642/" rel="publisher" rel="nofollow">
+		<span>Sokol.ua</span>
+	</a>
+	<span>&nbsp;на&nbsp;Google&nbsp;+</span>
+</p>				</div>
+				<div class="contacts">
+					<!--span id="footer-phone-note">
+					</span-->
+					<script type="text/javascript">Partners.initFooter()</script>
+				</div>
+				<div class="counters">
+					<!-- Yandex.Metrika counter -->
+<div style="display:none;"><script type="text/javascript">
+(function(w, c) {
+	(w[c] = w[c] || []).push(function() {
+		try {
+			w.yaCounter6856894 = new Ya.Metrika({id:6856894,
+					clickmap:true,
+					trackLinks:true,
+					accurateTrackBounce:true,
+					enableAll: true,
+					webvisor:true
+			});
+		}
+		catch(e) { }
+	});
+})(window, 'yandex_metrika_callbacks');
+</script></div>
+<script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript" defer="defer"></script>
+<noscript><div><img src="//mc.yandex.ru/watch/6856894" style="position:absolute; left:-9999px;" alt="" ></div></noscript>
+<!-- /Yandex.Metrika counter -->
+				</div>
+			</div>
+		</div>
+		<div class="column-right">
+			<div class="container bg">
+				<table><tr>
+					<td class="sub-menu">
+						<ul class="first">
+																							<li><a href="http://www.sokol.ua/about/">О компании</a></li>
+																															<li><a href="http://www.sokol.ua/offline-shops/">Магазин</a></li>
+																															<li><a href="http://www.sokol.ua/dealers/">Дилерам</a></li>
+																													<li><a href="http://www.sokol.ua/contacts/">Контакты</a></li>
+													</ul>
+						<ul>
+														<li><a href="http://www.sokol.ua/payments-and-deliveries/">Оплата и доставка</a></li>
+																					<li><a href="http://www.sokol.ua/warranty-and-services/">Гарантия и сервис</a></li>
+																					<li><a href="http://www.sokol.ua/sitemap/">Карта сайта</a></li>
+													</ul>
+					</td>
+					<td class="social-icons">
+						<p>Мы в социальных сетях:</p>
+						<p>
+							<a href="http://www.facebook.com/sokol.ua" target="_blank" rel="nofollow"><img src="http://i6.sokol.org.ua/design/icon-fb.png" width="32" height="32"></a>
+<a href="https://twitter.com/#!/sokol_ua" target="_blank"><img src="http://i1.sokol.org.ua/design/icon-twitter.png" width="32" height="32"></a>
+						</p>
+					</td>
+					<td class="counter">
+											</td>
+					<td class="owox">
+						<noindex><a href="http://www.owox.ua/" rel="nofollow"><img src="http://i4.sokol.org.ua/design/owox-logo.png" width="100" height="20" alt="OWOX"></a>
+						<div class="text">Разработан в <a href='http://www.owox.ua/' rel='nofollow'>компании OWOX</a></div></noindex>
+					</td>
+				</tr></table>
+			</div>
+		</div>
+	</div>
+</footer>	</div>
+		
+				</body>
+</html>

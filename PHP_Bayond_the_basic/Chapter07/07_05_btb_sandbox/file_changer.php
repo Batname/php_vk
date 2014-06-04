@@ -13,7 +13,7 @@ echo $owner_array['name'];
 
 echo "<br />";
 
-chown('file_permissions.php', 'kevin');
+//chown('file_permissions.php', 'kevin');
 // chown only works if PHP is superuser
 // making webserver/PHP a superuser is a big security issue
 
@@ -25,7 +25,7 @@ echo $owner_array['name'];
 echo "<br />";
 
 echo substr(decoct(fileperms('file_permissions.php')), 2);
-chmod('file_permissions.php', 0444);
+chmod('file_permissions.php', 0755);
 echo substr(decoct(fileperms('file_permissions.php')), 2);
 
 echo "<br />";
